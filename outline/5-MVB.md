@@ -75,9 +75,4 @@
 | Portable routers (AX5400) | NAS + closed Wi-Fi network |
 | Label maker or name tags | For team kits + storage boxes |
 
----
 
-Would you like this formatted as:
-- A PDF handout for each team?
-- A Google Sheet with tabs for Alpha vs Beta variants?
-- Printable **team crate checklists** for packing before deployment?
