@@ -73,3 +73,13 @@ Examples:
 - LEGO build focuses on structure + presentation, not robotics
 - Optional NXT servo motion can be added if time allows
 
+---
+
+### 🛠️ **Design Constraint – Integration Protocol**
+
+> ✨ Mission Integration Rule: “Your solution must output a signal or result that another team can use — either physically (via LEGO motion), digitally (via Wi-Fi), or visually (via display). NASA systems are never standalone — your tech is one part of a mission.”
+
+- May **drop sorted item** into a LEGO container built by Vega
+- May **send a GPIO signal or file** indicating detection to be picked up by Orion
+- Result must be **usable** by another team’s logic
+
