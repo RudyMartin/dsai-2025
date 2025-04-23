@@ -89,16 +89,12 @@
 
 ---
 
-## BONUS 💡 Ideas
+## 💡 Ideas for Recording Progress
 
-- 📓 Student Flight Logbook for reflections
+- 📓 Team Flight Logbook for reflections / presentations
 - 🛰️ Mission Patch Design (team logos)
 - 📊 Printed dashboards for judges
 - 🎥 Optional video diary station (record short clips each day)
 
 ---
 
-Would you like:
-- A PDF version of this plan?
-- Editable slide decks for the kickoff or final presentation template?
-- A team worksheet version that guides students through each phase?
