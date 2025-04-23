@@ -1,12 +1,19 @@
 🛰️ Recommended Team Structure
 
 Mission Group	Teams
-Team Nova – Vision AI Systems	🔹 Nova Alpha (camera → ESP32)
-🔹 Nova Beta (camera → Pi 5 + dashboard)
-Team Vega – Sensor Monitoring	🔹 Vega Alpha (sensors → Wi-Fi logs)
-🔹 Vega Beta (sensors → direct display/OLED)
-Team Orion – System Command + Sync	🔹 Orion Alpha (NAS sync for logs)
-🔹 Orion Beta (peer-to-peer messaging or MQTT)
+
+Team Nova – Vision AI Systems	
+  🔹 Nova Alpha (camera → ESP32)
+  🔹 Nova Beta (camera → Pi 5 + dashboard)
+
+Team Vega – Sensor Monitoring	
+  🔹 Vega Alpha (sensors → Wi-Fi logs)
+  🔹 Vega Beta (sensors → direct display/OLED)
+
+Team Orion – System Command + Sync	
+  🔹 Orion Alpha (NAS sync for logs)
+  🔹 Orion Beta (peer-to-peer messaging or MQTT)
+
 🧪 Strategy Pair Examples
 
 Challenge	Alpha Strategy	Beta Strategy
