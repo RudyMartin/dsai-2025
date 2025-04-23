@@ -64,6 +64,6 @@ Motor moves arm ➜ LEGO platform rotates or pushes object
 
 ---
 
-Would you like to:
-- Proceed to **Nova Beta** next?
-- Or tweak any part of Nova Alpha first?
+🛠️ Design Constraint
+
+>✨ Mission Integration Rule: “Your solution must output a signal or result that another team can use — either physically (via LEGO motion), digitally (via Wi-Fi), or visually (via display). NASA systems are never standalone — your tech is one part of a mission.”
