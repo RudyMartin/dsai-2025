@@ -1,6 +1,7 @@
+
 🛰️ **Recommended Team Structure**
 
-Mission Group	Teams
+> Mission Group	Teams  are  3-5 students paired based on skills for mission.
 
 **Team Nova – Vision AI Systems**
 <ul/>  🔹 Nova Alpha (camera → ESP32)</ul>
@@ -15,8 +16,10 @@ Mission Group	Teams
 <ul/>  🔹 Orion Beta (peer-to-peer messaging or MQTT)</ul>
 
 
+---
+
 🧪 **Strategy Pair Examples**
-<br/>
+
 
 |Challenge	|Alpha Strategy	|Beta Strategy|
 |-----------|--------------|--------------|
