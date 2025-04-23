@@ -61,6 +61,7 @@ Motor moves arm ➜ LEGO platform rotates or pushes object
 - Model can be trained quickly with 10–15 images per object class
 - Pre-made detection script + NXT-G program can be provided
 - Students can build and iterate on mechanics while training model
+- Teams agree in advance on **event names or file paths or deliver method**
 
 ---
 
