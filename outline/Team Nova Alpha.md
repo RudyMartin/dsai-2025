@@ -1,70 +1,90 @@
-## 🛰️ Team Nova Alpha – LEGO Integration Plan
-
-### 1. 🎯 Mission Role
-> Build an embedded AI system that detects specific LEGO objects and triggers a mechanical reaction using LEGO/NXT — with minimal power and no internet.
+Absolutely! Here's the **refreshed and complete version** of **Team Nova Alpha** using your 6-part format, now with the **Integration Constraint** included at the end — just like we did for Nova Beta.
 
 ---
 
-### 2. 🧱 LEGO Build Purpose
-Create a **small object sorting platform or gate**:
-- Students present a LEGO object (e.g., red brick, yellow plate, wheel) in front of a mounted ESP32 camera
-- Based on detection, the system **activates an NXT servo motor**
-- The servo moves an arm, gate, or platform piece to either:
-  - **Approve** and "accept" the object (e.g. push it into a bin)
-  - Or **reject** it (e.g. rotate away)
+## 🛰️ Team Nova Alpha – LEGO Integration Plan (Embedded Vision + Physical Action)
 
 ---
 
-### 3. 🧰 Required LEGO Parts
+### 1. 🎯 **Mission Role**
+> Build an **embedded AI system** using the ESP32-S3 to detect LEGO objects and **trigger a robotic action** using LEGO/NXT — with **minimal power** and **no internet**.
+
+This team operates at the **edge**, focusing on efficient, fast, local execution.
+
+---
+
+### 2. 🧱 **LEGO Build Purpose**
+Create a **simple object classifier + action platform**:
+- Students place a LEGO object (e.g., red brick, wheel, tool) in front of the camera
+- Based on the prediction, the system **activates a NXT servo motor**
+- The motor moves a LEGO **gate, arm, or trapdoor** to sort or respond to the item:
+  - ✅ Accept the item into a bin or slot
+  - ❌ Reject it by turning it away or closing access
+
+---
+
+### 3. 🧰 **Required LEGO + Hardware Parts**
 
 | Type | Qty | Purpose |
 |------|-----|---------|
-| 🔹 Base plate | 1 | Stable platform for presentation |
-| 🔹 Bricks (3+ object types) | 6–10 | Objects to classify in Roboflow |
-| 🔹 Technic beams | 10+ | Frame for object area and servo arm |
-| 🔹 Pegs and axles | 10+ | Connect rotating parts |
-| 🔹 Small wheel or plate | 1 | Optional: make rotating platform |
-| 🔹 NXT servo motor | 1 | Action trigger based on prediction |
+| 🔹 LEGO base plate | 1 | Stable surface for object staging |
+| 🔹 LEGO bricks (3+ object types) | 6–10 | Sample set for classification |
+| 🔹 Technic beams | 10–15 | Build the frame and mechanical arm |
+| 🔹 Pegs, axles, and stops | 10+ | Connect movable parts (arm/gate) |
+| 🔹 Turntable or hinge | 1 (optional) | Add rotating element |
+| 🔹 NXT servo motor | 1 | Receives signal from ESP32 to move LEGO mechanism |
+| 🔹 ESP32-S3 | 1 | Runs quantized model locally |
+| 🔹 OV2640 camera | 1 | Captures object image |
+| 🔹 Battery or USB-C power | 1 | Portable use |
 
 Optional:
-- **Color-coded bins or sides** for sorting outcome
+- Colored bins or trays for accepted vs rejected classes
+- Stickers/labels for detected object classes
 
 ---
 
-### 4. 🧪 AI/System Actions
+### 4. 🧪 **AI/System Actions**
 
 | Component | Task |
-|----------|------|
-| **ESP32-S3** | Captures image, runs object detection locally |
-| **Roboflow-trained model** | Identifies class: Brick A, Brick B, etc. |
-| **ESP32 GPIO** | Sends HIGH signal or message to NXT |
-| **NXT** | Rotates LEGO mechanism based on received signal |
-| **LEGO** | Physically “accepts” or “rejects” item by moving a part |
+|-----------|------|
+| **ESP32-S3** | Captures image and runs TFLite Micro model |
+| **Roboflow-trained model** | Detects object class (e.g. Brick A, Brick B) |
+| **ESP32 GPIO or UART** | Sends command (e.g., "GATE_A") to NXT |
+| **NXT Brick + Servo** | Moves LEGO mechanism based on received signal |
+| **LEGO elements** | Provide visual/physical output of detection result |
 
 ---
 
-### 5. 🔁 Interaction Flow
+### 5. 🔁 **Interaction Flow (with Integration Constraint)**
 
 ```plaintext
-Student places object ➜ ESP32 identifies ➜ 
-Sends “open gate A” ➜ NXT receives command ➜ 
-Motor moves arm ➜ LEGO platform rotates or pushes object
+Student places object → ESP32 captures + classifies →
+Sends command (e.g. “rotate_gate_A”) →
+NXT motor responds with movement →
+(OPTIONAL) Action is logged or triggers a follow-up by Vega or Orion
 ```
 
----
-
-### 6. ⏱️ Feasibility in 24 Hours
-
-✅ **YES — Highly doable**
-
-- Small, focused build
-- Model can be trained quickly with 10–15 images per object class
-- Pre-made detection script + NXT-G program can be provided
-- Students can build and iterate on mechanics while training model
-- Teams agree in advance on **event names or file paths or deliver method**
+Example:  
+- Detects “Tool A” ➜ Opens hatch ➜ Drops into Vega’s environmental scanner build
 
 ---
 
-🛠️ Design Constraint
+### 6. ⏱️ **Feasibility in 24 Hours**
 
->✨ Mission Integration Rule: “Your solution must output a signal or result that another team can use — either physically (via LEGO motion), digitally (via Wi-Fi), or visually (via display). NASA systems are never standalone — your tech is one part of a mission.”
+✅ **YES – Highly doable**, even for novice teams:
+- Roboflow model can be trained quickly with ~10 images/class
+- ESP32 code can be preloaded or lightly templated
+- LEGO/NXT motion can be kept simple (1-move servo)
+- Teams can prototype cardboard or LEGO frames if Technic parts are limited
+
+---
+
+### 🛠️ **Design Constraint – Integration Protocol**
+
+> ✨ Mission Integration Rule: “Your solution must output a signal or result that another team can use — either physically (via LEGO motion), digitally (via Wi-Fi), or visually (via display). NASA systems are never standalone — your tech is one part of a mission.”
+
+- May **drop sorted item** into a LEGO container built by Vega
+- May **send a GPIO signal or file** indicating detection to be picked up by Orion
+- Result must be **usable** by another team’s logic
+
+
