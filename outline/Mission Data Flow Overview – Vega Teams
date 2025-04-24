@@ -1,0 +1,93 @@
+
+# 🌡️ Mission Data Flow Overview – Vega Teams  
+> Centered on Vega Alpha (sensor gating) and Vega Beta (status display + alerts), this outlines their full contribution to data tracking, rule enforcement, and immersive narrative.
+
+---
+
+## 🧭 Data Flow Structure: **Vega’s Role in Mission Safety**
+
+---
+
+### 🔹 1. Pre-Flight (Setup Phase)  
+Vega’s job: **calibrate sensors, define environmental thresholds, and prepare alert logic.**
+
+| Setup Item | Set By | Purpose | 🧠 Vega Role |
+|------------|--------|---------|--------------|
+| Sensor selection (light, temp, etc.) | Instructor / TA | Define measurable environmental risk | Pick sensors + wiring layout |
+| Threshold calibration (e.g., temp > 30°C) | Vega Alpha | Define gating logic for safety decisions | Test sensors with real light/temp |
+| OLED / LED setup | Vega Beta | Create real-time feedback loop | Display alert: OK / Unsafe |
+| Alert protocol | Instructor + Vega | Determine what triggers a red light or NXT response | “If temp > 30°C, blink red” or “raise flag” |
+
+---
+
+### 🔹 2. In-Flight (Live Run)  
+Vega’s job: **monitor conditions in real time and gate object entry based on thresholds.**
+
+| Source | Data Created | Format | Sent To | 🧠 Vega Action |
+|--------|--------------|--------|---------|----------------|
+| Temp/light sensors | Real-time readings | JSON/CSV or log | Display + Orion Alpha | Compare to threshold values |
+| Alert system | OLED output or RGB LED | Visual signal | All observers | Communicate safe/unsafe environment |
+| Gate decision (pass/fail) | Binary or log entry | Log row | Orion Alpha | Block or allow entry based on readings |
+| Optional: Log summary per flight | CSV or printed form | Orion Alpha | Flight-level overview of sensor behavior |
+
+---
+
+### 🔹 3. Post-Flight (Scrum & Review)  
+Vega’s job: **review environmental logs, detect unsafe entries, and explain gate logic.**
+
+| Action | Data Used | Outcome |
+|--------|-----------|---------|
+| Review of log + alerts | Sensor CSV, OLED history | Detect rule violations or borderline events |
+| Debug readings | Voltage drops, missed signals | Improve reliability |
+| Calibrate new thresholds (if needed) | Based on over/under alerting | Adaptive logic |
+| Storytelling | “Our deck was too hot for food. We raised a red alert and blocked entry.” | Supports mission narrative and presentations |
+
+---
+
+## 📋 What Vega Teams Add to the Manifest
+
+| Vega Role | Key Contribution | Used By |
+|-----------|------------------|---------|
+| **Vega Alpha** | Sensor data + pass/fail decision | Orion Alpha for environmental rule checks |
+| **Vega Beta** | OLED/LED output, alerts triggered | Orion Beta for alert visibility + logs |
+
+---
+
+## 🔐 Vega’s Data Availability Timeline
+
+| Phase | Data Type | When It’s Available | Notes |
+|-------|-----------|----------------------|-------|
+| Setup | Thresholds, calibration values | Day 1 | Defined via test readings |
+| In-flight | Sensor values + gate decision | Live | Tracked with logs / OLED |
+| Post-flight | Log export or summary sheet | End of each flight | Used in dashboard and audits |
+
+---
+
+## 🔍 Vega Rules & Data Dependencies
+
+| Rule | Data Needed | What Vega Provides |
+|------|-------------|--------------------|
+| R1 – No humans on Deck A if light > 70% | Light sensor reading | `light`, `true_class` (from Nova) |
+| R3 – Do not open hatch if temp > 30°C | Temp sensor + object type | `temperature`, `gate_decision` |
+| R4 – No food to Deck C if light > 80% | Light sensor | `light`, route logic |
+| R7 – Abort if sensor ping fails | Sensor status logs | Connection uptime or “ping ok” flag |
+| R9 – Require fresh sensor data (within 60 sec) | Sensor log timestamps | `last_updated`, `log_time` |
+| R11 – Alert if unsafe entry occurs | OLED/LED + alert logs | `alert_triggered`, `object_class` |
+
+---
+
+## 🎯 TA + Instructor Support Suggestions
+
+- ✅ Have Vega teams **log each alert decision**: “Allowed”, “Rejected”, “Alert shown”
+- ✅ Let students **simulate unsafe conditions** (e.g., shine light, heat sensor by hand)
+- ✅ Print a **Sensor Calibration Card**:
+  - Light safe = <70%
+  - Temp safe = <30°C
+  - OLED output = ✅ OK / ⚠️ ALERT
+
+- ✅ Use a **"Flight Environment Report"** to summarize:
+  - Number of unsafe readings
+  - Alerts triggered
+  - Object class that triggered most alerts
+
+--
