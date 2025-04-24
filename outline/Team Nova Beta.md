@@ -1,21 +1,20 @@
-## 🛰️ Team Nova Beta – LEGO Integration Plan (Full Inference + Logging + Handoff)
+## 🛰️ Team Nova Beta – Full Object Detection + Logging System (Raspberry Pi 5)
 
 ---
 
 ### 1. 🎯 **Mission Role**  
-> Deploy a **full object detection model** on Raspberry Pi 5 to identify mission-critical LEGO objects, **log predictions**, display results, and **trigger downstream team actions**.
+> Run full object detection models (TFLite or ONNX) on the Raspberry Pi 5.  
+Capture each object type and **log predictions**, **display classification**, and **sync results** to shared flight logs used by Vega and Orion teams for decisions.  
+This team is the **"vision AI with dashboard"** counterpart to Nova Alpha’s edge actuator.
 
 ---
 
 ### 2. 🧱 **LEGO Build Purpose**  
-Create a **stationary object inspection platform** for showcasing and testing different LEGO objects:
-- Students present an object under a fixed Pi camera
-- LEGO frame ensures consistent object positioning
-- Based on the detected class, the system:
-  - **Logs the result**
-  - **Displays the output visually**
-  - **Sends an alert or message to Team Vega or Team Orion**
-- Optional: move a small LEGO mechanism or flag using NXT servo based on detection
+Build a **structured object analysis station** where students can place LEGO objects for classification.  
+- Mounted camera captures images under consistent lighting  
+- LED screen or Pi dashboard displays predicted object class  
+- Optional: robotic turntable (with NXT servo) for object reveal or rotation  
+- No routing action here — this team is the **observer/logger**, not the router
 
 ---
 
@@ -23,63 +22,64 @@ Create a **stationary object inspection platform** for showcasing and testing di
 
 | Type | Qty | Purpose |
 |------|-----|---------|
-| 🔹 LEGO base plate | 1 | Object staging area |
-| 🔹 LEGO bricks (3–5 object classes) | 6–10 | Sample set for training + detection |
-| 🔹 Technic beams + pegs | 10–15 | Frame to stabilize object position |
-| 🔹 Small turntable or axle set | 1 (optional) | Allow spinning or sliding object base |
-| 🔹 NXT servo motor | 1 | Move LEGO arm/flag on detection (optional) |
-| 🔹 Raspberry Pi 5 (8GB) | 1 | AI inference + dashboard |
-| 🔹 USB or CSI camera | 1 | Object capture |
-| 🔹 Access to NAS or Flask runtime | 1 | Log or share data with other teams |
-| 🔹 LED, OLED or screen | 1 | Display classification live |
+| LEGO baseplate | 1 | Presentation platform |
+| LEGO bricks/objects (3–5 classes) | 8–12 | For model training/testing |
+| Technic frame | 10–15 | Secure camera or sensor positioning |
+| Raspberry Pi 5 (8GB) | 1 | Runs full model inference |
+| CSI/USB camera | 1 | Connected to Pi |
+| LED/OLED display or Pi screen | 1 | Shows prediction to student |
+| Flask dashboard template | 1 | Optional web UI for classification log |
+| Optional: NXT servo motor | 1 | Rotates object for camera view |
 
 ---
 
-### 4. 🧪 **AI/System Actions**
+### 4. 🧪 **AI + Data Science System Actions**
 
 | Component | Task |
-|-----------|------|
-| **Roboflow-trained model** | Detects object class from live camera feed |
-| **Python + TFLite or ONNX** | Runs full detection model on Pi |
-| **Flask or OLED output** | Displays prediction to user |
-| **Python logging module** | Writes result to log file or shared NAS path |
-| **(Optional) UDP / MQTT sender** | Notifies other teams: “object_detected = red_brick” |
-| **NXT motor** | (Optional) Animates result with motion or signal |
-| **LEGO structure** | Holds object in consistent location for inference |
+|----------|------|
+| **Roboflow-trained model (full TFLite/ONNX)** | Classifies incoming object |
+| **Python script** | Logs prediction + timestamp |
+| **Flask web dashboard** | Displays latest classification + object image |
+| **Flight manifest integration** | Logs to shared directory for Orion review |
+| **Prediction accuracy checks** | Manual or automated comparison to manifest or instructor key  
+| **Optional: Top-2 confidence logic** | Classify fallback when confidence < threshold
 
 ---
 
-### 5. 🔁 **Interaction Flow (with Integration Constraint)**
+### 5. 🔁 **Interaction Flow (with Space Deck + Forecast Tie-In)**
 
 ```plaintext
-Student places object → Pi runs model →
-Prediction displayed (Flask or OLED) →
-Result logged to NAS OR message sent via Wi-Fi →
-Team Vega or Orion receives result → starts follow-up action
+Student places object on deck →
+Pi captures image →
+Model predicts: ‘food’ →
+Display shows: “FOOD – Deck C” →
+Log written to NAS: {timestamp, object: food, predicted_deck: C} →
+Orion pulls logs and forecasts deck fill state
 ```
 
-Examples:
-- Detects "Tool A" ➜ sends `object_detected=tool_a` ➜ Vega starts sensor scan
-- Logs "Rock Sample C" ➜ Orion reads log ➜ raises alert
+- Vega might use the result to decide if the deck is ready (e.g., temp for food is too high)
+- Orion may trigger a **docking warning** if too many objects are forecasted to Deck C
 
 ---
 
-### 6. ⏱️ **24-Hour Execution Feasibility**
+### 6. ⏱️ **Feasibility in 5-Day Camp**
 
-✅ **YES – highly doable**, especially with these supports:
-- Provide a **preconfigured Flask dashboard template**
-- Use shared Roboflow dataset from Nova Alpha
-- Use prewritten Python script for NAS logging and UDP messaging
-- LEGO build focuses on structure + presentation, not robotics
-- Optional NXT servo motion can be added if time allows
+✅ Yes, and great for students with:
+- Interest in dashboards, data logs, or Python scripting
+- Day 1: Flask setup + camera test
+- Day 2: Full model integration + object display
+- Day 3: Log format finalized + NAS sync
+- Day 4: Forecast-aware classification logic
+- Day 5: Dashboard + final demo polish
 
 ---
 
-### 🛠️ **Design Constraint – Integration Protocol**
+### 🛠️ **Design Constraint: Inter-Team Integration Required**
 
-> ✨ Mission Integration Rule: “Your solution must output a signal or result that another team can use — either physically (via LEGO motion), digitally (via Wi-Fi), or visually (via display). NASA systems are never standalone — your tech is one part of a mission.”
+> ✨ Your system must **log each detection to a shared flight record**, so that:
+> - Vega can check if the object should be allowed (e.g., food vs deck light level)
+> - Orion can **forecast overloads** (e.g., “Deck C has had 4 food objects this flight”)
 
-- May **drop sorted item** into a LEGO container built by Vega
-- May **send a GPIO signal or file** indicating detection to be picked up by Orion
-- Result must be **usable** by another team’s logic
+**You are the eyes of the mission — your logs must be complete, consistent, and readable by others.**
 
+---
