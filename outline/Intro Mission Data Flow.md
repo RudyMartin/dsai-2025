@@ -75,7 +75,7 @@ Orion’s job: **tell the story of what happened, what failed, and what must cha
 
 ---
 
-## 🔍 How Orion Connects to Rules + Tracking
+## 🔍 Example - How Orion Connects to Rules + Tracking
 
 | Rule | Orion Dependency |
 |------|------------------|
