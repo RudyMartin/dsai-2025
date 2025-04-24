@@ -1,4 +1,4 @@
-The introduction of Rule  Constraints is is an **incredible opportunity** to simulate *real-time systems governance* and teach students:
+The  Rule  Constraints is an **incredible opportunity** to simulate *real-time systems governance* and teach students:
 
 - ⚖️ How constraints drive system design  
 - 🧠 How data informs decisions  
