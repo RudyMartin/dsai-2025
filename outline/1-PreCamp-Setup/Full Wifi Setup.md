@@ -209,13 +209,6 @@ app.run(host='0.0.0.0', port=5000)
 
 ---
 
-# 🎯 TL;DR
-
-✅ YES, you can save detection logs to ESP32 locally.  
-✅ YES, you can push results to NAS over WiFi using basic code.  
-✅ Setup is totally manageable for high school level with a little scaffolding.  
-
----
   
 # 🚀 Would you like me to:
 - Package this into a **one-page Student Setup Checklist** 📋?
