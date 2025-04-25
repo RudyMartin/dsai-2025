@@ -1,5 +1,5 @@
 
-# 📆 5-Day AI Camp Mission Schedule by Team (✅ Updated)
+# 📆 5-Day AI Camp Mission Schedule by Team 
 
 | **Day** | **Nova (Alpha + Beta)** | **Vega (Alpha + Beta)** | **Orion (Alpha + Beta)** |
 |:---|:---|:---|:---|
