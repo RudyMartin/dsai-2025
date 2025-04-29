@@ -1,5 +1,5 @@
 
-## 📡 Team Orion Alpha – Forecasting, Logging, and Docking Coordination (Raspberry Pi 5 or Laptop)
+## 📡 Team Orion Beta – Forecasting, Logging, and Docking Coordination (Raspberry Pi 5 or Laptop)
 
 ---
 
