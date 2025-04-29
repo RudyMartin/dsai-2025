@@ -1,3 +1,6 @@
+ALL Teams get an introduction to using  models
+
+
 | Team | New Project Role | Roboflow Model Use | Notes on How They Will Train & Use Models |
 |:---|:---|:---|:---|
 | **Nova Alpha (ESP32-S3)** | Object classification + physical sorting | ✅ Yes (TFLite Micro) | Train a **lightweight 4-5 class model** to recognize LEGO objects (`human`, `robot`, `tool`, `food`, `unknown`), trigger servo gate sorting |
