@@ -69,10 +69,4 @@ We’re all on the same deck now.**"
 
 ---
 
-# 📋 Quick Offer
-Would you like me to make:
-- A **simple printable sheet** that says "Welcome Crew Introductions" with the 4 question prompts?
-(You could hand it out or post it Day 1.)
 
-👉 If yes, just say **"Go Crew Intro Sheet!"** 🚀  
-(We’ll lock it down fast!)
