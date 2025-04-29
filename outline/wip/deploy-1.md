@@ -1,4 +1,3 @@
-Great question — you're absolutely right to think about **model size and deployment feasibility**, especially for small devices like the **ESP32-S3**.
 
 ### 🔧 Where the Models Come From (ESP32-S3 Edition)
 
