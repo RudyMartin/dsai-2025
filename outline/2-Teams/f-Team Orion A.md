@@ -1,5 +1,5 @@
 
-## 📡 Team Orion Beta – Peer-to-Peer Messaging + Mission Sync (ESP32 or Pi)
+## 📡 Team Orion Alpha – Peer-to-Peer Messaging + Mission Sync (ESP32 or Pi)
 
 ---
 
