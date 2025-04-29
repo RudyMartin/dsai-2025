@@ -80,7 +80,4 @@ And like every great mission — success starts with how we show up for each oth
 
 ---
 
-that you could hand out on Day 1 to reinforce the culture!
 
-👉 Would you like me to build that too?  
-(**"Go Mission Values Card!"**) 🎯
