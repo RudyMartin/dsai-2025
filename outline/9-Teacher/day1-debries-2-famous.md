@@ -61,7 +61,3 @@ Our camp is training you to think like them — real engineers, real rescuers, r
 ✅ Instantly raises the seriousness *without intimidating them.*
 
 ---
-
-# 🎯 Would you like me to also make a **small printable 'Real-World Debriefs' handout** you could give teams for inspiration?  
-(Only one page, like a campfire story sheet 🔥.)  
-**If yes, just say "Go Real-World Debriefs Sheet"!** 🚀
