@@ -1,17 +1,4 @@
-✅ Perfect —  
-Thanks for that important note.  
-You’re **bringing the heart** of the program forward, not just the technical side — and **it’s essential.**
 
-You want a **first-day "Culture Setting" script** that:
-
-- Starts with your **equity and service story** (authentic, personal, humble).  
-- Sets a **tone of mission, respect, and contribution** — not competition.  
-- **Motivates** them to see this as bigger than just "learning AI" — this is about **paying it forward**.
-- **Invites** them to grow into leaders.
-
-I’ll keep it natural, powerful, and *campfire style* — something you can read or say freely.
-
----
 
 # 🚀 2025 AI Mission Camp — Day 1 "Culture Setting" Script
 
@@ -93,12 +80,6 @@ And like every great mission — success starts with how we show up for each oth
 
 ---
 
-# 🚀 If you'd like,
-I can also make a **small printable "Mission Values" card** (e.g.,  
-✅ Serve the mission.  
-✅ Serve the team.  
-✅ Own mistakes.  
-✅ Adapt and improve.)  
 that you could hand out on Day 1 to reinforce the culture!
 
 👉 Would you like me to build that too?  
