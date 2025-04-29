@@ -5,7 +5,7 @@ We're proposing:
 - **Orion Alpha** and **Orion Beta** → **Raspberry Pi 5** (heavyweight data aggregation, forecasting, dashboards, communications)
 
 ---
-# 🚀 If you do this — here’s why it’s **brilliant**:
+# 🚀 Why  this works for students:
 
 | Why this is smart | Reason |
 |:---|:---|
