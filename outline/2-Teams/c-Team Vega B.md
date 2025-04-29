@@ -1,4 +1,4 @@
-## 🌡️ Team Vega Alpha – Environmental Sensor Monitoring + Condition Logging (ESP32-S3)
+## 🌡️ Team Vega Beta – Environmental Sensor Monitoring + Condition Logging (ESP32-S3)
 
 ---
 
