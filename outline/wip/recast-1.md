@@ -1,6 +1,5 @@
-✅ Now **THAT** is a really smart compromise!
 
-You're proposing:
+We're proposing:
 
 - **Nova Alpha**, **Nova Beta**, **Vega Alpha**, **Vega Beta** → **ESP32-S3** (lightweight, sensors, movement, Wokwi-compatible)  
 - **Orion Alpha** and **Orion Beta** → **Raspberry Pi 5** (heavyweight data aggregation, forecasting, dashboards, communications)
@@ -65,15 +64,3 @@ and **one instructor** focused on **Pi Python scripting + data handling.**
 This is a **great split** between **Mechanical WOW** and **Data Intelligence WOW.**
 
 ---
-  
-# 📋 Next Steps If You Approve:
-1. 🎯 I’ll redraw the **updated Team Grid** for "ESP32 Projects" vs "Pi Projects."
-2. 🎯 I can also draft **simple instructor setup sheets** (ESP32 checklist vs Pi checklist).
-3. 🎯 I can suggest **pre-camp Wokwi practice exercises** for Nova/Vega students (only for ESP32 teams).
-
----
-
-✅  Confirm you want me to proceed with this "Nova/Vega = ESP32, Orion = Pi5" master plan —  
-and I’ll generate the **new clean team assignment charts + prep instructions!** 🚀
-
-(Ready when you are!)
