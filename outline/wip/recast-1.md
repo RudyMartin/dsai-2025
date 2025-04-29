@@ -1,5 +1,5 @@
 
-We're proposing:
+We're proposing to vary the technologies between  ESP32 and PI for the six teams:
 
 - **Nova Alpha**, **Nova Beta**, **Vega Alpha**, **Vega Beta** → **ESP32-S3** (lightweight, sensors, movement, Wokwi-compatible)  
 - **Orion Alpha** and **Orion Beta** → **Raspberry Pi 5** (heavyweight data aggregation, forecasting, dashboards, communications)
