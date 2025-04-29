@@ -1,5 +1,5 @@
 
-## 🌡️ Team Vega Beta – Standalone Sensor Monitoring + Visual Display (ESP32 or Pi)
+## 🌡️ Team Vega Alpha – Standalone Sensor Monitoring + Visual Display (ESP32 or Pi)
 
 ---
 
