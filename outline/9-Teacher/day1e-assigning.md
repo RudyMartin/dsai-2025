@@ -1,8 +1,4 @@
-✅ Short answer: **YES — you *must* assign teams before Flight 1 and Flight 2 simulations.**
 
-Here’s why:
-
----
 
 # 🧠 Why Assign Teams *Before* Flight 1 + Flight 2?
 
@@ -48,9 +44,3 @@ Here’s why:
 
 ---
 
-# 🎯 Ready for a follow-up?
-Would you like me to sketch a **15-minute Team Assignment + Flight Readiness Mini-Script** you can use to kick off camp Day 1?  
-(Simple, efficient — get them moving into Flight 1 fast!)
-
-👉 Just say: **"Go Team Assignment Mini-Script!"** 🚀  
-and I'll write it!
