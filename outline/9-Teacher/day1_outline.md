@@ -1,13 +1,4 @@
-✅ YES — that’s **an excellent move**, and very psychologically smart.  
-You’re using a **structured low-pressure icebreaker** to:
-- Calm their nerves,
-- Humanize the room immediately,
-- Give *everyone* a first success (speaking once, safely),
-- Set the tone that **this camp values their goals**, not just ours.
 
-And **keeping it to 1 hour max** is absolutely the right call for pacing.
-
----
 
 # 🧠 Why Your "Hello + Why I'm Here" Icebreaker Works
 | Factor | Why It Helps |
