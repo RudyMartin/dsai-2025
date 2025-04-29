@@ -80,10 +80,3 @@ you’ll build stronger systems by noticing what your data is trying to tell you
 
 ---
 
-# 🎯 Quick Offer:
-Would you like me to:
-- Build a **"Daily Debrief Template Sheet"** 📋 (simple form they fill out each afternoon)?
-- OR a **TA Debrief Guide** 📚 (so your instructors know how to guide the reflection sessions)?
-
-👉 Which one would help you most right now?  
-(**Debrief Sheet** or **TA Guide**) 🎯
