@@ -74,13 +74,19 @@ Let students rate how “agentic” their bot is on each axis:
 
 ## 🧩 Mermaid Agent Template (Diagram View)
 
-You can duplicate this chart per team and swap in their system details:
+Use the Agentic Flow Diagram slide to create a visual flowchart of their agent's operations. Tools like Mermaid Live Editor can be helpful for creating flowcharts.
+
+Swap this code  to create flow image:
 
 ```mermaid
+---
+config:
+      theme: redux
+---
 flowchart TD
   subgraph AGENT["🤖 Agent: Nova Alpha"]
     INPUT[📷 Perception: Image Sensor]
-    MODEL[🧠 Model: Classifier (NA_1.tflite)]
+    MODEL[🧠 Model: Classifier NA_1.tflite]
     STATE[🧾 Internal State: Last Prediction]
     DECIDE{Confidence ≥ Threshold?}
     ACT[🛞 Action: Servo Gate Movement]
