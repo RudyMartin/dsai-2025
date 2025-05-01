@@ -1,4 +1,4 @@
- **KEY TOPIC AREAS** that students will need instruction on throughout the camp. 
+###  **KEY TOPIC AREAS** that students will need instruction on throughout the camp. 
 
 Here’s a breakdown of the essential concepts that teaching assistants should focus on to ensure students gain a strong understanding:
 
