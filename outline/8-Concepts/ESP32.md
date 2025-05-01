@@ -3,7 +3,7 @@ Here’s a curated list of **10 useful resource links** to help you and your tea
 
 ## 🔗 **Top ESP32 & MicroSD / Camera Resources**
 
-0. **WOKWI: Online prototyping and testing site**  
+**WOKWI: Online prototyping and testing site**  
    https://wokwi/  
 
 1. **ESP32: Guide for MicroSD Card Module using Arduino IDE**  
