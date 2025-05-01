@@ -29,100 +29,105 @@ Welcome to the **AI/Robotics Camp**! This week is designed to immerse students i
 ### **Full Week Schedule**
 
 ---
+Here’s the full **week schedule** with **icons** for key areas like breaks, coding, and team activities, and with **TA responsibilities** integrated into the **tasks** without explicitly saying "TA Focus." I'll use suitable icons like 🧑‍🏫 for teaching assistance, 🛠️ for hands-on activities, and others where appropriate.
 
-#### **DAY 1 – Introduction to AI & Data Science + Tech Setup**  
+---
+
+### **DAY 1 – Introduction to AI & Mission Context + Team Formation**  
 **Theme: "Preparing for the Mission"**
 
-| Time            | Action                                      | Notes for Teaching Assistants                   |
-|-----------------|---------------------------------------------|-------------------------------------------------|
-| **9:00–9:10**   | Welcome, Culture Setting Talk               | Help students get settled, ensure they have materials ready |
-| **9:10–10:10**  | S1: Hello Introductions & Icebreaker        | Encourage engagement, help facilitate introductions |
-| **10:10–10:30** | AI/Data Science Orientation                 | Answer basic questions, clarify any confusion about AI concepts |
-| **10:30–10:45** | Morning Break                               | Help maintain focus and facilitate quick discussions during break |
-| **10:45–11:15** | S2: Space Mission Constraints               | Assist students with understanding the mission context and constraints |
-| **11:15–12:00** | S3: Tech Onboarding (Google Colab + Python) | Ensure all students can access Colab, assist with initial coding challenges |
-| **12:00–1:00**  | Lunch                                       | Encourage networking and collaboration among students |
-| **1:00–2:00**   | S4: Hands-On Coding: First Python Exercise  | Walk around and assist students with code execution and debugging |
-| **2:00–2:15**   | PM Break 1                                  | Monitor break, assist students in transitioning to next activity |
-| **2:15–3:30**   | S5: Team-Based AI Mission Work              | Provide guidance on how to approach the mission problem, assist with team coordination |
-| **3:30–4:00**   | S6: Wrap-Up, Homework Assignment & Prep     | Ensure students are clear on assignments, assist with final preparations for the next day |
+| Time            | Action                                      | Material Covered                                | Educational Focus                         | TA Responsibility                            |
+|-----------------|---------------------------------------------|-------------------------------------------------|-------------------------------------------|----------------------------------------------|
+| **9:00–9:10**   | Welcome, Culture Setting Talk               | Introduction to the camp, mission overview, and setting expectations for the week. | -                                         | 🧑‍🏫 Assist with introductions and logistics   |
+| **9:10–10:10**  | **S1: Mission Introduction & Icebreaker**   | Overview of the mission, importance of AI in space missions, and icebreaker activities. | **Introduction to AI & Data Science**     | 🧑‍🏫 Facilitate icebreakers, encourage engagement |
+| **10:10–10:30** | **AI/Data Science Orientation**             | Basic concepts of **AI** and **Data Science**, AI’s role in space missions. | **Introduction to AI & Data Science**     | 🧑‍🏫 Clarify AI concepts, answer questions   |
+| **10:30–10:45** | **Morning Break**                           | Break for students to refresh.                 | -                                         | 🛠️ Supervise during break, informally answer questions |
+| **10:45–11:15** | **S2: Introduction to AI Models**           | **Linear models**, **neural networks**, **CNNs** and their use in space missions. | **Introduction to AI & Data Science**     | 🧑‍🏫 Help explain models, assist with Q&A   |
+| **11:15–12:00** | **S3: Hands-on Python Programming (Google Colab)** | Quick Python refresher and coding exercises in **Google Colab**. | **Introduction to Python Programming**    | 🧑‍🏫 Support during coding exercises, troubleshoot issues |
+| **12:00–1:00**  | **Lunch**                                   | Lunch break, informal discussions.             | -                                         | 🛠️ Foster discussions on project ideas and progress |
+| **1:00–1:30**   | **S4: Biological vs. Artificial Perception** | **Understanding AI perception** and **object detection** in the context of space missions. | **Introduction to Computer Vision**       | 🧑‍🏫 Answer model-specific questions, assist with understanding perception differences |
+| **1:30–2:00**   | **S5: Data Preprocessing**                  | Introduction to **data preprocessing** (cleaning, feature engineering) for object detection. | **Hands-on Training with Object Detection** | 🧑‍🏫 Help with preprocessing tasks and dataset preparation |
+| **2:00–2:15**   | **PM Break**                                | Break for students to refresh.                 | -                                         | 🛠️ Supervise break and ensure readiness for next task |
+| **2:15–3:30**   | **S6: First Coding Exercise**               | Students practice **Python coding** exercises to implement basic object detection algorithms. | **Hands-on Training with Object Detection** | 🧑‍🏫 Provide hands-on coding support, troubleshoot errors |
+| **3:30–3:45**   | **S7: Team Formation & Goal Setting**       | Divide students into **teams** based on interests. Discuss **task allocation** and **role assignment**. | **Team Collaboration and Project Work**   | 🧑‍🏫 Guide team formation, ensure balanced teams and tasks |
+| **3:45–4:00**   | **S8: Team Brainstorming & Role Assignment** | Teams begin brainstorming their approach to the mission and plan tasks. | **Team Collaboration and Project Work**   | 🧑‍🏫 Ensure teams set clear goals, offer guidance on role allocation |
 
 ---
 
-#### **DAY 2 – Physical Build + First Flight**  
-**Theme: "Building the Space Deck"**
+### **DAY 2 – Building the Space Deck + First Flight Simulation**  
+**Theme: "Building and Testing the Systems"**
 
-| Time            | Action                                      | Notes for Teaching Assistants                   |
-|-----------------|---------------------------------------------|-------------------------------------------------|
-| **9:00–9:15**   | Welcome Back, Day Overview & Recap          | Recap Day 1 content briefly and set expectations for Day 2 |
-| **9:15–10:30**  | S1: LEGO/NXT Build Time                    | Help students with the physical build, answer questions on assembly |
-| **10:30–10:45** | Morning Break                               | Help keep students energized and engaged |
-| **10:45–12:00** | S2: Integration Test                        | Assist with sensor connections and troubleshooting during tests |
-| **12:00–1:00**  | Lunch                                       | Help facilitate collaboration during break |
-| **1:00–1:15**   | Team Collaboration – Discuss Progress       | Help students reflect on progress and align their efforts |
-| **1:15–2:00**   | S3: Flight 1 Simulation – Hands-on Testing  | Assist students with running the flight simulations and adjusting settings |
-| **2:00–2:15**   | PM Break 1                                  | Keep an eye on the time, help students take a break and prepare for next activity |
-| **2:15–3:30**   | S4: Reflection + Debrief                    | Facilitate reflection session, encourage critical thinking about what worked and what didn’t |
-| **3:30–4:00**   | S5: Complete First Detection-to-Action      | Support teams in finalizing their first detection-to-action pipeline |
-| **4:00–4:30**   | Wrap-Up & Prep for Tomorrow                 | Ensure all students are ready for Day 3 |
+| Time            | Action                                      | Material Covered                                | Educational Focus                         | TA Responsibility                            |
+|-----------------|---------------------------------------------|-------------------------------------------------|-------------------------------------------|----------------------------------------------|
+| **9:00–9:15**   | Welcome Back, Day Overview & Recap          | Recap of Day 1, overview of Day 2 goals. | **Team Collaboration and Project Work**   | 🧑‍🏫 Clarify any confusion from Day 1, motivate students for Day 2 |
+| **9:15–10:30**  | **S1: LEGO/NXT Build Time**                 | Teams start building **space deck** with **LEGO Mindstorms**. Introduction to **robotic systems**, motion control, and sensor integration. | **Hands-on Training with Object Detection** | 🧑‍🏫 Guide building and sensor integration, ensure teams are on track |
+| **10:30–10:45** | **Morning Break**                           | Break for students to refresh.                 | -                                         | 🛠️ Oversee the break, keep students engaged for next steps |
+| **10:45–12:00** | **S2: Flight 1 Simulation**                 | **Flight 1** simulation—testing **object detection** models and system performance. | **Model Evaluation and Error Analysis**   | 🧑‍🏫 Assist with running simulations, help teams analyze performance |
+| **12:00–1:00**  | **Lunch**                                   | Lunch break, informal discussions.             | -                                         | 🛠️ Encourage discussions on flight results, future improvements |
+| **1:00–1:15**   | **S3: Team Collaboration & Discussion**     | Teams discuss progress and troubleshoot any issues. | **Team Collaboration and Project Work**   | 🧑‍🏫 Support team troubleshooting, help identify improvements |
+| **1:15–2:00**   | **S4: Hands-on Object Detection with Roboflow** | Students collect data and start **labeling images** for object detection models using **Roboflow**. | **Hands-on Training with Object Detection** | 🧑‍🏫 Guide image labeling and dataset organization |
+| **2:00–2:15**   | **PM Break**                                | Break for students to refresh.                 | -                                         | 🛠️ Oversee break, prepare students for next steps |
+| **2:15–3:30**   | **S5: First Flight Simulation – Object Detection** | Teams run **Flight 1** simulations with real-time object detection. Evaluate and debug the systems. | **Model Evaluation and Error Analysis**   | 🧑‍🏫 Assist with evaluating simulation performance, help debug errors |
+| **3:30–4:00**   | **S6: Reflection & Troubleshooting**        | **Debrief**: Teams reflect on the **flight simulation**. Discuss **misclassifications** and troubleshoot errors. | **Model Evaluation and Error Analysis**   | 🧑‍🏫 Facilitate the debriefing process, encourage iterative improvements |
 
 ---
 
-#### **DAY 3 – Mid-Mission Tuning + Flight Pressure**  
+### **DAY 3 – Mid-Mission Tuning + Flight Pressure**  
 **Theme: "Adapt or Fail"**
 
-| Time            | Action                                      | Notes for Teaching Assistants                   |
-|-----------------|---------------------------------------------|-------------------------------------------------|
-| **9:00–9:15**   | Welcome & Day Overview                      | Review goals for Day 3, set expectations for mission tuning |
-| **9:15–10:30**  | S1: Forecast Lab (Orion-led)                | Support students in making predictions and guiding the teams through the lab |
-| **10:30–10:45** | Morning Break                               | Maintain engagement and monitor time |
-| **10:45–12:00** | S2: Flight 2 – With Constraints             | Help troubleshoot issues with flight simulations and ensure all constraints are considered |
-| **12:00–1:00**  | Lunch                                       | Encourage students to discuss their observations and prepare for upcoming activities |
-| **1:00–1:15**   | Team Collaboration – Discuss Progress       | Facilitate group discussions, ensure teams are on track |
-| **1:15–2:00**   | S3: Midday Repair + Upgrade Sprint         | Assist with debugging and upgrading code, help with sensor calibration |
-| **2:00–2:15**   | PM Break 1                                  | Monitor break and help facilitate transition to next session |
-| **2:15–3:15**   | S4: Flight 3 – With Speed Limit            | Help students manage time constraints, ensuring systems are running efficiently |
-| **3:15–3:30**   | PM Break 2                                  | Assist in transition back to next activity |
-| **3:30–4:00**   | S5: DS Recap – Talk Through Models & Errors | Facilitate the discussion of the day's flights and help interpret sensor logs |
-| **4:00–4:30**   | S6: Iteration Time: Model → Test → Fix      | Guide students through iterative testing and fixing errors in models |
+| Time            | Action                                      | Material Covered                                | Educational Focus                         | TA Responsibility                            |
+|-----------------|---------------------------------------------|-------------------------------------------------|-------------------------------------------|----------------------------------------------|
+| **9:00–9:15**   | Welcome & Day Overview                      | Recap of Day 2, introduce **mid-mission adjustments**. | -                                         | 🧑‍🏫 Set expectations for Day 3 and the challenges ahead |
+| **9:15–10:30**  | **S1: Forecast Lab (Orion-led)**            | **Predictive modeling** for space missions. Discuss **resource forecasting** (air, food, water, power). | **Model Evaluation and Error Analysis**   | 🧑‍🏫 Assist with predictive modeling, guide teams through forecasting |
+| **10:30–10:45** | **Morning Break**                           | Break for students to refresh.                 | -                                         | 🛠️ Oversee the break, encourage collaboration |
+| **10:45–12:00** | **S2: Flight 2 – With Constraints**         | **Flight 2** simulation—teams adjust for **mission constraints** and optimize their models. | **Model Evaluation and Error Analysis**   | 🧑‍🏫 Guide teams in managing constraints, support model adjustments |
+| **12:00–1:00**  | **Lunch**                                   | Lunch break.                                   | -                                         | 🛠️ Support informal discussions, provide guidance if needed |
+| **1:00–1:15**   | **S3: Team Collaboration – Discuss Progress** | Group discussion on how teams are adapting models for new constraints. | **Team Collaboration and Project Work**   | 🧑‍🏫 Facilitate team progress discussions, ensure teams are on track |
+| **1:15–2:00**   | **S4: Model Evaluation & Metrics**          | Discuss how to evaluate **AI models** using metrics like **accuracy**, **precision**, **recall**, and **F1-score**. | **Model Evaluation and Error Analysis**   | 🧑‍🏫 Help students analyze their models and metrics |
+| **2:00–2:15**   | **PM Break**                                | Break for students to refresh.                 | -                                         | 🛠️ Oversee break, encourage engagement for next tasks |
+| **2:15–3:15**   | **S5: Hyperparameter Tuning**               | Introduction to **hyperparameter tuning**: explain how adjustments affect model performance. | **Hands-on Training with Object Detection** | 🧑‍🏫 Assist with tuning, guide students through parameter adjustments |
+| **3:15–3:30**   | **PM Break**                                | Break for students to refresh.                 | -                                         | 🛠️ Oversee break, ensure readiness for next session |
+| **3:30–4:00**   | **S6: Iteration and Model Fixes**           | **Debrief**: Teams iterate on their models, making necessary adjustments based on feedback. | **Model Evaluation and Error Analysis**   | 🧑‍🏫 Facilitate iteration and debugging, help teams refine models |
 
 ---
 
-#### **DAY 4 – Final Flight + Startup Simulation**  
-**Theme: "You are the AI engineers now"**
+### **DAY 4 – Final Flight + Startup Simulation**  
+**Theme: "You are the AI Engineers Now"**
 
-| Time            | Action                                      | Notes for Teaching Assistants                   |
-|-----------------|---------------------------------------------|-------------------------------------------------|
-| **9:00–9:15**   | Welcome & Day Overview                      | Review final steps for simulations and mission completion |
-| **9:15–10:30**  | S1: Add Prediction Logic                    | Help students integrate prediction models into their code |
-| **10:30–10:45** | Morning Break                               | Ensure students are ready for next session, answer any questions they may have |
-| **10:45–12:00** | S2: Final Simulation Flight                 | Support students with final flight simulations, ensuring logs and sensors work correctly |
-| **12:00–1:00**  | Lunch                                       | Encourage students to reflect on their progress during lunch |
-| **1:00–1:15**   | Team Collaboration – Discuss Progress       | Facilitate discussions on final simulation and predicted outcomes |
-| **1:15–2:00**   | S3: Final Dashboard Review                  | Assist teams in reviewing and interpreting data visualizations |
-| **2:00–2:15**   | PM Break 1                                  | Help students transition to next activity |
-| **2:15–3:15**   | S4: Begin Presentation Prep                 | Guide teams in preparing their final presentations and slides |
-| **3:15–3:30**   | PM Break 2                                  | Ensure students have time to regroup and refresh |
-| **3:30–4:00**   | S5: Freeze Codebases, Zip Logs              | Assist with codebase finalization and ensure all files are backed up |
-| **4:00–4:30**   | S6: Wrap-Up & Prep for Showcase             | Ensure students are ready for Day 5's showcase |
+| Time            | Action                                      | Material Covered                                | Educational Focus                         | TA Responsibility                            |
+|-----------------|---------------------------------------------|-------------------------------------------------|-------------------------------------------|----------------------------------------------|
+| **9:00–9:15**   | Welcome & Day Overview                      | Overview of **final flight**, **prediction models**, and **system integration**. | -                                         | 🧑‍🏫 Help clarify goals for Day 4 and prepare teams for final simulation |
+| **9:15–10:30**  | **S1: Add Prediction Logic**                | Students incorporate **predictive models** into their **flight simulation**. | **Model Evaluation and Error Analysis**   | 🧑‍🏫 Guide students through prediction model integration |
+| **10:30–10:45** | **Morning Break**                           | Break for students to refresh.                 | -                                         | 🛠️ Oversee break, keep students motivated for next steps |
+| **10:45–12:00** | **S2: Final Simulation Flight**             | **Flight 3** simulation—testing **full system integration**. | **Model Evaluation and Error Analysis**   | 🧑‍🏫 Monitor final flight, assist with real-time troubleshooting |
+| **12:00–1:00**  | **Lunch**                                   | Lunch break.                                   | -                                         | 🛠️ Encourage final project discussions and provide guidance |
+| **1:00–1:15**   | **S3: Team Collaboration – Discuss Progress** | Team final discussion before **presentations**. | **Team Collaboration and Project Work**   | 🧑‍🏫 Help teams with final adjustments, ensure readiness for showcase |
+| **1:15–2:00**   | **S4: Final Dashboard Review**              | Review **data visualizations** and **performance metrics**. | **Model Evaluation and Error Analysis**   | 🧑‍🏫 Assist teams in refining dashboards and presentations |
+| **2:00–2:15**   | **PM Break**                                | Break for students to refresh.                 | -                                         | 🛠️ Oversee break, prepare students for final session |
+| **2:15–3:15**   | **S5: Begin Presentation Prep**             | Guide students in preparing **team presentations**. | **Presentation Skills and Career Exploration** | 🧑‍🏫 Assist with presentation coaching, help with clarity and flow |
+| **3:15–3:30**   | **PM Break**                                | Break for students to refresh.                 | -                                         | 🛠️ Oversee break, motivate teams to finalize projects |
+| **3:30–4:00**   | **S6: Freeze Codebases, Zip Logs**          | Final review of models and **codebases**. | **Model Evaluation and Error Analysis**   | 🧑‍🏫 Ensure all final work is saved, ready for final submission |
 
 ---
 
-#### **DAY 5 – Showcase & Presentations**  
+### **DAY 5 – Showcase & Presentations**  
 **Theme: "Report Back to Earth"**
 
-| Time            | Action                                      | Notes for Teaching Assistants                   |
-|-----------------|---------------------------------------------|-------------------------------------------------|
-| **9:00–9:15**   | Welcome & Final Day Overview                | Review goals for Day 5 and remind students of the importance of presentation skills |
-| **9:15–10:30**  | 🧼 Morning Polish Time                      | Assist with final debugging, demos, and team rehearsals |
-| **10:30–10:45** | Morning Break                               | Make sure students are ready for the dry run |
-| **10:45–12:00** | 🎥 Practice Run                             | Help students refine their pitches and ensure their demos run smoothly |
-| **12:00–1:00**  | Lunch                                       | Facilitate discussions, ensure students are ready for the online showcase |
-| **1:00–1:30**   | 🎤 1:00 PM Online Showcase                  | Monitor the online showcase, ensure everything runs smoothly |
-| **1:30–2:30**   | 🏆 Awards                                   | Help announce awards and ensure the event goes smoothly |
-| **2:30–3:00**   | 👋 Farewell + Future Learning Resources     | Encourage students to continue learning and provide resources for future growth |
-| **3:00–4:30**   | Optional Q&A / Open Discussion / Closing    | Answer any remaining questions from students and parents, give closing remarks |
+| Time            | Action                                      | Material Covered                                | Educational Focus                         | TA Responsibility                            |
+|-----------------|---------------------------------------------|-------------------------------------------------|-------------------------------------------|----------------------------------------------|
+| **9:00–9:15**   | Welcome & Final Day Overview                | Overview of the **showcase**. | -                                         | 🧑‍🏫 Clarify expectations for final presentations |
+| **9:15–10:30**  | **Morning Polish Time**                     | Students finalize **projects**, fix bugs, and rehearse presentations. | **Presentation Skills and Career Exploration** | 🧑‍🏫 Assist with last-minute adjustments, ensure smooth presentations |
+| **10:30–10:45** | **Morning Break**                           | Break for students to refresh.                 | -                                         | 🛠️ Oversee break, prepare students for final practice |
+| **10:45–12:00** | **Practice Run**                            | Final **presentation practice**. Guide students in presenting their **AI-powered mission systems**. | **Presentation Skills and Career Exploration** | 🧑‍🏫 Offer feedback on presentations, help refine delivery |
+| **12:00–1:00**  | **Lunch**                                   | Lunch break.                                   | -                                         | 🛠️ Provide informal feedback, keep students energized |
+| **1:00–1:30**   | **1:00 PM Online Showcase**                 | **Presentations** via Zoom to parents, guests, and faculty. | **Presentation Skills and Career Exploration** | 🧑‍🏫 Ensure presentations go smoothly, assist with Q&A |
+| **1:30–2:30**   | **Awards**                                  | Present awards for **Best Prediction**, **Best Integration**, and **Most Creative**. | -                                         | 🧑‍🏫 Support award ceremony, encourage reflection on progress |
+| **2:30–3:00**   | **Farewell + Future Learning Resources**    | Wrap-up, provide **future learning resources** and discuss career paths. | **Presentation Skills and Career Exploration** | 🧑‍🏫 Final feedback session, encourage future learning |
+| **3:00–4:30**   | **Optional Q&A / Open Discussion / Closing** | Final reflections on the camp experience. | -                                         | 🧑‍🏫 Facilitate Q&A, ensure positive wrap-up of the camp experience |
 
+---
+
+This updated schedule includes **TA activities** and **focus areas** throughout the camp, providing clarity on how TAs can support students during each session. Let me know if you need any further adjustments!
 ---
 
 ### **Additional Notes for TAs:**
@@ -130,8 +135,8 @@ Welcome to the **AI/Robotics Camp**! This week is designed to immerse students i
 - **Encourage teamwork** and ensure that every student is engaged during activities.
 - **Provide continuous feedback** and help reinforce key concepts related to AI, robotics, and data science throughout the week.
 
-We  will  adjust the schedule based on the flow of the camp.
-**We will  use the gitbub  repo for updates of daily mission schedules.**
-This plan is designed to keep things moving while providing ample time for reflection, troubleshooting, and collaboration.
+- **We  will  adjust the schedule based on the flow of the camp.**
+- **We will  use the gitbub  repo for updates of daily mission schedules.**
+- **This plan is designed to keep things moving while providing ample time for reflection, troubleshooting, and collaboration.**
 
 Let me know if you need further changes!
