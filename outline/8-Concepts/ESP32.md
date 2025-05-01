@@ -34,6 +34,3 @@ Here’s a curated list of **10 useful resource links** to help you and your tea
 10. **ESP32-S3 DevKit Getting Started with Arduino**  
    https://docs.espressif.com/projects/arduino-esp32/en/latest/esp32s3/boards.html  
 
----
-
-Would you like these saved to a team resource sheet or embedded in a printable student reference doc?
