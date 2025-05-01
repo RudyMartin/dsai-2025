@@ -1,4 +1,4 @@
-# Flight Overvie:
+# Flight Overview:
 
 ### **Flight 1: Basic Object Detection & Initial System Testing**  
 **Concepts Covered:**
