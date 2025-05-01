@@ -124,8 +124,6 @@ Welcome to the **AI/Robotics Camp**! This week is designed to immerse students i
 
 ---
 
-This updated schedule includes **TA activities** and **focus areas** throughout the camp, providing clarity on how TAs can support students during each session. Let me know if you need any further adjustments!
----
 
 ### **Additional Notes for TAs:**
 - **Be patient and proactive** when students face technical difficulties. Their ability to troubleshoot and reflect on their mistakes is an important learning opportunity.
