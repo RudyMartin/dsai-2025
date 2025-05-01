@@ -1,6 +1,4 @@
-Here is the expanded specification for **Team Orion Beta**, with integrated support for your extra camera to enhance forecasting, documentation, or observational tracking.
 
----
 
 ## 📊 **Team Orion Beta – Data Aggregation + Forecast Dashboard (Raspberry Pi 5)**  
 **Now with Optional Camera for Visual Forecast Logs**
