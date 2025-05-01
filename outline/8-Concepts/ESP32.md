@@ -35,7 +35,6 @@ Here’s a curated list of **10 useful resource links** to help you and your tea
    https://docs.espressif.com/projects/arduino-esp32/en/latest/esp32s3/boards.html
 
 [![ESP32: Guide for MicroSD Card Module Arduino | Random Nerd Tutorials](https://tse2.mm.bing.net/th?id=OIP.QFz_FkXjz3aDpWE8cdTxpgHaH-&pid=Api)](https://randomnerdtutorials.com/esp32-microsd-card-arduino/)
-Absolutely! To assist your teams with integrating cameras and microSD cards into their ESP32 projects, here are some highly recommended YouTube tutorials:
 
 ---
 
