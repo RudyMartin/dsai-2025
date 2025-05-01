@@ -1,5 +1,10 @@
 Here’s a curated list of **10 useful resource links** to help you and your teams work with the **ESP32, MicroSD cards, cameras, and MicroPython/Arduino-based systems**. These are all relevant for your current setup (ESP32-S3, SD logging, camera integration):
 
+## 🔗 **Coding Resources**
+
+1. **WOKWI: Online prototyping and testing site**  
+   https://wokwi/  
+
 ---
 
 ## 🔗 **Top ESP32 & MicroSD / Camera Resources**
