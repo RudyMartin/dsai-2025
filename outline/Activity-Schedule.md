@@ -9,7 +9,7 @@
 | **9:10–10:10**  | **S1: Mission Introduction & Icebreaker**   | Overview of the mission, importance of AI in space missions, and icebreaker activities. | **Introduction to AI & Data Science**     |
 | **10:10–10:30** | **AI/Data Science Orientation**             | Basic concepts of **AI** and **Data Science**, AI’s role in space missions. **Why is AI crucial in resource-constrained environments?** | **Introduction to AI & Data Science**     |
 | **10:30–10:45** | **Morning Break**                           | Break for students to refresh.                 | -                                         |
-| **10:45–11:15** | **S2: Introduction to AI Models**           | Linear models, neural networks, CNNs and AI agent types (Reflex, Model-Based, Goal-Based, Utility-Based, Learning Agents) in space missions.
+| **10:45–11:15** | **S2: Introduction to AI Models**           | Linear models, neural networks, CNNs and AI agent types (Reflex, Model-Based, Goal-Based, Utility-Based, Learning Agents) in space missions. |
 
 | **Introduction to AI & Data Science**     |
 | **11:15–12:00** | **S3: Hands-on Python Programming (Google Colab)** | Quick Python refresher and coding exercises in **Google Colab**. | **Introduction to Python Programming**    |
