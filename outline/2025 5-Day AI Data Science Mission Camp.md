@@ -1,4 +1,5 @@
 
+
 ### **🚀 5-Day AI Data Science Mission Camp**  
 ### 🎯 **OVERVIEW**
 
@@ -88,6 +89,20 @@
 | **🛰️ Mission Patch Design**  | Team logos                                             |
 | **📊 Printed Dashboards**     | For judges                                             |
 | **🎥 Optional Video Diary**   | Record short clips each day                            |
+
+---
+
+### **Summary: Tech Stack for Teams**
+
+| **Team**            | **Hardware**      | **Key Features**                                               | **Tech Stack**            |
+|---------------------|-------------------|---------------------------------------------------------------|---------------------------|
+| **Nova Alpha**       | **ESP32-S3**      | Object detection, servo sorting gate                           | **MicroPython**           |
+| **Nova Beta**        | **ESP32-S3**      | Object detection, LED dashboard or small OLED                  | **MicroPython**           |
+| **Vega Alpha**       | **ESP32**         | Sensor monitoring, flashing alerts                             | **MicroPython**           |
+| **Vega Beta**        | **ESP32-S3**      | Environmental object gate (airlock servo + sensors)            | **MicroPython**           |
+| **Orion Alpha**      | **Raspberry Pi 5**| Messaging receiver/transmitter, network dashboard, alert LEDs  | **Python (Flask)**        |
+| **Orion Beta**       | **Raspberry Pi 5**| Data aggregation, forecasting dashboard, docking triggers      | **Python (Flask)**        |
+
 
 
 
