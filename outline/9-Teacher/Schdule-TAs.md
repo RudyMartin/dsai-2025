@@ -28,10 +28,7 @@ Welcome to the **AI/Robotics Camp**! This week is designed to immerse students i
 
 ### **Full Week Schedule**
 
----
-Here’s the full **week schedule** with **icons** for key areas like breaks, coding, and team activities, and with **TA responsibilities** integrated into the **tasks** without explicitly saying "TA Focus." I'll use suitable icons like 🧑‍🏫 for teaching assistance, 🛠️ for hands-on activities, and others where appropriate.
 
----
 
 ### **DAY 1 – Introduction to AI & Mission Context + Team Formation**  
 **Theme: "Preparing for the Mission"**
