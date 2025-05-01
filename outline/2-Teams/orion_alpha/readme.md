@@ -1,4 +1,94 @@
+Here’s the expanded spec for **Team Orion Alpha**, incorporating the **optional camera** to enhance system monitoring, alert tracking, or time-lapse visualization.
 
+---
+
+## 🖥️ **Team Orion Alpha – Network Alert Dashboard + Messaging (Raspberry Pi 5)**  
+**Now with Optional Camera for Visual Logging**
+
+---
+
+### 🎯 **Mission Role**  
+Act as the **central dashboard** and messaging station for the mission.  
+Receive alerts from Vega/Nova teams, display system state on a web interface (Flask), and optionally **log dashboard status visually** via time-lapse or motion-based capture.
+
+---
+
+### 🧱 LEGO Build Purpose
+
+Construct a **command station** console with:
+
+- Mounted **Raspberry Pi + screen**
+- LED alert panel (3-color)
+- Optional camera mount to watch the dashboard or alert lights
+- Optional: message board for crew notifications
+
+---
+
+### 🧰 Key Hardware + Additions
+
+| Type             | Qty | Purpose                                                     |
+|------------------|-----|-------------------------------------------------------------|
+| Raspberry Pi 5   | 1   | Host Flask app, process incoming messages/logs             |
+| LED indicators   | 3   | Red, Yellow, Green for alert status                         |
+| Optional OLED    | 1   | Additional display for message readout                      |
+| USB/CSI camera   | 1   | Visual record of dashboard status or alert light behavior   |
+| Wi-Fi connected  | 1   | Required to receive status feeds from Nova/Vega             |
+
+---
+
+### 🧪 AI + System Logic
+
+| Component     | Task                                                                  |
+|---------------|-----------------------------------------------------------------------|
+| Flask server  | Receives POSTs or socket signals from Nova/Vega                       |
+| LED outputs   | Displays current system status                                        |
+| Logger        | Tracks all status messages with timestamps                            |
+| Camera (opt.) | Captures image every X minutes or on alert change                    |
+| NAS Sync      | Store log and snapshots in shared folder for instructor review        |
+
+---
+
+### 🔁 **Interaction Flow (with Camera)**
+
+1. Vega triggers an alert: “Deck B Overheating”  
+2. Orion Alpha dashboard receives alert → LED = Red  
+3. Flask UI updates with message: “🔥 Deck B – Temp = 31°C”  
+4. Optional camera records snapshot of dashboard/light state  
+5. Log entry created:  
+   `{timestamp, source: Vega Alpha, alert: High Temp, image: alert_031.jpg}`  
+6. Used by Orion Beta to forecast and correlate with object flows
+
+---
+
+### ⏱️ **Feasibility Timeline with Camera**
+
+| Day       | Activities                                                                |
+|-----------|----------------------------------------------------------------------------|
+| **Day 1** | Flask server setup + test message reception from dummy sender             |
+| **Day 2** | LED alerts connected to Flask actions; UI shows simulated logs            |
+| **Day 3** | Camera setup: time-lapse or trigger-based image capture                   |
+| **Day 4** | Validate incoming messages from Vega/Nova; capture alert snapshots         |
+| **Day 5** | Polish dashboard interface, review alert logs, prep presentation           |
+
+---
+
+### 🛠️ **Design Constraints**
+- **Real-time alerts** must be visible via LEDs  
+- **Log must match** alert events (even if no camera is used)  
+- If camera used, **files must be labeled with alert name + timestamp**
+
+---
+
+### 💡 Optional Upgrades
+- Include a **text-to-speech alert** using speakers  
+- Sync a shared message queue that displays the last 3 active alerts  
+- Use the camera for **motion-based trigger** (e.g., when someone approaches dashboard)
+
+---
+
+Would you like **Orion Beta** next, or a combined printable version of all teams reviewed so far?
+
+old_stuff__>
 ## 📡 Team Orion Alpha – Peer-to-Peer Messaging + Mission Sync (ESP32 or Pi)
 
 ---
