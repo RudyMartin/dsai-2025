@@ -1,4 +1,11 @@
 
+Team Overview: Contains documents detailing which team you belong to (Nova, Vega, Orion) and what your team’s focus will be.
+
+Team Resources: The specific mission your team will work on and any hardware or software you will be using.
+
+Team Roles: Specific tasks and responsibilities for each student within your team.
+
+
 🛰️ **Recommended Team Structure**
 
 > Mission Group	Teams  are  3-5 students paired based on skills for mission.
