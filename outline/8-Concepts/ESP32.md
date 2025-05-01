@@ -32,5 +32,41 @@ Here’s a curated list of **10 useful resource links** to help you and your tea
    https://esp32.com/viewtopic.php?t=25199  
 
 10. **ESP32-S3 DevKit Getting Started with Arduino**  
-   https://docs.espressif.com/projects/arduino-esp32/en/latest/esp32s3/boards.html  
+   https://docs.espressif.com/projects/arduino-esp32/en/latest/esp32s3/boards.html
+
+[![ESP32: Guide for MicroSD Card Module Arduino | Random Nerd Tutorials](https://tse2.mm.bing.net/th?id=OIP.QFz_FkXjz3aDpWE8cdTxpgHaH-&pid=Api)](https://randomnerdtutorials.com/esp32-microsd-card-arduino/)
+Absolutely! To assist your teams with integrating cameras and microSD cards into their ESP32 projects, here are some highly recommended YouTube tutorials:
+
+---
+
+### 🎥 **ESP32-CAM Tutorials**
+
+1. **ESP32-CAM Complete Guide**  
+   This comprehensive video covers the basics of the ESP32-CAM, including programming with Arduino, wiring, and more.  
+   📺 [Watch here](https://www.youtube.com/watch?v=hSr557hppwY)
+
+2. **Unlocking the Power of ESP32-CAM - Full Guide**  
+   An in-depth guide tailored for Arduino IDE enthusiasts, exploring the capabilities of the ESP32-CAM.  
+   📺 [Watch here](https://www.youtube.com/watch?v=R_GY0zbM1bM)
+
+3. **ESP32-CAM: Unboxing & Setting Up**  
+   A tutorial that dives into setting up the ESP32-CAM, perfect for DIY enthusiasts.  
+   📺 [Watch here](https://www.youtube.com/watch?v=O3q-6ga4zlA)
+
+---
+
+### 💾 **ESP32 with MicroSD Card Tutorials**
+
+1. **ESP32 Tutorial 40 - Reading and Writing to Micro SD Card**  
+   Learn how to use the ESP32 with a microSD card to read and write data, using SunFounder's Camera Extension board.  
+   📺 [Watch here](https://www.youtube.com/watch?v=IoK1KvO2EwI)
+
+2. **How to Use Micro SD Card Adapter - ESP32 and ESP8266**  
+   This video discusses using a microSD card adapter with ESP32 and ESP8266, including wiring and code examples.  
+   📺 [Watch here](https://www.youtube.com/watch?v=ZJEM-ASi280)
+
+3. **ESP32 SD Card Interfacing Fast!**  
+   A quick tutorial on setting up the ESP32 to interface with an SD card module using the Arduino IDE.  
+   📺 [Watch here](https://www.youtube.com/watch?v=e1xOgZsnAuw)
+
 
