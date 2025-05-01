@@ -86,4 +86,3 @@
 
 ---
 
-✅ Ready for part 3: **Blocker Playbook** — what to do when a component fails or a team is behind?
