@@ -1,4 +1,4 @@
-# Camp Schedule
+# Camp Activity Schedule
 
 ### **DAY 1 – Introduction to AI & Mission Context + Team Formation**  
 **Theme: "Preparing for the Mission"**
