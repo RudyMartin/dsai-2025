@@ -134,4 +134,4 @@ Welcome to the **AI/Robotics Camp**! This week is designed to immerse students i
 - **We will  use the gitbub  repo for updates of daily mission schedules.**
 - **This plan is designed to keep things moving while providing ample time for reflection, troubleshooting, and collaboration.**
 
-Let me know if you need further changes!
+Let me know if you need further changes!  - Rudy  Martin
