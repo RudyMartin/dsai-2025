@@ -94,8 +94,17 @@
 
 ---
 
-### **Key Additions:**
-- **Debriefs** and **self-assessments** after each flight simulation (**Days 2–4**) to help students reflect on their work and identify areas for improvement.
-- **Team collaboration time** is structured for students to **discuss progress** and troubleshoot challenges, ensuring they remain on track throughout the project.
-  
-Let me know if you need any further adjustments!
+### **Summary of Bare Essential Modules:**
+Introduction to AI & Data Science
+
+Introduction to Python Programming
+
+Introduction to Computer Vision
+
+Hands-on Training with Object Detection
+
+Model Evaluation and Error Analysis
+
+Team Collaboration and Project Work
+
+Presentation Skills and Career Exploration
