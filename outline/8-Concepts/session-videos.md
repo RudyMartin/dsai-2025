@@ -1,6 +1,6 @@
 
 [Lego Brick Connection](https://www.youtube.com/watch?v=l4RxBGn-_ac)
-
+- Download software https://education.lego.com/en-us/downloads/retiredproducts/nxt/software/
 
 [UART 3-post Pins Pi5](https://www.youtube.com/watch?v=LsNIRMNAAZ8&t=364s)
 
