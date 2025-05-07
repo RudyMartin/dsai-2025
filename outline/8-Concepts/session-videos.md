@@ -1,4 +1,6 @@
 
+[UART Pins Pi5](https://www.youtube.com/watch?v=LsNIRMNAAZ8&t=364s)
+
 [ESP32 Projects](https://www.youtube.com/watch?v=sjIpt7wNMN8)
 
 [Example ESP32 - using  tasks](https://www.youtube.com/watch?v=382p1NT1Wcs&t=76s)
