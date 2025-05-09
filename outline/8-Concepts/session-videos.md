@@ -5,6 +5,9 @@
 [Lego Brick Connection](https://www.youtube.com/watch?v=l4RxBGn-_ac)
 - Download software https://education.lego.com/en-us/downloads/retiredproducts/nxt/software/
 
+[What is Ardiuino](https://www.youtube.com/watch?v=nL34zDTPkcs)
+- 
+
 [UART 3-post Pins Pi5](https://www.youtube.com/watch?v=LsNIRMNAAZ8&t=364s)
 
 [ESP32 Projects](https://www.youtube.com/watch?v=sjIpt7wNMN8)
