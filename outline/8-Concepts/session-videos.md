@@ -1,4 +1,7 @@
 
+[About the Lego NXT](https://www.youtube.com/watch?v=l0vqZQMF0A4&t=133s)
+- While this is dated tech we are using it facilitate discussion and give you a no-risk exoerience
+
 [Lego Brick Connection](https://www.youtube.com/watch?v=l4RxBGn-_ac)
 - Download software https://education.lego.com/en-us/downloads/retiredproducts/nxt/software/
 
