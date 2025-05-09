@@ -1,3 +1,9 @@
+[What is IOT?](https://www.youtube.com/watch?v=7yYb2224yH0&t=49s)
+- first wave = computers
+- second wave = cell phones
+- third wave = connected devices
+
+
 
 [About the Lego NXT](https://www.youtube.com/watch?v=l0vqZQMF0A4&t=133s)
 - While this is dated tech we are using it facilitate discussion and give you a no-risk starting exoerience
