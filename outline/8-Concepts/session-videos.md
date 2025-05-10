@@ -3,7 +3,8 @@
 - second wave = cell phones
 - third wave = connected devices
 
-
+** Lego Automated ARMS**
+- [Lego 6-axis Robot Arm -  Very Industrial](https://www.youtube.com/watch?v=LEbUUOfdNLM)
 
 [About the Lego NXT](https://www.youtube.com/watch?v=l0vqZQMF0A4&t=133s)
 - While this is dated tech we are using it facilitate discussion and give you a no-risk starting exoerience
