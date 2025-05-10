@@ -20,7 +20,10 @@
 [motor controllers](https://www.youtube.com/watch?v=-PCuDnpgiew)
 
 [NXT Motor Design](https://www.philohome.com/nxtmotor/nxtmotor.htm)
--  Impressive how much you get 
+-  Impressive how much you get
+
+[Servo Controller](https://www.adafruit.com/product/815)
+- Explains what this does
 
 [UART 3-post Pins Pi5](https://www.youtube.com/watch?v=LsNIRMNAAZ8&t=364s)
 
