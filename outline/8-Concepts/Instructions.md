@@ -214,7 +214,7 @@ Great question! In the image, the **I2C wires** connect the Arduino to the PCA96
 
 ## 5.**Specs for I2C Wires in This Setup**
 
-<Needs update>
+TODO:Needs update
 
 ### **1. Wire Type**
 - **Standard 22 AWG or 24 AWG solid or stranded hookup wire** is commonly used on breadboards and for short I2C runs.
