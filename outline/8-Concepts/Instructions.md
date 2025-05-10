@@ -208,3 +208,56 @@ Citations:
 
 ---
 
+Great question! In the image, the **I2C wires** connect the Arduino to the PCA9685 servo driver (the blue board on the breadboard). These wires are responsible for carrying the I2C communication signals: **SDA (data)** and **SCL (clock)**.
+
+---
+
+## 5.**Specs for I2C Wires in This Setup**
+
+<Needs update>
+
+### **1. Wire Type**
+- **Standard 22 AWG or 24 AWG solid or stranded hookup wire** is commonly used on breadboards and for short I2C runs.
+- **Jumper wires** (male-to-male or male-to-female) are often used for convenience.
+
+### **2. Length**
+- For reliable I2C communication, keep wires **as short as possible** (ideally under 50cm/20in for typical breadboard setups).
+- In the image, the wires are only a few inches long, which is ideal.
+
+### **3. Pin Connections**
+- **SDA (Data):** Connects Arduino SDA pin (A4 on Uno) to PCA9685 SDA.
+- **SCL (Clock):** Connects Arduino SCL pin (A5 on Uno) to PCA9685 SCL.
+- **GND:** A ground wire should also connect Arduino GND to the PCA9685 GND.
+
+### **4. Voltage**
+- Both the Arduino Uno and PCA9685 operate at **5V logic** for I2C.
+- If using a 3.3V microcontroller (like ESP32), ensure the PCA9685 can accept 3.3V logic or use a logic level shifter.
+
+### **5. Pull-up Resistors**
+- I2C requires pull-up resistors (typically **4.7kΩ to 10kΩ** to 5V) on both SDA and SCL lines.
+- Many breakout boards (like the Adafruit PCA9685) already have these resistors onboard.
+
+---
+
+## **Summary Table**
+
+| Parameter         | Typical Value/Spec           |
+|-------------------|-----------------------------|
+| Wire Gauge        | 22–24 AWG                    |
+| Wire Type         | Solid or stranded, jumper    |
+| Length            | < 50 cm (20 in) recommended  |
+| Voltage Level     | 5V logic (Arduino Uno)       |
+| Pull-up Resistors | 4.7kΩ–10kΩ to VCC            |
+| Pins Used         | SDA (A4), SCL (A5), GND      |
+
+---
+
+**In short:**  
+Use standard 22–24 AWG jumper wires for I2C connections, keep them short, and ensure proper pull-up resistors are present. This will ensure reliable communication between your Arduino and the PCA9685 servo driver, just as shown in your image!
+
+Citations:
+[1] https://pplx-res.cloudinary.com/image/private/user_uploads/65334507/d0214715-77ce-43fc-bc21-663bab00eca0/servo_arduino.jpg
+
+---
+Answer from Perplexity: pplx.ai/share
+
