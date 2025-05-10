@@ -74,6 +74,8 @@ Citations:
 
 ## **3. Parts List for Multi-Servo ESP32 Project**
 
+TODO: Needs Update
+
 ### **1. Microcontroller**
 - **Arduino Uno** (or compatible board)
 
