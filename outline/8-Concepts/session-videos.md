@@ -6,6 +6,8 @@
 ** Lego Automated ARMS**
 - [Lego 6-axis Robot Arm -  Very Industrial](https://www.youtube.com/watch?v=LEbUUOfdNLM)
 
+- [Mini Robotic Arm with Arduino - Very Close](https://www.youtube.com/watch?v=JgC8sg4C1Ks)
+
 [About the Lego NXT](https://www.youtube.com/watch?v=l0vqZQMF0A4&t=133s)
 - While this is dated tech we are using it facilitate discussion and give you a no-risk starting exoerience
 
