@@ -12,7 +12,10 @@
 - Download software https://education.lego.com/en-us/downloads/retiredproducts/nxt/software/
 
 [What is Ardiuino](https://www.youtube.com/watch?v=nL34zDTPkcs)
-- 
+
+
+[Motors are ..](https://www.youtube.com/shorts/rift8UbrAyQ)
+- Gret overview 18min
 
 [UART 3-post Pins Pi5](https://www.youtube.com/watch?v=LsNIRMNAAZ8&t=364s)
 
