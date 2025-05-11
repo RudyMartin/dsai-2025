@@ -449,4 +449,74 @@ Citations:
 - This setup allows the arm to rotate, lift, extend, and grip LEGO pieces for sorting.
 
 
+Here is the complete parts list for your project, organized into logical subsets with detailed item descriptions, quantities, sources, unit prices, subtotals, and notes:
+
+---
+
+## A. Main Controller & Processing
+
+| Item                                            | Quantity | Source                       | Unit Price | Subtotal | Notes                                                      |
+|-------------------------------------------------|----------|------------------------------|------------|----------|------------------------------------------------------------|
+| Seeed Studio XIAO ESP32 S3 Sense (with OV2640 camera) | 1        | Seeed / Digi-Key / Mouser    | $30.00     | $30.00   | Main controller with built-in camera and wireless support   |
+
+---
+
+## B. Actuators & Motion Components
+
+| Item                                            | Quantity | Source                       | Unit Price | Subtotal | Notes                                                      |
+|-------------------------------------------------|----------|------------------------------|------------|----------|------------------------------------------------------------|
+| Micro Servo - TowerPro SG92R                    | 4        | Adafruit                     | $5.95      | $23.80   | For sorting arm/gates; enough torque for LEGO pieces        |
+| 28BYJ-48 Stepper Motor + ULN2003 Driver (optional) | 1        | Amazon / eBay                | $5.00      | $5.00    | For motorized conveyor; budget-friendly and easy to control |
+
+---
+
+## C. Mechanical Mounts & Adapters
+
+| Item                                            | Quantity | Source                       | Unit Price | Subtotal | Notes                                                      |
+|-------------------------------------------------|----------|------------------------------|------------|----------|------------------------------------------------------------|
+| LEGO-Compatible Servo Mount/Adapter             | 4        | Adafruit / 3D print          | $1.75      | $7.00    | Mounts servos to LEGO beams for modular arm construction    |
+| Vertical Micro Servo Mount                       | 2        | Adafruit                     | $1.95      | $3.90    | For mounting servos vertically                              |
+| Horizontal Micro Servo Mount                     | 2        | Adafruit                     | $1.75      | $3.50    | For mounting servos horizontally                            |
+
+---
+
+## D. Power Supply & Distribution
+
+| Item                                            | Quantity | Source                       | Unit Price | Subtotal | Notes                                                      |
+|-------------------------------------------------|----------|------------------------------|------------|----------|------------------------------------------------------------|
+| External 5V Power Supply (USB or barrel jack)   | 1        | Adafruit / Amazon            | $7.50      | $7.50    | Powers servos and motors reliably; separate from ESP32 power|
+
+---
+
+## E. Wiring & Prototyping Supplies
+
+| Item                                            | Quantity | Source                       | Unit Price | Subtotal | Notes                                                      |
+|-------------------------------------------------|----------|------------------------------|------------|----------|------------------------------------------------------------|
+| Jumper Wires (Male-Female, Female-Female)       | 1 set    | Adafruit / Amazon            | $4.00      | $4.00    | For all signal and power connections                       |
+| Hook-up Wire Spool Set (22AWG)                  | 1        | Adafruit                     | $7.95      | $7.95    | For custom wiring and permanent connections                |
+| Breadboard (optional)                           | 1        | Adafruit / Amazon            | $5.00      | $5.00    | Useful for prototyping and testing                         |
+
+---
+
+### Total Estimated Cost: **$91.65** (including optional items)
+
+---
+
+This parts list covers core components for your robotic sorting arm project, including controller, actuators, mounts, power supply, and wiring essentials. It aligns with common robotics component categories such as controllers, actuators, mechanical mounts, power, and wiring as described in robotics guides[1][2][3][5].
+
+If you need this in a spreadsheet format or want to add more components, just let me know!
+
+Citations:
+[1] http://howtorobot.com/expert-insight/robot-parts-and-components
+[2] https://uk.rs-online.com/web/content/discovery/ideas-and-advice/robotic-parts-guide
+[3] https://www.kevsrobots.com/learn/robotics_101/lesson_04.html
+[4] https://hal7df.github.io/pauls-tutorials/wpi/ch1/parts-code.html
+[5] https://robodk.com/blog/5-core-parts-of-a-robotic-arm/
+[6] https://www.revrobotics.com/content/docs/FRC-Robot-Basics-Guide.pdf
+[7] https://www.firstinspires.org/robotics/frc/kit-of-parts
+[8] https://www.depts.ttu.edu/coe/stem/gear/ev3/documents/EV3-Parts-List.pdf
+
+---
+Answer from Perplexity: pplx.ai/share
+
 
