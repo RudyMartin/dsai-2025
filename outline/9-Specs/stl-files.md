@@ -1,4 +1,9 @@
 
+ pwm.setPWM(SERVO_BASE, 0, angleToPulse(90));
+  pwm.setPWM(SERVO_SHOULDER, 0, angleToPulse(30));
+  pwm.setPWM(SERVO_ELBOW, 0, angleToPulse(50));
+  pwm.setPWM(SERVO_WRIST, 0, angleToPulse(90));
+  pwm.setPWM(SERVO_GRIPPER, 0, angleToPulse(0));  // Open
 
 ### 🔩 STL File List
 
@@ -16,8 +21,8 @@
 | 10 | `Lager3mm.stl`                 | Bearing (3 mm)               | 10 × 9.99 × 9       |
 | 11 | `MG90s-Halterung_Basis.stl`    | MG90S Mount (Base)           | 37.5 × 17.5 × 24    |
 | 12 | `MG90s-Halterung_V3-f.stl`     | MG90S Mount V3-f             | 33.5 × 17.5 × 24    |
-| 13 | `Oberarm_90mm_44mm_wide.stl`   | Upper Arm 90mm (Wide)        | 90 × 71 × 14        |
-| 14 | `Oberarm_90mm_44mm_wide-1.stl` | Upper Arm 90mm (Wide) - Copy | 90 × 71 × 14        |
+| 13 | `Oberarm_90mm_44mm_wide.stl`   | Shoulder 90mm (Wide)        | 90 × 71 × 14        |
+| 14 | `Oberarm_90mm_44mm_wide-1.stl` | Shoulder 90mm (Wide) - Copy | 90 × 71 × 14        |
 
 ---
 
