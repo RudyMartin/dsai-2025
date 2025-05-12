@@ -1,4 +1,4 @@
-```markdown
+
 # 🤖 Robot Arm + Conveyor Belt System – Hardware Specification
 
 ## 🧠 Controller
@@ -12,7 +12,7 @@
   - Digital IO (Stepper via ULN2003)
   - Camera pins (predefined by XIAO S3 Sense)
 
----
+
 
 ## 🤖 Robot Arm
 
