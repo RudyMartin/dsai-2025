@@ -1,9 +1,9 @@
 
- pwm.setPWM(SERVO_BASE, 0, angleToPulse(90));
-  pwm.setPWM(SERVO_SHOULDER, 0, angleToPulse(30));
-  pwm.setPWM(SERVO_ELBOW, 0, angleToPulse(50));
-  pwm.setPWM(SERVO_WRIST, 0, angleToPulse(90));
-  pwm.setPWM(SERVO_GRIPPER, 0, angleToPulse(0));  // Open
+-  pwm.setPWM(SERVO_BASE, 0, angleToPulse(90));
+-  pwm.setPWM(SERVO_SHOULDER, 0, angleToPulse(30));
+-  pwm.setPWM(SERVO_ELBOW, 0, angleToPulse(50));
+-  pwm.setPWM(SERVO_WRIST, 0, angleToPulse(90));
+-  pwm.setPWM(SERVO_GRIPPER, 0, angleToPulse(0));  // Open
 
 ### 🔩 STL File List
 
