@@ -12,7 +12,7 @@
   - Digital IO (Stepper via ULN2003)
   - Camera pins (predefined by XIAO S3 Sense)
 
-
+---
 
 ## 🤖 Robot Arm
 
@@ -116,6 +116,11 @@
 - System is intended for **low-torque, low-load educational demos**
 
 ---
+
+```
+
+Would you like this spec exported as a `.pdf` or `.md` file for download?
+
 
 ```
 
