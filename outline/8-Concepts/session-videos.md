@@ -9,6 +9,9 @@
 
 **Lego Automated ARMS**
 
+[Ten elevators](https://www.youtube.com/watch?v=ZdhM0SjlS9o&t=17s)
+[Ten Bridges](
+
 [Lego 6-axis Robot Arm](https://www.youtube.com/watch?v=LEbUUOfdNLM)
 - very industrial
 
@@ -41,6 +44,8 @@
 - Explains what this does
 
 **Robot Arms**
+
+[Bemaker.org](various)
 
 [Robotic Arm 4 DOF Lego Mindstorm Ev3 with steps](https://www.youtube.com/watch?v=AsEyM2mEj04)
 - With 400 pages of instruction!!
