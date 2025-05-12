@@ -14,8 +14,9 @@
 
 [Mini Robotic Arm with Arduino - Very Close](https://www.youtube.com/watch?v=JgC8sg4C1Ks)
 
-[Understanding the difference between NXT set versions](
-https://robotsquare.com/2012/02/18/understanding-nxt-versions/)
+[Understanding the difference between NXT set versions](https://robotsquare.com/2012/02/18/understanding-nxt-versions/)
+
+[Using EV3 with Arduino](https://github.com/StefansProjects/EV3ForESP32)
 
 [About the Lego NXT](https://www.youtube.com/watch?v=l0vqZQMF0A4&t=133s)
 - While this is dated tech we are using it facilitate discussion and give you a no-risk starting exoerience
@@ -49,6 +50,11 @@ https://robotsquare.com/2012/02/18/understanding-nxt-versions/)
 
 [Training My Robot Arm to Win Games](https://www.youtube.com/watch?v=C0PjeC7lFmw)
 - What every game player wants
+
+[Facial Recognition for Raspberry Pi with OpenCV and Python (Updated Tutorial)](https://www.youtube.com/watch?v=3TUlJrRJUeM)
+
+[Hand Recognition and Finger Identification with Raspberry Pi and OpenCV](https://core-electronics.com.au/guides/hand-identification-raspberry-pi/)
+
 
 **Other**
 
