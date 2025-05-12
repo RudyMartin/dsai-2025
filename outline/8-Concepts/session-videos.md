@@ -31,6 +31,8 @@
 [Robotic Arm 4 DOF Lego Mindstorm Ev3 with steps](https://www.youtube.com/watch?v=AsEyM2mEj04)
 - With 400 pages of instruction!!
 
+[Robot Arm & Controller - Building the DFRobot 5 DOF Robot Arm $149kit](https://www.youtube.com/watch?v=dzyKqRVN2kc&t=6s)
+
 [UART 3-post Pins Pi5](https://www.youtube.com/watch?v=LsNIRMNAAZ8&t=364s)
 
 [ESP32 Projects](https://www.youtube.com/watch?v=sjIpt7wNMN8)
