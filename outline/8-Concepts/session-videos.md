@@ -61,6 +61,10 @@
 [Hand Recognition and Finger Identification with Raspberry Pi and OpenCV](https://core-electronics.com.au/guides/hand-identification-raspberry-pi/)
 
 
+**Careers**
+[How to Make Six Figures in Robotics Without a PhD](https://www.youtube.com/watch?v=_7E-7WV0zsI)
+- Inspirational!
+
 **Other**
 
 [UART 3-post Pins Pi5](https://www.youtube.com/watch?v=LsNIRMNAAZ8&t=364s)
