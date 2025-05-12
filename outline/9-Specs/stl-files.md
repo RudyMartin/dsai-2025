@@ -24,6 +24,4 @@
 | 13 | `Oberarm_90mm_44mm_wide.stl`   | Shoulder 90mm (Wide)        | 90 × 71 × 14        |
 | 14 | `Oberarm_90mm_44mm_wide-1.stl` | Shoulder 90mm (Wide) - Copy | 90 × 71 × 14        |
 
----
 
-Let me know if you’d like this turned into a printable sheet or CSV.
