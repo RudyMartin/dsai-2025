@@ -43,6 +43,18 @@
 [Servo Controller](https://www.adafruit.com/product/815)
 - Explains what this does
 
+**BrickSort Projects**
+
+[How to Make a Conveyor Belt System at Home - Very Powerful](https://www.youtube.com/watch?v=o7VVmtX7SKs)
+- Budget friendly conveyor version
+
+[Como hacer una cinta transportadora, selección por tamaño](https://www.youtube.com/watch?v=z423DCyCrdk)
+- Converyor sorts by size
+
+[Banda Transportadora con Brazo Robótico](https://www.youtube.com/watch?v=ndnpGHhIiR4)
+- Arm lifts from conveyor onto the Transit destination
+
+   
 **Robot Arms**
 
 [Arduino & Robots Project 05: Building a Robot Arm. Design, Print, Assemble, and Program](https://www.youtube.com/watch?v=K7cXGwFUkkY)
