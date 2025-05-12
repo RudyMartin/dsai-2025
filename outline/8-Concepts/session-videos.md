@@ -5,6 +5,8 @@
 - second wave = cell phones
 - third wave = connected devices
 
+
+
 **Lego Automated ARMS**
 
 [Lego 6-axis Robot Arm](https://www.youtube.com/watch?v=LEbUUOfdNLM)
@@ -12,11 +14,15 @@
 
 [Mini Robotic Arm with Arduino - Very Close](https://www.youtube.com/watch?v=JgC8sg4C1Ks)
 
+[Understanding the difference between NXT set versions](
+https://robotsquare.com/2012/02/18/understanding-nxt-versions/)
+
 [About the Lego NXT](https://www.youtube.com/watch?v=l0vqZQMF0A4&t=133s)
 - While this is dated tech we are using it facilitate discussion and give you a no-risk starting exoerience
 
 [Lego Brick Connection](https://www.youtube.com/watch?v=l4RxBGn-_ac)
 - Download software https://education.lego.com/en-us/downloads/retiredproducts/nxt/software/
+
 
 [What is Ardiuino](https://www.youtube.com/watch?v=nL34zDTPkcs)
 
