@@ -1,10 +1,12 @@
-**Overvie**
+**Overview**
+
 [What is IOT?](https://www.youtube.com/watch?v=7yYb2224yH0&t=49s)
 - first wave = computers
 - second wave = cell phones
 - third wave = connected devices
 
 **Lego Automated ARMS**
+
 [Lego 6-axis Robot Arm](https://www.youtube.com/watch?v=LEbUUOfdNLM)
 - very industrial
 
@@ -18,7 +20,7 @@
 
 [What is Ardiuino](https://www.youtube.com/watch?v=nL34zDTPkcs)
 
-##Motors##
+**Motors**
 
 [Motors are ..](https://www.youtube.com/shorts/rift8UbrAyQ)
 - Gret overview 18min
@@ -31,7 +33,7 @@
 [Servo Controller](https://www.adafruit.com/product/815)
 - Explains what this does
 
-##Robot Arms##
+**Robot Arms**
 
 [Robotic Arm 4 DOF Lego Mindstorm Ev3 with steps](https://www.youtube.com/watch?v=AsEyM2mEj04)
 - With 400 pages of instruction!!
@@ -42,7 +44,7 @@
 [Training My Robot Arm to Win Games](https://www.youtube.com/watch?v=C0PjeC7lFmw)
 - What every game player wants
 
-##Other##
+**Other**
 
 [UART 3-post Pins Pi5](https://www.youtube.com/watch?v=LsNIRMNAAZ8&t=364s)
 
