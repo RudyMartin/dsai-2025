@@ -54,6 +54,10 @@
 [Banda Transportadora con Brazo Robótico](https://www.youtube.com/watch?v=ndnpGHhIiR4)
 - Arm lifts from conveyor onto the Transit destination
 
+**Conveyor  Belt**
+
+[Example - Food Industry](https://www.youtube.com/shorts/sKbp6FakFbI)
+- Fast food example
    
 **Robot Arms**
 
