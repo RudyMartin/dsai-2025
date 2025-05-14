@@ -64,6 +64,7 @@
 5. [Conveyor Systems](https://www.youtube.com/watch?v=tqLYhhV7u7Y) - What if you could connect these?
 6. [Inverse Kinematics](https://www.youtube.com/shorts/66irM5fhpsk) - AI-Vision based tracking
 7. [Mastering Belt Conveyor Motor Selection and Calculation: Ultimate Guide](https://www.youtube.com/watch?v=p4qzQi-DQlY)
+8. [Adding Flippers](https://www.youtube.com/watch?v=z423DCyCrdk) - The optional 3d Print.
 
    
 **Robot Arms**
