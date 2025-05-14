@@ -56,8 +56,9 @@
 
 **Conveyor  Belt**
 
-1. [Example - Food Industry](https://www.youtube.com/shorts/sKbp6FakFbI) - Fast food example
-2. [Example - Science Project](https://www.youtube.com/shorts/nsHHZhIUQlw) - Cheap but fast
+1. [Example - Art ](https://www.youtube.com/shorts/YvwAzXZCRqI)
+2. [Example - Food Industry](https://www.youtube.com/shorts/sKbp6FakFbI) - Fast food example
+3. [Example - Science Project](https://www.youtube.com/shorts/nsHHZhIUQlw) - Cheap but fast
    - https://www.youtube.com/watch?v=tdMBbVzRef4
 4. [Non-linear](https://www.youtube.com/shorts/Xew8Kwho1Vc) - Example of motor movement using alternate approach
 5. [Conveyor Systems](https://www.youtube.com/watch?v=tqLYhhV7u7Y) - What if you could connect these?  
