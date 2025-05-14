@@ -61,6 +61,9 @@
 
 [Example - Science Project](https://www.youtube.com/shorts/nsHHZhIUQlw)
 - Cheap but fast
+
+[Non-linear](https://www.youtube.com/shorts/Xew8Kwho1Vc)
+- Example of motor movement using alternate approach
    
 **Robot Arms**
 
