@@ -62,7 +62,8 @@
    - https://www.youtube.com/watch?v=tdMBbVzRef4
 4. [Non-linear](https://www.youtube.com/shorts/Xew8Kwho1Vc) - Example of motor movement using alternate approach
 5. [Conveyor Systems](https://www.youtube.com/watch?v=tqLYhhV7u7Y) - What if you could connect these?
-6. [Inverse Kinematics](https://www.youtube.com/shorts/66irM5fhpsk) - AI-Vidion based tracking
+6. [Inverse Kinematics](https://www.youtube.com/shorts/66irM5fhpsk) - AI-Vision based tracking
+7. [Making a Conveyor Belt with an Arduino and a Stepper Motor](https://www.youtube.com/watch?v=RDuuIwAJLi4) - How to videp
 
    
 **Robot Arms**
