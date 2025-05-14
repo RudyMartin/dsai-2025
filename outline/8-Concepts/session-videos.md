@@ -54,6 +54,8 @@
 [Banda Transportadora con Brazo Robótico](https://www.youtube.com/watch?v=ndnpGHhIiR4)
 - Arm lifts from conveyor onto the Transit destination
 
+- [Color Sensor](https://www.youtube.com/shorts/0rR6degauAE) - Robot and Conveyor Color Sensor
+
 **Conveyor  Belt**
 
 1. [Example - Art ](https://www.youtube.com/shorts/YvwAzXZCRqI)
