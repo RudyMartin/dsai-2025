@@ -88,8 +88,9 @@
 
 
 **Careers**
-[How to Make Six Figures in Robotics Without a PhD](https://www.youtube.com/watch?v=_7E-7WV0zsI)
-- Inspirational!
+
+1. [18 (ish) Mechanical Design Tips and Tricks for Engineers Inventors and Serious Makers: # 093](https://www.youtube.com/watch?v=TbWFRvMV3gw) - Tips
+2. [How to Make Six Figures in Robotics Without a PhD](https://www.youtube.com/watch?v=_7E-7WV0zsI) - Inspirational!
 
 **Other**
 
