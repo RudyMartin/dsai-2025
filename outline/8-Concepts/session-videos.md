@@ -45,16 +45,11 @@
 
 **BrickSort Projects**
 
-[How to Make a Conveyor Belt System at Home - Very Powerful](https://www.youtube.com/watch?v=o7VVmtX7SKs)
-- Budget friendly conveyor version
-
-[Como hacer una cinta transportadora, selección por tamaño](https://www.youtube.com/watch?v=z423DCyCrdk)
-- Converyor sorts by size
-
-[Banda Transportadora con Brazo Robótico](https://www.youtube.com/watch?v=ndnpGHhIiR4)
-- Arm lifts from conveyor onto the Transit destination
-
-- [Color Sensor](https://www.youtube.com/shorts/0rR6degauAE) - Robot and Conveyor Color Sensor
+1. [Banda Transportadora con Brazo Robótico](https://www.youtube.com/watch?v=ndnpGHhIiR4) - Arm lifts from conveyor onto the Transit destination
+2. [Color Sensor](https://www.youtube.com/shorts/0rR6degauAE) - Robot and Conveyor Color Sensor
+3. [Diagrame](https://www.youtube.com/watch?v=PjL9drjZAQU&t=1058s) - Conveor PDF
+4. [Como hacer una cinta transportadora, selección por tamaño](https://www.youtube.com/watch?v=z423DCyCrdk) - Converyor sorts by size
+5. [How to Make a Conveyor Belt System at Home - Very Powerful](https://www.youtube.com/watch?v=o7VVmtX7SKs) - Budget friendly conveyor version**
 
 **Conveyor  Belt**
 
