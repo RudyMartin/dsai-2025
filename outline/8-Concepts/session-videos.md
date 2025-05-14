@@ -58,6 +58,9 @@
 
 [Example - Food Industry](https://www.youtube.com/shorts/sKbp6FakFbI)
 - Fast food example
+
+[Example - Science Project](https://www.youtube.com/shorts/nsHHZhIUQlw)
+- Cheap but fast
    
 **Robot Arms**
 
