@@ -13,6 +13,16 @@ Here's a step-by-step guide to get you started:
 
    ```
    https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
+
+   
+   ```
+OR If  using  Seeedstudio boards:
+
+   ```
+
+  https://files.seeedstudio.com/arduino/package_seeeduino_boards_index.json
+
+   
    ```
 4. Go to **Tools > Board > Boards Manager**.
 5. Search for **"esp32"** and install the latest version by **Espressif Systems**.
