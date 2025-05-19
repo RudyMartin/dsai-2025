@@ -6,6 +6,12 @@
 - third wave = connected devices
 
 
+**ESP32 S3 Sense**
+
+[Xiao ESP32S3 Sense Review](https://www.youtube.com/watch?v=_67m6rpgLw4)  - Getting Started
+
+
+
 ##Basic Electronics##
 
 [How to Make a Circuit Board (Beginner's Guide)](https://www.youtube.com/watch?v=la5BafeXsUI&t=308s)  - Zero-to-Hero Electronics
