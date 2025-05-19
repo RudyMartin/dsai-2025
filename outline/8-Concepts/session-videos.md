@@ -6,6 +6,10 @@
 - third wave = connected devices
 
 
+##Basic Electronics##
+
+[How to Make a Circuit Board (Beginner's Guide)](https://www.youtube.com/watch?v=la5BafeXsUI&t=308s)  - Zero-to-Hero Electronics
+
 
 **Lego Automated ARMS**
 
