@@ -1,46 +1,20 @@
 ## Videos For General Sessions
 
 **Overview**
-
-[What is IOT?](https://www.youtube.com/watch?v=7yYb2224yH0&t=49s)
-- first wave = computers
-- second wave = cell phones
-- third wave = connected devices
-
+1. [What is IOT?](https://www.youtube.com/watch?v=7yYb2224yH0&t=49s)
+   - first wave = computers
+   - second wave = cell phones
+   - third wave = connected devices
+2. [18 (ish) Mechanical Design Tips and Tricks for Engineers Inventors and Serious Makers: # 093](https://www.youtube.com/watch?v=TbWFRvMV3gw) - Tips
+3. 
 
 
 ## Videos For Breakout Sessions
 
 **ESP32 S3 Sense**
-
-[Xiao ESP32S3 Sense Review](https://www.youtube.com/watch?v=_67m6rpgLw4)  - Getting Started
-
+1. [Xiao ESP32S3 Sense Review](https://www.youtube.com/watch?v=_67m6rpgLw4)  - Getting Started
 
 
-##Basic Electronics##
-
-[How to Make a Circuit Board (Beginner's Guide)](https://www.youtube.com/watch?v=la5BafeXsUI&t=308s)  - Zero-to-Hero Electronics
-
-
-**Lego Automated ARMS**
-
-[Ten elevators](https://www.youtube.com/watch?v=ZdhM0SjlS9o&t=17s)
-[Ten Bridges](
-
-[Lego 6-axis Robot Arm](https://www.youtube.com/watch?v=LEbUUOfdNLM)
-- very industrial
-
-[Mini Robotic Arm with Arduino - Very Close](https://www.youtube.com/watch?v=JgC8sg4C1Ks)
-
-[Understanding the difference between NXT set versions](https://robotsquare.com/2012/02/18/understanding-nxt-versions/)
-
-[Using EV3 with Arduino](https://github.com/StefansProjects/EV3ForESP32)
-
-[About the Lego NXT](https://www.youtube.com/watch?v=l0vqZQMF0A4&t=133s)
-- While this is dated tech we are using it facilitate discussion and give you a no-risk starting exoerience
-
-[Lego Brick Connection](https://www.youtube.com/watch?v=l4RxBGn-_ac)
-- Download software https://education.lego.com/en-us/downloads/retiredproducts/nxt/software/
 
 
 [What is Ardiuino](https://www.youtube.com/watch?v=nL34zDTPkcs)
@@ -57,6 +31,9 @@
 
 [Servo Controller](https://www.adafruit.com/product/815)
 - Explains what this does
+
+**Electronics 101**
+1. [How to Make a Circuit Board (Beginner's Guide)](https://www.youtube.com/watch?v=la5BafeXsUI&t=308s)  - Zero-to-Hero Electronics
 
 **Computer Aid Design 101**
 1. [Ten Tinkercad Tips and Tricks in Ten Minutes](https://www.youtube.com/watch?v=aB06DaYnuhU) - Very fast overview (https://tinkercad.com/)
@@ -106,10 +83,31 @@
 
 [Hand Recognition and Finger Identification with Raspberry Pi and OpenCV](https://core-electronics.com.au/guides/hand-identification-raspberry-pi/)
 
+**Lego Automated ARMS**
+
+1. [Ten elevators](https://www.youtube.com/watch?v=ZdhM0SjlS9o&t=17s) - People movers
+2. [Building 5 Lego Walkers](https://www.youtube.com/watch?v=LOJuK3eR8FM) - More moving ideas
+
+[Lego 6-axis Robot Arm](https://www.youtube.com/watch?v=LEbUUOfdNLM)
+- very industrial
+
+[Mini Robotic Arm with Arduino - Very Close](https://www.youtube.com/watch?v=JgC8sg4C1Ks)
+
+[Understanding the difference between NXT set versions](https://robotsquare.com/2012/02/18/understanding-nxt-versions/)
+
+[Using EV3 with Arduino](https://github.com/StefansProjects/EV3ForESP32)
+
+[About the Lego NXT](https://www.youtube.com/watch?v=l0vqZQMF0A4&t=133s)
+- While this is dated tech we are using it facilitate discussion and give you a no-risk starting exoerience
+
+[Lego Brick Connection](https://www.youtube.com/watch?v=l4RxBGn-_ac)
+- Download software https://education.lego.com/en-us/downloads/retiredproducts/nxt/software/
+
+
 ## Conversation Starters
 **Careers**
 
-1. [18 (ish) Mechanical Design Tips and Tricks for Engineers Inventors and Serious Makers: # 093](https://www.youtube.com/watch?v=TbWFRvMV3gw) - Tips
+
 2. [How to Make Six Figures in Robotics Without a PhD](https://www.youtube.com/watch?v=_7E-7WV0zsI) - Inspirational!
 
 **Other**
