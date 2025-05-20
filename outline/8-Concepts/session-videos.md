@@ -53,6 +53,10 @@
 [Servo Controller](https://www.adafruit.com/product/815)
 - Explains what this does
 
+**Computer Aid Design 101**
+1. [Changing Object Size Dimensions in TinkerCAD (2022)](https://www.youtube.com/watch?v=N0dMy7AQOV8) - Using ThinkerCAD
+2. [A better way to add threads to your 3D prints](https://www.youtube.com/watch?v=HgEEtk85rAY) - Connecting Pieces
+
 **BrickSort Projects**
 
 1. [Banda Transportadora con Brazo Robótico](https://www.youtube.com/watch?v=ndnpGHhIiR4) - Arm lifts from conveyor onto the Transit destination
