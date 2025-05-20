@@ -33,6 +33,7 @@
 1. [cults3d - source for our initial robot](https://cults3d.com/en/search?q=robotic+arm)
 2. [printables](https://www.printables.com/model) - very common source
 3. [StlBase](https://stlbase.com/browse/5dof+robot/) - robot search
+4. [Etsy](https://www.etsy.com/) - various vendors and projects
 
 ## Videos For Project Labs
 
