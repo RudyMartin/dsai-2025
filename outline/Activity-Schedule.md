@@ -17,7 +17,9 @@
 | **2:00–2:15**   | **PM Break**                                | Break for students to refresh.                 | -                                         |
 | **2:15–3:30**   | **S6: First Coding Exercise**               | Students practice **Python coding** exercises to implement basic object detection algorithms. | **Hands-on Training with Object Detection** |
 | **3:30–3:45**   | **S7: Team Formation & Goal Setting**       | Divide students into **teams** based on interests. Discuss **task allocation** and **role assignment**. | **Team Collaboration and Project Work**   |
-| **3:45–4:00**   | **S8: Team Brainstorming & Role Assignment** | Teams begin brainstorming their approach to the mission and plan tasks. | **Team Collaboration and Project Work**   |
+| **3:45–4:00**   | **S8: Team Brainstorming & Role Assignment** | Teams begin brainstorming their approach to the mission and plan tasks.
+[Slides](https://github.com/RudyMartin/dsai-2025/blob/main/outline/5-Presentation-Slides/12_Engineering_Design_Concepts_for_Students.pptx)
+| **Team Collaboration and Project Work**   |
 
 ---
 
