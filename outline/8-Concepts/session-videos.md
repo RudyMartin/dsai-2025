@@ -70,6 +70,8 @@
    
 **Robot Arms**
 
+1. [Mini Robotic Arm with Arduino - Save/Play Positions.](https://www.youtube.com/watch?v=cWuJPlkmxCE) - Quick ad
+
 [Arduino & Robots Project 05: Building a Robot Arm. Design, Print, Assemble, and Program](https://www.youtube.com/watch?v=K7cXGwFUkkY)
 - Basic Arm (Required)
 
