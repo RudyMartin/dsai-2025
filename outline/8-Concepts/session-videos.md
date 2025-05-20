@@ -59,9 +59,9 @@
 - Explains what this does
 
 **Computer Aid Design 101**
-1. [Ten Tinkercad Tips and Tricks in Ten Minutes](https://www.youtube.com/watch?v=aB06DaYnuhU) - Very fast overview
+1. [Ten Tinkercad Tips and Tricks in Ten Minutes](https://www.youtube.com/watch?v=aB06DaYnuhU) - Very fast overview (https://tinkercad.com/)
 2. [A better way to add threads to your 3D prints](https://www.youtube.com/watch?v=HgEEtk85rAY) - Making Threads for cylinders
-3. [Make a 3D Print Out of Any Outline Image in Tinkercad](https://www.youtube.com/watch?v=BsYD31_62BU) - Spice up your prints
+3. [Make a 3D Print Out of Any Outline Image in Tinkercad](https://www.youtube.com/watch?v=BsYD31_62BU) - Spice up your prints (https://convertio.co/)
 
 ## Videos For Project Labs
 
