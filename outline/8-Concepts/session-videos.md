@@ -54,9 +54,11 @@
 - Explains what this does
 
 **Computer Aid Design 101**
-1. [Changing Object Size Dimensions in TinkerCAD (2022)](https://www.youtube.com/watch?v=N0dMy7AQOV8) - Using ThinkerCAD
+1. [Ten Tinkercad Tips and Tricks in Ten Minutes](https://www.youtube.com/watch?v=aB06DaYnuhU) - Very fast overview
 2. [A better way to add threads to your 3D prints](https://www.youtube.com/watch?v=HgEEtk85rAY) - Making Threads for cylinders
-3. [Ten Tinkercad Tips and Tricks in Ten Minutes](https://www.youtube.com/watch?v=aB06DaYnuhU)
+3. [Make a 3D Print Out of Any Outline Image in Tinkercad](https://www.youtube.com/watch?v=BsYD31_62BU) - Spice up your prints
+
+## Videos For Project Labs
 
 **BrickSort Projects**
 
