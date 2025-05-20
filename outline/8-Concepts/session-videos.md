@@ -40,6 +40,10 @@
 2. [A better way to add threads to your 3D prints](https://www.youtube.com/watch?v=HgEEtk85rAY) - Making Threads for cylinders
 3. [Make a 3D Print Out of Any Outline Image in Tinkercad](https://www.youtube.com/watch?v=BsYD31_62BU) - Spice up your prints (https://convertio.co/)
 
+**3D Printing Sources**
+1. [cults3d - source for our initial robot](https://cults3d.com/en/search?q=robotic+arm)
+2. [printables](https://www.printables.com/model) - very common source
+
 ## Videos For Project Labs
 
 **BrickSort Projects**
