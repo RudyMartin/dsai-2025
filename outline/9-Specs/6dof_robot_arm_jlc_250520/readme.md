@@ -1,1 +1,9 @@
-files for jlc model order may 20th 2025
+
+
+### 📁 **Folder Guide**
+
+| **Folder**                | **Description**                                                                |
+|---------------------------|--------------------------------------------------------------------------------|
+| **📚 /**         | Stl files for odering robot kits                            |
+| **🛠️ 1-helpers/**   | Files used to create shapes                        |
+| **👨‍👩‍👧‍👦 2-documents/**     | Assembly and other instructions               |
