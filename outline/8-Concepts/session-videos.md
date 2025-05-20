@@ -1,3 +1,5 @@
+## Videos For General Sessions
+
 **Overview**
 
 [What is IOT?](https://www.youtube.com/watch?v=7yYb2224yH0&t=49s)
@@ -5,6 +7,9 @@
 - second wave = cell phones
 - third wave = connected devices
 
+
+
+## Videos For Breakout Sessions
 
 **ESP32 S3 Sense**
 
@@ -101,7 +106,7 @@
 
 [Hand Recognition and Finger Identification with Raspberry Pi and OpenCV](https://core-electronics.com.au/guides/hand-identification-raspberry-pi/)
 
-
+## Conversation Starters
 **Careers**
 
 1. [18 (ish) Mechanical Design Tips and Tricks for Engineers Inventors and Serious Makers: # 093](https://www.youtube.com/watch?v=TbWFRvMV3gw) - Tips
@@ -109,12 +114,6 @@
 
 **Other**
 
-[UART 3-post Pins Pi5](https://www.youtube.com/watch?v=LsNIRMNAAZ8&t=364s)
 
-[ESP32 Projects](https://www.youtube.com/watch?v=sjIpt7wNMN8)
-
-[Example ESP32 - using  tasks](https://www.youtube.com/watch?v=382p1NT1Wcs&t=76s)
-
-[Electric Water Pump](https://www.youtube.com/shorts/Lrxui5BbrP4)
 
 
