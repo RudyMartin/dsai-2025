@@ -1,4 +1,4 @@
-#🤖 Why Robot Arms + Cameras Make a Great Class Project
+# 🤖 Why Robot Arms + Cameras Make a Great Class Project
 1. Hands-On Learning with Real AI
 Students don’t just hear about AI — they see it in action:
 
