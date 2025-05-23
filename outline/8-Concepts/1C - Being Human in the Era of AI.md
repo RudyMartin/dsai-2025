@@ -60,6 +60,3 @@ By the end of this session, students will be able to:
 * Optional: Class Padlet or Google Doc for student AI ideas or reflections
 
 ---
-
-Let me know if you'd like a **Google Slides deck**, printable worksheet, or editable version for classroom delivery.
-
