@@ -3,6 +3,7 @@
 Learning Objectives
 - Set up Colab
 - Set up Google Drive
+- Coding exercises using Github / Python / Large Language Models (LLM)
 
 
 # Repo RAG
