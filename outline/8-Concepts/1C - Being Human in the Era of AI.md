@@ -2,7 +2,10 @@
 
 
 Learning Objectives
-- 
+- Basic AI Concepts
+- What is Data Science
+- AI Terms to Know
+- Quick Overview of AI Agent Types
 
 Videos:
 
