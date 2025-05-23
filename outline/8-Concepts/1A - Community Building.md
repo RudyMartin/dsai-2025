@@ -4,7 +4,7 @@ Learning Objectives
 - 
 # ESP32-S3 + Camera + Agentic Robotics Camp
 
-## Daily Lesson Previews (Markdown Format for Teaching)
+## Daily Lesson Previews
 
 ---
 
