@@ -1,4 +1,7 @@
 
+Not sure?? Use the WOKWI.com simulator
+
+
 We're using the **Seeed Studio XIAO ESP32S3 Sense** with a built-in **OV2640 camera**, you can stream live video to your laptop via Wi-Fi using the Arduino IDE. 
 
 Here's a step-by-step guide to get you started:
