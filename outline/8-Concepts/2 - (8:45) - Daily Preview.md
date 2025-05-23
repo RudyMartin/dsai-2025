@@ -1,6 +1,5 @@
 # ESP32-S3 + Camera + Agentic Robotics Camp
 
----
 
 ## 🧭 Day 2: Classification + Action – "Sort by Sight"
 
