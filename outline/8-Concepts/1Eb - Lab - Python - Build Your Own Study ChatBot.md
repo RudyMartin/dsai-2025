@@ -1,3 +1,9 @@
+45 minutes
+
+Learning Objectives
+- 
+
+
 # Repo RAG
 
 Building a RAG engine for a specific knowledge base is a core use case for Dspy and a great LLM python exercise.
