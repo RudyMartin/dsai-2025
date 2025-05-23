@@ -1,4 +1,5 @@
-45 minutes
+45 minutes  Topic/Discussion
+
 
 Learning Objectives
 - 
