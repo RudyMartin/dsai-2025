@@ -2,6 +2,19 @@ TODO: Revise this to simplify steps
 
 Defining a clear, consistent labeling concept is **crucial** for successful model training and reliable object detection/classification. Let's break down the process and agree on a labeling scheme tailored for your Lego Star Wars minifigures arranged by color, size, and style.
 
+
+Basic version uses blocks
+
+https://blog.roboflow.com/object-measurement-computer-vision/
+
+One class version : Color or Size
+Two class version : Color_Size
+Three or more versions: Color_Size_Style
+
+Hint:
+- For edge computing case use a multi-class label
+
+- 
 ---
 
 ## 1. **Labeling Concept: Multi-Class Structure**
