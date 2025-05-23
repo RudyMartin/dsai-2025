@@ -152,9 +152,5 @@ Simulate agents sharing status and collaborating to make decisions.
 
 ---
 
-Let me know if you'd like handouts, student activity checklists, or code starter files to go along with this daily lesson deck.
 
-i can use this deck as is and need the code starter files for daily lessons
-
-Again use the daily mission context.
 
