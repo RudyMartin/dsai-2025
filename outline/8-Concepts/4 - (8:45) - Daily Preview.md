@@ -33,9 +33,3 @@ Respond to environmental conditions: don’t just decide — adapt.
 ---
 
 
-
-### 💬 Discussion Prompt
-
-"How does your robot make a better decision when it talks to its teammates first?"
-
----
