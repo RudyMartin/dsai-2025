@@ -96,5 +96,3 @@ Learning Objectives
 * Recognize gestures or sign language 🤟
 
 ---
-
-Would you like a matching **Google Slides deck**, **handout**, or **hands-on activity ideas** to go with this?
