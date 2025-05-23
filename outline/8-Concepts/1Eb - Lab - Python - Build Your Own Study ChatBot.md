@@ -1,7 +1,8 @@
 45 minutes
 
 Learning Objectives
-- 
+- Set up Colab
+- Set up Google Drive
 
 
 # Repo RAG
