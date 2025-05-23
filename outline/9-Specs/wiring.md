@@ -1,4 +1,4 @@
-
+TODO : COMBINE/UPDATE WITH HINTS
 
 ## 1️⃣ Wiring Diagram: ESP32 + PCA9685 + ULN2003 + 5V Power Supply
 
