@@ -16,6 +16,7 @@ Dspy Integration:
 - Interactive Chat: Provides a simple loop for you to ask questions and receive answers based on the repository's content.
 
 **How to Use in Google Colab:**
+
 Open a new Google Colab notebook.
 Copy and paste the entire code block into a cell.
 Run the cell (Shift+Enter).
