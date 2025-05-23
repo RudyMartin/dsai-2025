@@ -1,6 +1,11 @@
 
 **Not sure?? Use the WOKWI.com simulator**
 
+Learning Objectives:
+- Install the ESP32 Board Package and Setup Camera
+- Configure Board Settings
+-
+-
 
 We're using the **Seeed Studio XIAO ESP32S3 Sense** with a built-in **OV2640 camera**, you can stream live video to your laptop via Wi-Fi using the Arduino IDE. 
 
