@@ -3,6 +3,8 @@
 Learning Objectives
 - Cover core technical ideas
 
+---
+
 
 ## 🧠 Ten Things to Know about Computer Vision
 
