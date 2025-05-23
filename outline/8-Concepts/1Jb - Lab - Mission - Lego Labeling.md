@@ -1,4 +1,4 @@
-Absolutely—defining a clear, consistent labeling concept is **crucial** for successful model training and reliable object detection/classification. Let's break down the process and agree on a labeling scheme tailored for your Lego Star Wars minifigures arranged by color, size, and style.
+Defining a clear, consistent labeling concept is **crucial** for successful model training and reliable object detection/classification. Let's break down the process and agree on a labeling scheme tailored for your Lego Star Wars minifigures arranged by color, size, and style.
 
 ---
 
