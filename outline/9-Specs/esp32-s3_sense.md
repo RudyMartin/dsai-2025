@@ -1,3 +1,5 @@
+TODO : COMBINE/UPDATE WITH HINTS
+
 Here's a **complete ESP32-S3 Sense (with camera)** sketch that:
 
 ✅ Captures a photo every few seconds
