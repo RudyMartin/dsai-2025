@@ -1,4 +1,4 @@
-30 minutes
+10 minutes
 
 Learning Objectives
 - 
