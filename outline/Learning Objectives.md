@@ -1,6 +1,4 @@
-Absolutely! Below, I’ve combined the “Material Covered” and “Educational Focus” columns into clear, bulleted learning objectives for each session. You can copy these directly into your documentation or slides.
 
----
 
 ## 5/22/25 Revised 5-Day Schedule – Learning Objectives
 
