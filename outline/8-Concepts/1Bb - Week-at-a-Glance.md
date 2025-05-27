@@ -2,37 +2,7 @@
 
 ---
 
-## 🧭 Day 1: Setup + First Motion – "Make It Move & See"
-
-### 🎯 Mission Objective
-
-Build and test a basic robotic system: camera + servo-controlled robot arm.
-
-### 🧠 Learning Objectives
-
-* Understand ESP32-S3 and Arduino IDE setup
-* Wire and control servo motors using PCA9685
-* Stream live video from the onboard OV2640 camera
-
-### 🔧 Key Activities
-
-* Upload sample servo sweep sketch
-* Test camera using Wi-Fi stream viewer
-* Discuss what each component does (servo, camera, board)
-
-### 📚 Vocabulary
-
-* PWM (Pulse Width Modulation)
-* GPIO (General Purpose Input/Output)
-* ESP32 microcontroller
-
-### 💬 Discussion Prompt
-
-"What does it mean for a robot to ‘see’ something? What can it do with that information?"
-
----
-
-## 🧭 Day 2: Classification + Action – "Sort by Sight"
+## 🧭 Day 1: Classification + Action – "Sort by Sight"
 
 ### 🎯 Mission Objective
 
@@ -62,7 +32,7 @@ Create a basic vision-to-action loop: detect object class, move to destination.
 
 ---
 
-## 🧭 Day 3: Memory + Routing Logic – "Smarter Decisions"
+## 🧭 Day 2: Memory + Routing Logic – "Smarter Decisions"
 
 ### 🎯 Mission Objective
 
@@ -89,6 +59,35 @@ Track and adapt based on system state (e.g., deck load).
 ### 💬 Discussion Prompt
 
 "What if the robot has to decide between two bad options? How should it choose?"
+
+---
+## 🧭 Day 3: Setup + First Motion – "Make It Move & See"
+
+### 🎯 Mission Objective
+
+Build and test a basic robotic system: camera + servo-controlled robot arm.
+
+### 🧠 Learning Objectives
+
+* Understand ESP32-S3 and Arduino IDE setup
+* Wire and control servo motors using PCA9685
+* Stream live video from the onboard OV2640 camera
+
+### 🔧 Key Activities
+
+* Upload sample servo sweep sketch
+* Test camera using Wi-Fi stream viewer
+* Discuss what each component does (servo, camera, board)
+
+### 📚 Vocabulary
+
+* PWM (Pulse Width Modulation)
+* GPIO (General Purpose Input/Output)
+* ESP32 microcontroller
+
+### 💬 Discussion Prompt
+
+"What does it mean for a robot to ‘see’ something? What can it do with that information?"
 
 ---
 
