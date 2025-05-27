@@ -152,5 +152,14 @@ Simulate agents sharing status and collaborating to make decisions.
 
 ---
 
+## Camp Schedule Alignment: Schedule vs. Student Overview
+
+| Day   | Theme                        | Schedule Components             | Notes                                                                 |
+|--------|-------------------------------|----------------------------------|-----------------------------------------------------------------------|
+| Day 1 | Setup + First Motion         | 1Ea, 1Eb, 1G, 1J, 1Ja           | Covers ESP32 setup, Python, servos, object detection, Arduino         |
+| Day 2 | Classification + Action      | 2E, 2Ea, 2Eb                    | Real-time predictions, LED display, if/else logic                     |
+| Day 3 | Memory + Routing Logic       | 3E, 3Ea, 3Eb, 3G                | Motion detection, conveyor logic, state-based routing                 |
+| Day 4 | Sensor-Aware Agents          | 4E, 4J, 4G                      | Group project debug, environment-reactive behavior                    |
+| Day 5 | Multi-Agent Simulation       | 5B, 5E, 5G, 5I, 5J              | Project wrap-up, messaging simulation, coordination protocol          |
 
 
