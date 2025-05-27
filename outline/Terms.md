@@ -8,7 +8,7 @@ Terms refer to specific words or phrases that have a particular meaning within o
 - "Daily Theme" - Concepts used to organize groups of sessions/labs.
 
 - "Kits" - All physical materials are provided by Instructor for use during this camp only. Not school property. Must be returned in working order for next camp
-- "Check-ins" - Daily Group Briefings in "Tech Scrum-style". Real teamwork coordination practice. Allow 2 minutes per group to present mission status, challenges and open issues.
+- "Check-ins" - Daily Group Briefings in tech scrum style. Real teamwork coordination practice. Allow 2 minutes per group to present mission status, challenges and open issues.
   
 - "Scaffolding" - Support Learning: Scaffolding provides temporary support that helps students build their skills and confidence. It breaks down complex tasks into smaller, manageable parts, allowing students to grasp concepts more easily. Teachers can implement scaffolding through various techniques, including:
   1. Modeling: Demonstrating the desired outcome or process before asking students to attempt it themselves. 
