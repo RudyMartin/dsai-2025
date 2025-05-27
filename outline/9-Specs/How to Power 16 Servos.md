@@ -120,6 +120,92 @@ Add 20% buffer → 9.6A × 1.2 = ~11.5A
 **E. Arduino Code** – How to code for the PCA9685 to control servos in sequence
 
 ---
+Great update! Since you’re using the **Freenove ESP32-S3 WROOM** instead of an Arduino, we need to:
 
-Let me know which follow-up you'd like to explore — or if you want a wiring diagram visual!
+1. **Use the correct SDA/SCL pins for ESP32-S3**
+2. **Adjust voltage logic levels properly**
+3. **Update the wiring diagram accordingly**
+
+Let’s go step by step. 🔍
+
+---
+
+# 🧠 PART 1: ESP32-S3 Pin Adjustments
+
+### 📡 The ESP32-S3 uses **I2C (SDA/SCL)** on specific GPIOs.
+
+For most ESP32 boards (including the Freenove S3), the default I2C pins are:
+
+| I2C Function | ESP32-S3 Pin | Label on Board (likely) |
+| ------------ | ------------ | ----------------------- |
+| **SDA**      | GPIO8        | D8 or IO8               |
+| **SCL**      | GPIO9        | D9 or IO9               |
+
+👉 You can redefine these in code if needed using `Wire.begin(SDA, SCL);`
+
+---
+
+# 🧰 PART 2: Updated PCA9685-to-ESP32-S3 Wiring Table
+
+| PCA9685 Pin       | Connect To on ESP32-S3 (Freenove) |
+| ----------------- | --------------------------------- |
+| **VCC**           | **3.3V** on ESP32 (for logic) ⚠️  |
+| **GND**           | **GND** on ESP32 & Power Supply   |
+| **SDA**           | **GPIO8 (D8)**                    |
+| **SCL**           | **GPIO9 (D9)**                    |
+| **V+** (Servo)    | **5V from External Power Supply** |
+| **OE (optional)** | Leave unconnected or GND          |
+
+⚠️ **Important**: The PCA9685 supports **3.3V logic**, so it's safe to connect directly to the ESP32’s 3.3V and GPIOs without a level shifter.
+
+---
+
+# 🔌 PART 3: ASCII Wiring Diagram (ESP32-S3 + PCA9685 + Servos)
+
+```
+             +--------------------+
+             |   5V 3A Power      |
+             |    Supply          |
+             +----+       +-------+
+                  |       |
+                (V+)     (GND)
+                  |        |
+       +----------+        +-----------------------------+
+       |                                              +--+--+
+       |       PCA9685 Module                        | GND  |
+       |    +-----------------+                      |      |
+       |    | VCC   -> 3.3V ---+---- ESP32-S3 3.3V    +--+--+
+       |    | GND   ----------+---- ESP32-S3 GND        |
+       |    | SDA   ----------+---- ESP32-S3 GPIO8 (D8) |
+       |    | SCL   ----------+---- ESP32-S3 GPIO9 (D9) |
+       |    | V+    -> 5V Power (from Supply)           |
+       |    | PWMx  -> Servo Signal                     |
+       |    +-----------------+                         |
+       |                         +-------------+        |
+       +------------------------>+ Servo V+    |<-------+
+                                 | Servo GND   |<------- Shared GND
+                                 | Servo PWM   |<------- PCA9685 PWMx
+                                 +-------------+
+```
+
+---
+
+# 🧪 OPTIONAL BUT RECOMMENDED
+
+✅ Add a **1000μF capacitor** between V+ and GND near the PCA9685 board
+✅ Use **short, thick wires** (22 AWG or better)
+✅ Power the PCA9685 **VCC from 3.3V**, NOT 5V — to match ESP32 logic
+
+---
+
+# 🧭 WANT TO KEEP GOING?
+
+Would you like:
+
+**A. Example code for ESP32-S3 + PCA9685 + servo sweep?**
+**B. Color pinout diagram image for visual reference?**
+**C. Add an SD card, OLED, or other I2C device to the same bus?**
+
+Let me know what to build for you next!
+
 
