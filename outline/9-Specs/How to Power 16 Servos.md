@@ -1,4 +1,6 @@
+See  also:
 
+- [Linking Multiple PCA9685 Servo Driver Boards](https://www.youtube.com/watch?v=v1f_EDHV390)
 
 Here's a **step-by-step breakdown** of the YouTube video [“How to Power & Wire 16 Servo Motors for Arduino using PCA9685”](https://www.youtube.com/watch?v=UeS5nY345kc)
 
