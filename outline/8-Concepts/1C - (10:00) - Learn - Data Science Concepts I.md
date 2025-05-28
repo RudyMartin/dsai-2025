@@ -1,3 +1,6 @@
+
+Introductory Video: 4 mins [What is IOT? – Explains the "third wave" of smart devices](https://www.youtube.com/watch?v=7yYb2224yH0&t=49s)
+
 1C – Learn – Data Science Concepts I
 
 Purpose: Introduce students to AI fundamentals (features, models, training/testing).
