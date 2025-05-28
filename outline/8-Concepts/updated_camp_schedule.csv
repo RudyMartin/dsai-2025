@@ -1,0 +1,81 @@
+Session,Time,Type,Activity
+1,,Video,Session-videos
+1A,,,Community Building
+1Ba,9:30,,(9:30) – Schedule Overview
+1Bb,,,Week-at-a-Glance
+1Bc,9:45,Theme,(9:45) – Day 1 Theme – Sort by Sight
+1C,10:00,Learn,(10:00) – Learn – Data Science Concepts I
+1Cb,,,Agent Architecture
+1Cd,,,goals-vs-utility
+1D,10:30,Break,(10:30) Break
+1E,11:00,Lab,(11:00) – Lab 1 – Practical Python and LLM
+1Ea,11:00,Lab,(11:00) – Lab 1 – Python – Setup and Exercises
+1Eb,,Lab,Lab 1 – Python – Build Your Own Study ChatBot
+1F,11:45,Lunch,(11:45) Lunch
+1G,12:45,,(12:45) Your First Object Detection Program
+1Ga,,,Ten Things to Know about Computer Vision
+1Gb,,,Why Robot Arms + Cameras Make a Great Class Project
+1Gc,1:45,,(1:45)- Student Group Assignments
+1H,2:15,Break,(2:15) Break
+1I,2:25,Video,(2:25) Topic Video
+1J,2:30,Lab,(2:30) – Lab 2 – Object Detection Using Sensors
+1Ja,,Lab,Lab 2 – Mission – Arduino Setup and Exercise
+1Jb,,Lab,Lab 2 – Mission – Item Labeling
+1Jc,,Lab,Lab 2 – Mission – My First Model Deployment
+1K,4:00,Debrief,(4:00) – Debriefing and Next Steps
+2,8:45,Theme,(8:45) – Day 2 Theme – Smarter Decisions
+2A,9:00,,(9:00) – Group Check-ins
+2B,9:30,Learn,(9:30) – Learn – Mission Roles
+2C,10:00,Learn,(10:00) – Learn – Designing Agentic Systems
+2D,10:30,Break,(10:30) Break
+2E,,Lab,Lab 3 – Multi-modal Real-time Predictions
+2Ea,11:00,Lab,(11:00) – Lab 3 – Mission – Connecting with LLM
+2Ea1,11:00,Lab,(11:00) – Lab 3 – Mission – Result Analysis
+2Eb,11:00,Lab,(11:00) – Lab 3 – Mission – Install LED Display
+2F,11:45,Lunch,(11:45) Lunch
+2G,12:45,Learn,(12:45) – Learn – Model Evaluation and Metrics
+2H,2:15,Break,(2:15) Break
+2I,2:25,Video,(2:25) Topic Video
+2J,2:30,Lab,(2:30) – Lab 4 – AI Robot Automation
+2Ja,2:30,Lab,(2:30) – Lab 4 – Mission – Baseline Robot Arm Setup and Exercises
+2Jb,2:30,Lab,(2:30) – Lab 4 – Mission – Tinkercad 101
+2K,4:00,Debrief,(4:00) – Debriefing and Next Steps
+3A,9:00,,(9:00) – Group Check-ins
+3B,9:30,Learn,(9:30) – Learn – Advanced Models I 
+3C2,10:00,Learn,(10:00) – Learn – Advanced Models II
+3C1,8:45,Theme,(8:45) – Day 3 Theme – Make It Move & See
+3D,10:30,Break,(10:30) Break
+3E,11:00,Lab,(11:00) – Lab 5 – Motion Detection
+3Ea,11:00,Lab,(11:00) – Lab 5a – Assemble a Conveyor – or -
+3Ea,11:00,Lab,(11:00) – Lab 5b – Design Your Own Conveyor System
+3F,11:45,Lunch,(11:45) Lunch
+3G,12:45,Learn,(12:45) – Learn – Optimization and Tuning
+3H,2:15,Break,(2:15) Break
+3I,2:25,Video,(2:25) Topic Video
+3J,2:30,Lab,(2:30) – Lab 6 – Group Projects I – Development
+3K,4:00,Debrief,(4:00) – Debriefing and Next Steps
+4,8:45,Theme,(8:45) – Day 4 Theme – React to the World
+4A,9:00,,(9:00) – Group Check-ins
+4B,9:30,Learn,(9:30) – Learn – Presentation Rules and Resources
+4C,10:00,Panel,(10:00) – Panel – Career Opportunities
+4D,10:30,Break,(10:30) Break
+4E,11:00,Lab,(11:00) – Lab 7 – Group Projects II – Initial Runs
+4F,11:45,Lunch,(11:45) Lunch
+4G,1:45,Panel,(1:45) – Panel – Being Human in the Age of AI
+4G,1:45,Panel,(1:45) – Panel – Career Paths
+4H,2:15,Break,(2:15) Break
+4I,2:25,Video,(2:25) Topic Video
+4J,2:30,Lab,(2:30) – Lab 8 – Group Projects III – Debug
+4Jb,3:00,Lab,(3:00) – Lab 8b – Sensor Fusion Scenarios
+4K,4:00,Debrief,(4:00) – Debriefing and Next Steps
+5,8:45,Theme,(8:45) – Day 5 Theme – Robots That Talk
+5A,9:00,,(9:00) – Group Check-ins
+5B,9:30,Lab,(9:30) – Lab 9 – Group Projects IV – WrapUp
+5D,10:30,Break,(10:30) Break
+5E,11:00,Lab,(11:00) – Lab 10 – Group Projects V – Presentation Practice
+5F,11:45,Lunch,(11:45) Lunch
+5G,12:45,,(12:45) – Online Zoom Showcase
+5H,2:15,Break,(2:15) Break
+5I,2:25,Video,(2:25) Topic Video – Inspiration
+5J,2:30,,(2:30) – Awards and Certificates
+5K,4:00,Debrief,(4:00) – Debriefing and Next Steps
