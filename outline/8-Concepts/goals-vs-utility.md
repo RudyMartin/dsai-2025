@@ -64,5 +64,3 @@ It's a **smarter, more adaptive agent**.
 | Real-World Use  | Basic robotics, alarms  | Navigation, resource mgmt   |
 
 ---
-
-Would you like a **utility diagram** showing how an agent chooses between options with different scores? (Great for team teaching or slide visuals!)
