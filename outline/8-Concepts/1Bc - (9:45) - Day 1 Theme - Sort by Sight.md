@@ -1,4 +1,4 @@
-# ESP32-S3 + Camera + Agentic Robotics Camp
+# DSAI 2025 - ARTEMIS Summer Camp
 
 
 ## 🧭 Day 1: Classification + Action – "Sort by Sight"
