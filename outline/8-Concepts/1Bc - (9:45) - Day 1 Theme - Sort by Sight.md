@@ -44,8 +44,8 @@ Create a basic vision-to-action loop: detect object class, move to destination.
 | 11:00 | Lab      | 1Eb     | Build Your Own Study ChatBot          |
 | 11:45 | Lunch    | 1F      | Lunch                                 |
 | 12:45 | Learn    | 1G      | First Object Detection Program        |
-| 1:15  | Learn    | 1Ga/Gb  | Computer Vision + Robot Arms          |
-| 1:45  | Grouping | 1Gc     | Student Group Assignments             |
+| 1:15  | Learn    | 1Ga/Gb  | Computer Vision Fundamentals          |
+| 1:45  | Grouping | 1Gc     | Groups Formation + Mission Strategy   |
 | 2:15  | Break    | 1H      | Afternoon Break                       |
 | 2:25  | Video    | 1I      | Topic Video                           |
 | 2:30  | Lab      | 1J/Ja   | Lab 2 – Sensor-Based Object Detection |
