@@ -1,6 +1,3 @@
-Here’s a clear slide outline for the modeling process, tailored to the five main tasks you’ll likely encounter this week. This format follows standard machine learning workflows and is easy to adapt for different project types[1][4][3].
-
----
 
 ## **Modeling Process for This Week’s Five Main Tasks**
 
