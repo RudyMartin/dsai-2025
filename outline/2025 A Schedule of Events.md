@@ -26,10 +26,11 @@ Each day follows a consistent pattern:
 | 10:00 | 1C          | 📘 Learn    | Data Science Concepts          |
 | 10:30 | 1D          | Break    | Morning Break                  |
 | 11:00 | 1E          | 🔬 Lab      | Lab 1 - Practical Python, ChatBots      |
-| 11:45 | 1F          | Break    | Lunch                          |
+| 11:45 | 1F          | Break    | Lunch  
 | 12:45 | 1G          | 📘 Learn    | Computer Vision Fundamentals   |
 | 1:45  | 1Gc         | 🧠 Group | Student Group Assignments      |
 | 2:15  | 1H          | Break      | Afternoon Break                |
+| 2:25  | 1I   | 📘 Topic Video | Related Video                       |
 | 2:30  | 1J          | 🔬 Lab      | Lab 2 – Arduino, Deploying Model to ESP32 |
 | 4:00  | 1K          |🔁 Debrief  | Debriefing and Next Steps      |
 
@@ -47,6 +48,7 @@ Each day follows a consistent pattern:
 | 11:45 | 2F          | Break    | Lunch                          |
 | 12:45 | 2G       | 📘 Learn  | Model Evaluation             |
 | 2:15  | 2H          | Break      | Afternoon Break                |
+| 2:25  | 2I   | 📘 Topic Video | Related Video                       |
 | 2:30  | 2J | 🔬 Lab   | Robot Arm + TinkerCAD        |
 | 4:00  | 2K          |🔁 Debrief  | Debriefing and Next Steps      |
 
@@ -57,7 +59,7 @@ Each day follows a consistent pattern:
 
 | Time  | Session | Type    | Activity                    |
 | ----- | ------- | ------- | --------------------------- |
-| 8:45  | 3A      | 🌅 Theme   | Make It Move & See          |
+| 8:45  | 3A      | 🌅 Theme   | Day 3 Theme - Make It Move & See          |
 | 9:30  | 3B      | 📘 Learn   | Advanced Models             |
 | 10:00 | 3C      | 📘 Learn   | State Memory                |
 | 10:30 | 3D          | Break    | Morning Break                  |
@@ -65,6 +67,9 @@ Each day follows a consistent pattern:
 | 11:45 | 3F          | Break    | Lunch                          |
 | 12:45 | 3G      | 📘 Learn   | Optimization and Tuning     |
 | 2:15  | 3H          | Break      | Afternoon Break                |
-| 2:30  | 3J      | 🔬 Lab     | Group Projects I            |
+| 2:25  | 3I   | 📘 Topic Video | Related Video                       |
+| 2:30  | 3J      | 🔬🧠  Lab     | Group Projects I – Start Building            |
 | 4:00  | 3K      | 🔁 Debrief | Project Progress Review     |
+
+
 
