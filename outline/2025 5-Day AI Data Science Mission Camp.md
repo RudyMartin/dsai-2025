@@ -1,6 +1,6 @@
 
 
-### **🚀 5-Day AI Data Science Mission Camp**  
+### **🚀 Artemis 5-Day AI Data Science Mission Camp**  
 ### 🎯 **OVERVIEW**
 
 | **Day**       | **Focus**                                               |
