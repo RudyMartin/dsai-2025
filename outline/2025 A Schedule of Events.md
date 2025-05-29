@@ -28,7 +28,7 @@ Each day follows a consistent pattern:
 | 11:00 | 1E          | 🔬 Lab      | Lab 1 - Practical Python, ChatBots      |
 | 11:45 | 1F          | Break    | Lunch                          |
 | 12:45 | 1G          | 📘 Learn    | Computer Vision Fundamentals   |
-| 1:45  | 1Gc         | 🧠 Grouping | Student Group Assignments      |
+| 1:45  | 1Gc         | 🧠 Group | Student Group Assignments      |
 | 2:15  | 1H          | Break      | Afternoon Break                |
 | 2:30  | 1J          | 🔬 Lab      | Lab 2 – Arduino, Deploying Model to ESP32 |
 | 4:00  | 1K          |🔁 Debrief  | Debriefing and Next Steps      |
