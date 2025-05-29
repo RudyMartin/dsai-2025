@@ -92,3 +92,13 @@ Each day follows a consistent pattern:
 
 
 
+| Time  | Session | Type     | Activity                 |
+| ----- | ------- | -------- | ------------------------ |
+| 8:45  | 5       | Theme    | Robots That Talk         |
+| 9:30  | 5B      | Lab      | Project Wrap-Up          |
+| 11:00 | 5E      | Lab      | Presentation Practice    |
+| 12:45 | 5G      | Showcase | Online Zoom Presentation |
+| 2:30  | 5J      | Awards   | Awards and Certificates  |
+| 4:00  | 5K      | Debrief  | Final Reflections        |
+
+
