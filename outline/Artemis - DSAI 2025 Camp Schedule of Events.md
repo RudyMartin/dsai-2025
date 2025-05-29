@@ -16,7 +16,7 @@ Each day follows a consistent pattern:
 ### 🔍 **Day 1 – Foundations : Sort by Sight**
 
 **Theme:** Learning the basics of AI, Python, and Object Detection
-**Space Connection:** "Preparing for the Mission"
+  - **Space Connection:** "Preparing for the Mission"
 
 
 | Time  | Session     | Type     | Activity                       |
