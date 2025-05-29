@@ -65,7 +65,7 @@ Each day follows a consistent pattern:
 | 10:30 | 3D          | Break    | Morning Break                  |
 | 11:00 | 3E   | 🔬 Lab     | Motion Detection + Conveyor |
 | 11:45 | 3F          | Break    | Lunch                          |
-| 12:45 | 3G      | 📘 Learn   | Optimization and Tuning     |
+| 12:45 | 3G     c Optimization and Tuning     |
 | 2:15  | 3H          | Break      | Afternoon Break                |
 | 2:25  | 3I   | 📘 Topic Video | Related Video                       |
 | 2:30  | 3J      | 🔬🧠  Lab | Group Project 1 – Start Building            |
@@ -78,15 +78,15 @@ Each day follows a consistent pattern:
 | Time  | Session | Type  | Activity                     |
 | ----- | ------- | ----- | ---------------------------- |
 | 8:45  | 4A      | 🌅 Theme   | Day 3 Theme - React to the World           |
-| 10:00 | 4C      | Panel | Group Project Initial Runs   |
+| 9:30  | 4B      | 📘 Learn   | Presentation Rules & Resources               |
+| 10:00 | 4C      | 📘 Panel | Being Human in the Age of AI + Career Paths |
 | 10:30 | 4D          | Break    | Morning Break                  |
-| 11:00 | 4E      | 🔬🧠 Lab   | Group Project 2 - Initial Runs   |
-| 11:00 | 4E   | 🔬🧠  Lab | Motion Detection + Conveyor |
+| 11:00 | 4E   | 🔬🧠  Lab | Group Project 2 - Motion Detection + Conveyor |
 | 11:45 | 4F          | Break    | Lunch                          |
-| 1:45  | 4G      | 📘 Panel | Being Human in the Age of AI + Career Paths |
+| 1:45  | 4G      | 🔬🧠  Lab | Group Project 3 - Development + Tuning |
 | 2:15  | 4H          | Break      | Afternoon Break                |
 | 2:25  | 4I   | 📘 Topic Video | Related Video                       |
-| 2:30  | 4J      | 🔬🧠 Lab | Group Project 3 - Debug + Sensor Fusion        |
+| 2:30  | 4J      | 🔬🧠 Lab | Group Project 4 - Debug + Sensor Fusion        |
 | 4:00  | 4K      | 🔁 Debrief  | Team Debug Wrap-Up                           |
 
 
