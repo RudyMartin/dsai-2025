@@ -65,7 +65,7 @@ Each day follows a consistent pattern:
 | 10:30 | 3D          | Break    | Morning Break                  |
 | 11:00 | 3E   | 🔬 Lab     | Motion Detection + Conveyor |
 | 11:45 | 3F          | Break    | Lunch                          |
-| 12:45 | 3G     c Optimization and Tuning     |
+| 12:45 | 3G      | 📘 Learn   |  Optimization and Tuning     |
 | 2:15  | 3H          | Break      | Afternoon Break                |
 | 2:25  | 3I   | 📘 Topic Video | Related Video                       |
 | 2:30  | 3J      | 🔬🧠  Lab | Group Project 1 – Start Building            |
