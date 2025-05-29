@@ -2,7 +2,20 @@
 
 These three baseline options form the core of Mission Nova — the starting point for all student groups at the DSAI 2025 camp. Each activity builds foundational understanding of sensors, control logic, and classification. All teams begin here before branching into advanced missions.
 
+These three **project options** are **lightweight, accessible entry points** for students or teams with limited hardware or those who are newer to embedded AI systems. They fit neatly within our **Mission Nova** tier and are excellent stepping stones toward the more advanced **Mission Vega** and **Mission Orion** tracks.
+
 ---
+
+## 🧭 Where These Options Fit
+
+| Option     | Description                                         | Mission Level          | Purpose                                                                                         |
+| ---------- | --------------------------------------------------- | ---------------------- | ----------------------------------------------------------------------------------------------- |
+| ✅ Option 1 | Camera-Based Motion Detection using ESP32 or Webcam | **Nova**               | Introduces basic computer vision without physical movement. Helps students understand sensing.  |
+| ✅ Option 2 | Simulated Conveyor Using LEDs or Serial Output      | **Nova → Vega Bridge** | Builds logic skills. Introduces routing and decision-making using state-based triggers.         |
+| ✅ Option 3 | Google Colab + OpenCV Motion Detection              | **Nova**               | Allows laptop-only teams to engage in visual detection logic. Great for teams with no hardware. |
+
+---
+
 
 ## ✅ Option A: Motion Classification with LEDs
 
