@@ -102,7 +102,7 @@ Each day follows a consistent pattern:
 
 | Time  | Session | Type  | Activity                     |
 | ----- | ------- | ----- | ---------------------------- |
-| 8:45  | 5A      | 🌅 Theme    | Day Day 5 Theme - c           |
+| 8:45  | 5A      | 🌅 Theme    | Day Day 5 Theme - Robots that Talk           |
 | 9:30  | 5B      | 📘🧠 Learn    | Lab Deep Dive - Human AI          |
 | 10:00 | 5C      | 🔬🧠 Lab   | Lab 9 - Group - Project Wrap-Up          |
 | 10:30 | 5D      | Break    | Morning Break                  |
