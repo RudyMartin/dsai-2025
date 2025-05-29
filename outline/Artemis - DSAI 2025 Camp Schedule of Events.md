@@ -83,11 +83,11 @@ Each day follows a consistent pattern:
 | 10:00 | 4C      | 📘 Panel | Being Human in the Age of AI + Career Paths |
 | 10:30 | 4D          | Break    | Morning Break                  |
 | 11:00 | 4E   | 🔬🧠  Lab | Group Project 2 - Motion Detection + Conveyor |
-| 11:45 | 4F          | Break    | Lunch                          |
-| 1:45  | 4G      | 🔬🧠  Lab | Group Project 3 - Development + Tuning |
+| 11:45 | 4F          | Break    | Lunch     
+| 1:45  | 4G      | 📘🔬🧠  Lab | Group Project 3 -  Debug + Sensor Fusion |
 | 2:15  | 4H          | Break      | Afternoon Break                |
 | 2:25  | 4I   | 📘 Topic Video | Related Video                       |
-| 2:30  | 4J      | 🔬🧠 Lab | Group Project 4 - Debug + Sensor Fusion        |
+| 2:30  | 4J      | 🔬🧠 Lab | Group Project 4 - Development + Tuning        |
 | 4:00  | 4K      | 🔁 Debrief  | Team Debug Wrap-Up                           |
 
 
