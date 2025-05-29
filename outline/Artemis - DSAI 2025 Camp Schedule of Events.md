@@ -47,7 +47,7 @@ Each day follows a consistent pattern:
 | 10:30 | 2D          | Break    | Morning Break                  |
 | 11:00 | 2E   | 🔬 Lab   | LED Display + LLM Connection |
 | 11:45 | 2F          | Break    | Lunch                          |
-| 12:45 | 2G       | 📘 Learn  | Model Evaluation             |
+| 12:45 | 2G       | 📘🧠 Learn   | Lab Deep Dive -  Model Evaluation             |
 | 2:15  | 2H          | Break      | Afternoon Break                |
 | 2:25  | 2I   | 📘 Topic Video | Related Video                       |
 | 2:30  | 2J | 🔬 Lab   | Robot Arm + TinkerCAD        |
@@ -66,7 +66,7 @@ Each day follows a consistent pattern:
 | 10:30 | 3D          | Break    | Morning Break                  |
 | 11:00 | 3E   | 🔬 Lab     | Motion Detection + Conveyor |
 | 11:45 | 3F          | Break    | Lunch                          |
-| 12:45 | 3G      | 📘 Learn   |  Optimization and Tuning     |
+| 12:45 | 3G      | 📘🧠 Learn   | Lab Deep Dive - Optimization and Tuning     |
 | 2:15  | 3H          | Break      | Afternoon Break                |
 | 2:25  | 3I   | 📘 Topic Video | Related Video                       |
 | 2:30  | 3J      | 🔬🧠  Lab | Group Project 1 – Start Building            |
@@ -84,7 +84,7 @@ Each day follows a consistent pattern:
 | 10:30 | 4D          | Break    | Morning Break                  |
 | 11:00 | 4E   | 🔬🧠  Lab | Group Project 2 - Motion Detection + Conveyor |
 | 11:45 | 4F          | Break    | Lunch     
-| 1:45  | 4G      | 📘🔬🧠  Lab | Group Project 3 -  Debug + Sensor Fusion |
+| 12:45  | 4G      | 📘🧠 Lab | Lab Deep Dive -  Debug + Sensor Fusion |
 | 2:15  | 4H          | Break      | Afternoon Break                |
 | 2:25  | 4I   | 📘 Topic Video | Related Video                       |
 | 2:30  | 4J      | 🔬🧠 Lab | Group Project 4 - Development + Tuning        |
