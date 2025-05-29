@@ -1,3 +1,4 @@
+# Artemis - DSAI 2025 Camp Schedule of Events
 
 As of May 29,2025
 
