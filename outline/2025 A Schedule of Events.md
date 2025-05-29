@@ -32,3 +32,21 @@ Each day follows a consistent pattern:
 | 2:15  | 1H          | Break      | Afternoon Break                |
 | 2:30  | 1J          | 🔬 Lab      | Lab 2 – Arduino, Deploying Model to ESP32 |
 | 4:00  | 1K          |🔁 Debrief  | Debriefing and Next Steps      |
+
+### 🔍 **Day 2 – Smarter Decisions**
+
+**Theme:** Building reactive agents using logic and displays
+
+| Time  | Session  | Type  | Activity                     |
+| ----- | -------- | ----- | ---------------------------- |
+| 8:45  | 2        | 🌅 Theme | Day 2 Theme - Smarter Decisions            |
+| 9:30  | 2B       | 🧠 Group | Mission Roles                |
+| 10:00 | 2C       | 📘 Learn | Designing Agentic Systems    |
+| 10:30 | 1D          | Break    | Morning Break                  |
+| 11:00 | 2Ea/Eb   | 🔬 Lab   | LED Display + LLM Connection |
+| 11:45 | 1F          | Break    | Lunch                          |
+| 12:45 | 2G       | 📘 Learn  | Model Evaluation             |
+| 2:15  | 1H          | Break      | Afternoon Break                |
+| 2:30  | 2J/Ja/Jb | 🔬 Lab   | Robot Arm + TinkerCAD        |
+| 4:00  | 1K          |🔁 Debrief  | Debriefing and Next Steps      |
+
