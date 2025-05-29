@@ -39,7 +39,7 @@ Each day follows a consistent pattern:
 
 | Time  | Session  | Type  | Activity                     |
 | ----- | -------- | ----- | ---------------------------- |
-| 8:45  | 2        | 🌅 Theme | Day 2 Theme - Smarter Decisions            |
+| 8:45  | 2A        | 🌅 Theme | Day 2 Theme - Smarter Decisions            |
 | 9:30  | 2B       | 🧠 Group | Mission Roles                |
 | 10:00 | 2C       | 📘 Learn | Designing Agentic Systems    |
 | 10:30 | 2D          | Break    | Morning Break                  |
@@ -49,4 +49,22 @@ Each day follows a consistent pattern:
 | 2:15  | 2H          | Break      | Afternoon Break                |
 | 2:30  | 2J | 🔬 Lab   | Robot Arm + TinkerCAD        |
 | 4:00  | 2K          |🔁 Debrief  | Debriefing and Next Steps      |
+
+
+### 🔍 **Day 3 – Movement & Memory**
+
+**Theme:** Motion detection, routing logic, and system optimization
+
+| Time  | Session | Type    | Activity                    |
+| ----- | ------- | ------- | --------------------------- |
+| 8:45  | 3A      | 🌅 Theme   | Make It Move & See          |
+| 9:30  | 3B      | 📘 Learn   | Advanced Models             |
+| 10:00 | 3C      | 📘 Learn   | State Memory                |
+| 10:30 | 3D          | Break    | Morning Break                  |
+| 11:00 | 3E   | 🔬 Lab     | Motion Detection + Conveyor |
+| 11:45 | 3F          | Break    | Lunch                          |
+| 12:45 | 3G      | 📘 Learn   | Optimization and Tuning     |
+| 2:15  | 3H          | Break      | Afternoon Break                |
+| 2:30  | 3J      | 🔬 Lab     | Group Projects I            |
+| 4:00  | 3K      | 🔁 Debrief | Project Progress Review     |
 
