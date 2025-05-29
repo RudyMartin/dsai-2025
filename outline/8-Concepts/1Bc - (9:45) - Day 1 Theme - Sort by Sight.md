@@ -30,23 +30,28 @@ Create a basic vision-to-action loop: detect object class, move to destination.
 "If the robot sees red, how do we tell it what to do? Can we trust its decision?"
 
 ---
-## 🛰️ **Day 1 – Sort by Sight**
+
+
+### 🔍 **Day 1 – Foundations : Sort by Sight**
 
 **Theme:** Learning the basics of AI, Python, and Object Detection
 
-| Time  | Type     | Session | Activity                              |
-| ----- | -------- | ------- | ------------------------------------- |
-| 9:30  | Overview | 1Ba     | Schedule Overview                     |
-| 9:45  | Theme    | 1Bc     | Day 1 Theme – Sort by Sight           |
-| 10:00 | Learn    | 1C      | Data Science Concepts I               |
-| 10:30 | Break    | 1D      | Morning Break                         |
-| 11:00 | Lab      | 1E/Ea   | Python Setup and Practical LLM        |
-| 11:00 | Lab      | 1Eb     | Build Your Own Study ChatBot          |
-| 11:45 | Lunch    | 1F      | Lunch                                 |
-| 12:45 | Learn    | 1Ga     | Computer Vision Fundamentals          |
-| 1:45  | Grouping | 1Gb     | Groups Formation + Mission Strategy   |
-| 2:15  | Break    | 1H      | Afternoon Break                       |
-| 2:25  | Video    | 1I      | Topic Video                           |
-| 2:30  | Lab      | 1J      | Lab 2 – Labeling + Debug + Deploy     |
-| 4:00  | Debrief  | 1K      | End-of-Day Reflections                |
+
+| Time  | Session     | Type     | Activity                       |
+| ----- | ----------- | -------- | ------------------------------ |
+| 8:45  | 1A          | Welcome  | Intro Video                    |
+| 9:00  | 1A          | Welcome  | Community Building             |
+| 9:30  | 1Ba         | Overview | Schedule Overview              |
+| 9:45  | 1Bc         | Theme    | Day 1 Theme – Sort by Sight    |
+| 10:00 | 1C          | Learn    | Data Science Concepts          |
+| 10:30 | 1D          | Break    | Morning Break                  |
+| 11:00 | 1E          | Lab      | Lab 1 - Practical Python, ChatBots      |
+| 11:45 | 1F          | Break    | Lunch                          |
+| 12:45 | 1G          | Learn    | Computer Vision Fundamentals   |
+| 1:45  | 1Gc         | Grouping | Student Group Assignments      |
+| 2:15  | Break       | 1H       | Afternoon Break                |
+| 2:30  | 1J          | Lab      | Lab 2 – Arduino, Deploying Model to ESP32 |
+| 4:00  | 1K          | Debrief  | Debriefing and Next Steps      |
+
+
 
