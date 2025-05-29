@@ -1,4 +1,4 @@
-# DSAI 2025 - ARTEMIS Summer Camp
+# DSAI 2025 - ARTEMIS Summer Camp Daily Schedule
 
 
 ## 🧭 Day 1: Classification + Action – "Sort by Sight"
