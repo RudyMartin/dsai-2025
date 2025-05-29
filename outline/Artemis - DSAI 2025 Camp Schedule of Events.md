@@ -81,7 +81,7 @@ Each day follows a consistent pattern:
 
 | Time  | Session | Type  | Activity                     |
 | ----- | ------- | ----- | ---------------------------- |
-| 8:45  | 4A      | 🌅 Theme    | Day 3 Theme - React to the World           |
+| 8:45  | 4A      | 🌅 Theme    | Intelligent Systems: Connecting Chatbots to the Real World          |
 | 9:30  | 4B      | 📘 Learn   | Presentation Rules & Resources               |
 | 10:00 | 4C      | 📘 Panel   | Being Human in the Age of AI + Career Paths |
 | 10:30 | 4D      | Break       | Morning Break                  |
