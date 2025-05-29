@@ -96,9 +96,9 @@ Each day follows a consistent pattern:
 
 ### 🔍 **Day 5 – Robots that Talk**
 
-**Theme:** R
+**Theme:** Project wrap-up, presentations, and celebration
 
-**Space Connection:** "Report Back to Earth and Humanity"
+**Space Connection:** "Report Back to Earth"
 
 | Time  | Session | Type  | Activity                     |
 | ----- | ------- | ----- | ---------------------------- |
