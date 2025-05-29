@@ -53,7 +53,7 @@ Each day follows a consistent pattern:
 | 4:00  | 2K          |🔁 Debrief  | Debriefing and Next Steps      |
 
 
-### 🔍 **Day 3 – Movement & Memory**
+### 🔍 **Day 3 – Make It Move & See**
 
 **Theme:** Motion detection, routing logic, and system optimization
 
