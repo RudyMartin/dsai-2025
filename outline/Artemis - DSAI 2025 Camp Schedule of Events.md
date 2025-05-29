@@ -18,7 +18,6 @@ Each day follows a consistent pattern:
 **Theme:** Learning the basics of AI, Python, and Object Detection
   - **Space Connection:** "Preparing for the Mission"
 
-
 | Time  | Session     | Type     | Activity                       |
 | ----- | ----------- | -------- | ------------------------------ |
 | 8:45  | 1A          | 🌅 Welcome  | Intro Video                    |
@@ -39,7 +38,7 @@ Each day follows a consistent pattern:
 ### 🔍 **Day 2 – Smarter Decisions**
 
 **Theme:** Building reactive agents using logic and displays
-**Space Connection:** "Building and Testing the Systems"
+  - **Space Connection:** "Building and Testing the Systems"
 
 | Time  | Session  | Type  | Activity                     |
 | ----- | -------- | ----- | ---------------------------- |
@@ -59,7 +58,7 @@ Each day follows a consistent pattern:
 ### 🔍 **Day 3 – Make It Move & See**
 
 **Theme:** Motion detection, routing logic, and system optimization
-**Space Connection:** "You are the AI Engineers Now""
+  - **Space Connection:** "You are the AI Engineers Now""
 
 | Time  | Session | Type    | Activity                    |
 | ----- | ------- | ------- | --------------------------- |
@@ -78,7 +77,7 @@ Each day follows a consistent pattern:
 ### 🔍 **Day 4 – React to the World**
 
 **Theme:** Real-time feedback, sensor fusion, and debugging
-**Space Connection:** "Adapt or Fail"
+  - **Space Connection:** "Adapt or Fail"
 
 | Time  | Session | Type  | Activity                     |
 | ----- | ------- | ----- | ---------------------------- |
@@ -97,8 +96,7 @@ Each day follows a consistent pattern:
 ### 🔍 **Day 5 – Robots that Talk**
 
 **Theme:** Project wrap-up, presentations, and celebration
-
-**Space Connection:** "Report Back to Earth"
+- **Space Connection:** "Report Back to Earth"
 
 | Time  | Session | Type  | Activity                     |
 | ----- | ------- | ----- | ---------------------------- |
