@@ -3,7 +3,7 @@
 As of May 29,2025
 
 
-### ✅ **General Flow Check**
+### ✅ **General Flow Icons**
 
 Each day follows a consistent pattern:
 
