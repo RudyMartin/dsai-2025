@@ -18,6 +18,8 @@ Welcome to the official curriculum and resources repo for the **2025 AI Data Sci
 | **🎤 5-Presentation-Slides/** | Daily team logbook template, example decks, TA kickoff slides               |
 | **📝 6-Forms-Templates/** (optional) | Flight logs, checklists, and debrief forms for instructors or TAs          |
 | **🧭 7-TA/**               | Teaching aids, lesson plans, instructional resources for TAs                   |
+| **8-Concepts/**               | THIS IS FOR EVERYONE TO FOLLOW DAILY ACZTIVITIES - CHANGES                  |
+
 
 ---
 
