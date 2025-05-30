@@ -31,7 +31,7 @@ Run a trained classification model on a **Freenove ESP32-S3 WROOM**, using the o
 | **Freenove ESP32-S3 Breakout Board**  | 1   | \$11.90   | \$11.90  | Expands GPIO pins for sensors, servos, etc. |
 | **USB-C to USB-A Cable**              | —   | Included  | —        | Comes with Freenove kit                     |
 | **Mini screwdriver (in kit)**         | —   | Included  | —        | For terminal blocks                         |
-| **Computer / Serial Monitor**         | —   | Reused    | —        | Python or Arduino IDE monitor               |
+| **Computer / Serial Monitor**         | —   | School    | —        | Python or Arduino IDE monitor               |
 
 ---
 
