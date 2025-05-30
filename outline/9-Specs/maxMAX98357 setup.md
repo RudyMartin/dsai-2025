@@ -80,3 +80,27 @@ Set the correct pins in your code for BCLK, LRC, and DIN.
 
 Summary:
 Wire your JST connector to match the MAX98357 pinout, then connect those wires to the appropriate XIAO ESP32S3 Sense pins (power, ground, and I2S signals). Solder or crimp for secure connections, and configure your microcontroller’s I2S output in code for audio playback.
+
+---------
+
+Yes, you can solder a JST connector to the speaker output pads (OUT+ and OUT–) on the MAX98357 board and then use a matching JST plug on your speaker wires for a quick-connect solution. This is a common alternative to screw terminals, especially if you want a more secure or modular connection.
+
+How to do it:
+
+Identify the OUT+ and OUT– pads or holes on your MAX98357 board (sometimes labeled SPK+ and SPK–).
+
+Solder the wires from a JST socket to these pads, matching polarity.
+
+Attach a matching JST plug to your speaker wires.
+
+Now you can easily connect and disconnect your speaker using the JST connectors.
+
+Notes:
+
+Make sure the JST connector you use is rated for the current and wire gauge your speaker requires.
+
+Double-check polarity so that OUT+ goes to the speaker’s positive terminal and OUT– to negative.
+
+This method works as well as screw terminals and is especially useful for projects where you want to swap or disconnect speakers easily.
+
+This approach is safe and effective for connecting speakers to the MAX98357, as long as you maintain correct wiring and use connectors suitable for the current and voltage involved.
