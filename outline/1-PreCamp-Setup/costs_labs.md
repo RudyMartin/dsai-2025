@@ -42,8 +42,15 @@ Introduce students to Python and basic AI logic through Google Colab notebooks. 
 | Example Notebook Templates | —   | \$0.00    | \$0.00   | Provided in GitHub repo            |
 
 
-💵 Total Cost for Lab 1 (All 6 Teams): $0.00
+### 💵 **Total Cost for Lab 1 (All 6 Teams)**
 
+| Metric               | Value        |
+| -------------------- | ------------ |
+| Total Cost (6 teams) | **\$0** |
+| Per Group Cost       | **\$0*  |
+
+
+**✅ Lab 1 is the foundation**, giving students hands-on experience with Python and LLM logic in Colab — setting the stage for real-world applications with physical devices in Lab 2.
 
 ---
 
@@ -77,31 +84,29 @@ Run a trained classification model on a **Freenove ESP32-S3 WROOM**, using the o
 | Total Cost (6 teams) | **\$179.34** |
 | Per Group Cost       | **\$29.89**  |
 
-✅ Lab 2 is the hardware **on-ramp**, introducing embedded model execution with easy debugging and no sensor wiring needed yet.
 
-
-Here is the finalized Lab 3 budget page in the same format:
+**✅ Lab 2 is the hardware on-ramp**, introducing embedded AI by deploying a trained model directly to the ESP32-S3. With built-in camera input and serial output, students begin running edge inference with minimal setup — setting the stage for physical I/O in upcoming labs.
 
 ---
 
-## 🔬 **Lab 3 – LED Display + LLM Connection**
+### ✅ Requirements Alignment
 
----
+#### ✅ Functional
 
-### 🎯 **Goal:**
+| Requirement                | Met by                            |
+| -------------------------- | --------------------------------- |
+| Embedded model execution   | Freenove ESP32-S3 WROOM CAM board |
+| Image-based classification | Onboard OV2640 camera             |
+| Debugging via computer     | USB-C serial connection           |
 
-Build a system that:
+#### ✅ Narrative / Mission
 
-* Displays classification or LLM-based output on a **64×64 RGB LED Matrix**
-* Connects and communicates with the **ESP32-S3**
-* Uses **logic-level shifting** for safe 3.3V → 5V signal control
-* Prepares students for shared **capstone visual systems**
+| Requirement                              | Met by                                |
+| ---------------------------------------- | ------------------------------------- |
+| First edge-device AI execution           | Deployed model runs on ESP32 hardware |
+| Hands-on introduction to inference logic | Students observe model predictions    |
+| Foundation for real-time system feedback | Prepares for visual display in Lab 3  |
 
----
-
-### 🧰 Lab 3 Materials per Group Lab Kit
-
-Got it! Here's the **updated Lab 3 – LED Display + LLM Connection** section with the **RGB LED Matrix Panels** now explicitly costed and included.
 
 ---
 
@@ -140,7 +145,8 @@ Build a system that:
 | Per Group Cost | **\$63.91**  |
 
 
----
+**✅ Lab 3 introduces shared visual systems**, enabling groups to display AI-driven results and coordinate outputs — bridging embedded sensing with real-time feedback for Lab 4’s robotics.
+
 
 ### ✅ Requirements Alignment
 
@@ -160,9 +166,6 @@ Build a system that:
 | Consistent interface for teamwork | Reused setup supports continuity |
 | LLM interactivity                 | Output can be triggered via text |
 
----
-
-Here's the updated **Lab 4** budget with the actual **DIY 4DOF Wood Arm Kit** and **PCA9685 16-channel servo driver** included:
 
 ---
 
@@ -200,6 +203,8 @@ Build and simulate a basic robot arm:
 | Total Lab Cost | **\$195.42** |
 | Per Group Cost | **\$32.57**  |
 
+**✅ Lab 4 brings motion to life**, combining physical robotics with AI logic and control systems — setting the groundwork for voice-command interaction and environment sensing in Lab 5.
+
 ---
 
 ### ✅ Requirements Alignment
@@ -220,7 +225,6 @@ Build and simulate a basic robot arm:
 | Mechanical simulation/visual thinking | TinkerCAD integration    |
 | Transition to Capstone builds         | Reuse arm + PCA driver   |
 
-Here is the **updated Lab 5** cost summary and materials list — **PIR motion sensor removed**, focusing only on the **camera and voice command system via XIAO ESP32-S3**:
 
 ---
 
@@ -255,6 +259,29 @@ Simulate intelligent conveyor control using **camera input and voice commands** 
 | -------------- | ------------ |
 | Total Lab Cost | **\$219.66** |
 | Per Group Cost | **\$36.61**  |
+
+
+**✅ Lab 5 blends vision and voice**, empowering students to create intelligent agents that respond to camera input and spoken commands — forming a complete sense-think-act loop and laying the foundation for capstone system integration.
+
+---
+
+### ✅ Requirements Alignment
+
+#### ✅ Functional
+
+| Requirement                     | Met by                              |
+| ------------------------------- | ----------------------------------- |
+| Real-time visual recognition    | XIAO ESP32-S3 onboard camera        |
+| Voice-triggered actions         | Onboard digital microphone + TFLite |
+| Interactive control (servo/LED) | SG92R servo + RGB LED feedback      |
+
+#### ✅ Narrative / Mission
+
+| Requirement                               | Met by                            |
+| ----------------------------------------- | --------------------------------- |
+| Responsive environment simulation         | Voice + camera-based input logic  |
+| Visual status signaling                   | RGB LED (green/red for state)     |
+| Hardware continuity into Capstone systems | Reuse of camera, servo, LED, base |
 
 ---
 
