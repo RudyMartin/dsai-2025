@@ -1,23 +1,49 @@
 
-## 💬 **Camp Materials Funding Request**
+## 💬 **Camp Materials Reimbursement Request**
 
-> The *Artemis – DSAI 2025* Camp is a weeklong, hands-on experience introducing 24 students to the power of artificial intelligence and robotics. Each student receives a fully equipped lab kit, and teams share immersive Capstone kits that simulate real-world engineering challenges—from robotic arms to voice-controlled systems. Each lab materials kit costs  **\$122.42** per student. The additional Capstone group kits for 8 groups bringing the total to **\$3,986**.
->
-> I am seeking grant support to ensure each student can, and to cover the shortfall from shared kits. Your sponsorship directly empowers the next generation of engineers, scientists, and creators.
+Designing the new Artemis camp curriculum has been a truly rewarding experience. It’s been exciting to see the potential of hands-on learning with Generative AI and Robotics come to life for students in such a meaningful way.
+
+As we transitioned from concept to implementation, it became clear that providing students with rich, group-based, project kits would require a deeper investment in materials than I had originally anticipated. To ensure a high-quality experience, I’ve personally funded all 6 Lab Kits and all 8 Capstone Kits — essentially using my entire camp stipend to do so.
+
+To help offset these material costs and sustain this level of engagement for our students, I’m requesting an additional $2,000 in support. A detailed breakdown of the kit expenses is included below.
+
+Thank you sincerely for your time and consideration.
+
+Warm regards,
+
+Rudolph Martin
 
 ---
 
 
 ## 📊 **Budget Table – Artemis DSAI 2025 Camp (24 Students)**
 
-| **Category**                    | **Qty** | **Unit Cost** | **Total Cost** | **Notes**                                                  |
-| ------------------------------- | ------: | ------------: | -------------: | ---------------------------------------------------------- |
-| 🔬 Lab Kits + Shared Supplies   |      24 |      \$122.42 |     \$2,938.08 | 1 kit per student; includes reusable tools and electronics |
-| 🧰 Capstone Kit – Type A        |       3 |      \$147.23 |       \$441.69 | High-torque robotic arm & controller (3 students per kit)  |
-| 🧪 Capstone Kit – Type B        |       2 |      \$109.42 |       \$218.84 | Sensor fusion, LED display, I/O board                      |
-| 🧠 Capstone Kit – Type C        |       3 |      \$129.13 |       \$387.39 | Voice command AI, LED + speaker setup                      |
-| **Capstone Kits (Group Total)** |  8 Kits |             — | **\$1,047.92** | Each kit supports 3 students; total = 24 students          |
-| **✅ GRAND TOTAL**               |       — |             — | **\$3,986.00** | All materials covered for full camp + capstone             |
+
+### ✅ **Recalculated Totals**
+
+| **Category**                    | **Qty** | **Unit Cost** | **Total Cost** | **Notes**                                                 |
+| ------------------------------- | ------: | ------------: | -------------: | --------------------------------------------------------- |
+| 🔬 Lab Kits + Shared Supplies   |       6 |      \$184.33 |     \$1,105.98 | 1 kit per group; includes reusable tools and electronics  |
+| 🧰 Capstone Kit – Type A        |       3 |      \$147.23 |       \$441.69 | High-torque robotic arm & controller (3 students per kit) |
+| 🧪 Capstone Kit – Type B        |       2 |      \$109.42 |       \$218.84 | Sensor fusion, LED display, I/O board                     |
+| 🧠 Capstone Kit – Type C        |       3 |      \$129.13 |       \$387.39 | Voice command AI, LED + speaker setup                     |
+| **Capstone Kits (Group Total)** |       8 |             — | **\$1,047.92** | Each kit supports 3 students; total = 24 students         |
+| **✅ GRAND TOTAL**               |       — |             — | **\$2,153.90** | All materials covered for full camp + capstone            |
+
+---
+
+### ❌ Correction Needed
+
+The **GRAND TOTAL** shown as **\$3,986.00** is not correct.
+
+> **Correct Grand Total: \$1,105.98 + \$1,047.92 = \$2,153.90**
+
+---
+
+If you're trying to **add additional expenses** or **account for all 24 individual student kits**, we’d need to adjust the quantity or calculation logic (e.g., multiplying per-student equivalents).
+
+Would you like help formatting a version that assumes **1 kit per student (×24)** instead of per-group?
+
 
 ---
 
