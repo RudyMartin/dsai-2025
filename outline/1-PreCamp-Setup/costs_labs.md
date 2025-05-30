@@ -106,30 +106,62 @@ Build a system that:
 
 ---
 
-🧰 Lab 4 Materials (Per Team Station)
-Item	Qty	Unit Cost	Subtotal	Notes
-4DOF Wood Robot Arm Kit (w/ SG90 servos)	6	$25.57	$153.42	Pre-assembled, each includes 4 servos
-PCA9685 16-channel PWM Servo Driver Board	6	~$5.00	$30.00	Enables stable multi-servo control over I2C
-Jumper wires + breadboard	6	~$2.00	$12.00	Reused or budgeted for signal/power wiring
-Freenove ESP32-S3 CAM Board	—	Reused	—	From Lab 2
-USB cable and power source	—	Reused	—	Supplied via laptop or shared 5V power supply
+Here's the updated **Lab 4** budget with the actual **DIY 4DOF Wood Arm Kit** and **PCA9685 16-channel servo driver** included:
 
-💵 Total Cost for Lab 4 (All 6 Teams)
-Metric	Value
-Total Lab Cost	$195.42
-Per Group Cost	$32.57
+---
 
-✅ Requirements Alignment
-✅ Functional
-Requirement	Met by
-Robotic motion (multi-axis)	4DOF Arm Kit with SG90 servos
-Multi-servo coordination	PCA9685 I2C servo driver
-Physical-to-simulation mapping	TinkerCAD / visual design discussion
+## 🔬 **Lab 4 – Robot Arm + TinkerCAD**
 
-✅ Narrative / Mission
-Requirement	Met by
-Physical routing design	Arm mimics sorting logic
-Mechanical simulation/visual thinking	TinkerCAD integration
-Transition to Capstone builds	Reuse arm + PCA driver
+---
+
+### 🎯 **Goal:**
+
+Build and simulate a basic robot arm:
+
+* Use pre-assembled wooden 4DOF robot arms with SG90 servos
+* Drive servos using a dedicated PCA9685 board
+* Explore robotic kinematics via TinkerCAD simulation or sketching
+* Control movement from ESP32 using I2C-based servo driver
+
+---
+
+### 🧰 Lab 4 Materials (Per Team Station)
+
+| Item                                          | Qty | Unit Cost | Subtotal | Notes                                         |
+| --------------------------------------------- | --- | --------- | -------- | --------------------------------------------- |
+| **4DOF Wood Robot Arm Kit (w/ SG90 servos)**  | 6   | \$25.57   | \$153.42 | Pre-assembled, each includes 4 servos         |
+| **PCA9685 16-channel PWM Servo Driver Board** | 6   | \~\$5.00  | \$30.00  | Enables stable multi-servo control over I2C   |
+| **Jumper wires + breadboard**                 | 6   | \~\$2.00  | \$12.00  | Reused or budgeted for signal/power wiring    |
+| **Freenove ESP32-S3 CAM Board**               | —   | Reused    | —        | From Lab 2                                    |
+| **USB cable and power source**                | —   | Reused    | —        | Supplied via laptop or shared 5V power supply |
+
+---
+
+### 💵 **Total Cost for Lab 4 (All 6 Teams)**
+
+| Metric         | Value        |
+| -------------- | ------------ |
+| Total Lab Cost | **\$195.42** |
+| Per Group Cost | **\$32.57**  |
+
+---
+
+### ✅ Requirements Alignment
+
+#### ✅ Functional
+
+| Requirement                    | Met by                               |
+| ------------------------------ | ------------------------------------ |
+| Robotic motion (multi-axis)    | 4DOF Arm Kit with SG90 servos        |
+| Multi-servo coordination       | PCA9685 I2C servo driver             |
+| Physical-to-simulation mapping | TinkerCAD / visual design discussion |
+
+#### ✅ Narrative / Mission
+
+| Requirement                           | Met by                   |
+| ------------------------------------- | ------------------------ |
+| Physical routing design               | Arm mimics sorting logic |
+| Mechanical simulation/visual thinking | TinkerCAD integration    |
+| Transition to Capstone builds         | Reuse arm + PCA driver   |
 
 
