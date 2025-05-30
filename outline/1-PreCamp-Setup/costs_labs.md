@@ -1,4 +1,3 @@
----
 
 ## 💬 **Our Pitch to Sponsors for Funding**
 
