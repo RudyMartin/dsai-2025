@@ -1,9 +1,9 @@
 
-## 💬 **Our Pitch to Sponsors for Funding**
+## 💬 **Camp Materials Funding Request**
 
-> The *Artemis – DSAI 2025* Camp is a weeklong, hands-on experience introducing 24 students to the power of artificial intelligence and robotics. Each student receives a fully equipped lab kit, and teams share immersive Capstone kits that simulate real-world engineering challenges—from robotic arms to voice-controlled systems. The full material cost per student is **\$122.42**, with additional Capstone group kits bringing the total to **\$3,986**.
+> The *Artemis – DSAI 2025* Camp is a weeklong, hands-on experience introducing 24 students to the power of artificial intelligence and robotics. Each student receives a fully equipped lab kit, and teams share immersive Capstone kits that simulate real-world engineering challenges—from robotic arms to voice-controlled systems. Each lab materials kit costs  **\$122.42** per student. The additional Capstone group kits for 8 groups bringing the total to **\$3,986**.
 >
-> We are seeking grant support to ensure every student can participate **at no personal cost**, and to cover the shortfall from shared kits. Your sponsorship directly empowers the next generation of engineers, scientists, and creators.
+> I am seeking grant support to ensure each student can, and to cover the shortfall from shared kits. Your sponsorship directly empowers the next generation of engineers, scientists, and creators.
 
 ---
 
