@@ -212,5 +212,82 @@ Simulate intelligent conveyor control using **camera input and voice commands** 
 
 ---
 
+Here’s the final **cost breakdown** of Labs 1–5 **plus Shared Supplies**, along with the **per group average**:
+
+---
+
+## 🧪 Lab Kits Cost Summary (Labs 1–5, All 6 Teams)
+
+| Lab                     | Total Cost (All Teams) | Per Group Cost |
+| ----------------------- | ---------------------- | -------------- |
+| Lab 1                   | \$0.00                 | \$0.00         |
+| Lab 2                   | \$179.34               | \$29.89        |
+| Lab 3                   | \$72.00                | \$12.00        |
+| Lab 4                   | \$65.57                | \$10.93        |
+| Lab 5                   | \$159.66               | \$26.61        |
+| **Subtotal (Lab Kits)** | **\$476.57**           |                |
+
+---
+
+## 🧰 Shared Supplies Cost Breakdown
+
+| Item                                      | Quantity | Unit Cost | Subtotal     |
+| ----------------------------------------- | -------- | --------- | ------------ |
+| Adjustable Power Supply (3V\~24V 6A)      | 1        | \$33.14   | \$33.14      |
+| Hex Screws, Washers, Nuts Kit (3 packs)   | 3        | \$10.00   | \$30.00      |
+| Digital Caliper                           | 1        | \$19.48   | \$19.48      |
+| Lead Solder Wire (0.3mm/50g)              | 1        | \$7.19    | \$7.19       |
+| Universal 5V 3A Power Adapter (11 tips)   | 1        | \$6.80    | \$6.80       |
+| Digital Multimeter Tester                 | 1        | \$13.95   | \$13.95      |
+| Electric Screwdriver Set (Fanttik E1 Max) | 1        | \$48.97   | \$48.97      |
+| Potentiometer Kit (80pcs)                 | 1        | \$11.99   | \$11.99      |
+| Colorful Wooden Blocks (150 pcs)          | 1        | \$21.99   | \$21.99      |
+| Servo Tester (2 pcs)                      | 1        | \$16.48   | \$16.48      |
+| Long Needle Nose Pliers (3 sets)          | 3        | \$9.99    | \$29.97      |
+| WGGE Wire Stripper & Cutter               | 1        | \$7.99    | \$7.99       |
+| **Total Shared Supplies**                 | —        | —         | **\$257.95** |
+
+---
+
+## 📊 Grand Total
+
+| Category         | Total        |
+| ---------------- | ------------ |
+| Lab Kits (1–5)   | \$476.57     |
+| Shared Supplies  | \$257.95     |
+| **Grand Total**  | **\$734.52** |
+| ➗ Per Group (÷6) | **\$122.42** |
+
+
+--
+
+
+
+---
+
+## 📊 **Budget Table – Artemis DSAI 2025 Camp (24 Students)**
+
+| **Category**                    | **Qty** | **Unit Cost** | **Total Cost** | **Notes**                                                  |
+| ------------------------------- | ------: | ------------: | -------------: | ---------------------------------------------------------- |
+| 🔬 Lab Kits + Shared Supplies   |      24 |      \$122.42 |     \$2,938.08 | 1 kit per student; includes reusable tools and electronics |
+| 🧰 Capstone Kit – Type A        |       3 |      \$147.23 |       \$441.69 | High-torque robotic arm & controller (3 students per kit)  |
+| 🧪 Capstone Kit – Type B        |       2 |      \$109.42 |       \$218.84 | Sensor fusion, LED display, I/O board                      |
+| 🧠 Capstone Kit – Type C        |       3 |      \$129.13 |       \$387.39 | Voice command AI, LED + speaker setup                      |
+| **Capstone Kits (Group Total)** |  8 Kits |             — | **\$1,047.92** | Each kit supports 3 students; total = 24 students          |
+| **✅ GRAND TOTAL**               |       — |             — | **\$3,986.00** | All materials covered for full camp + capstone             |
+
+---
+
+## 💬 **Our Pitch to Sponsors for Funding**
+
+> The *Artemis – DSAI 2025* Camp is a weeklong, hands-on experience introducing 24 students to the power of artificial intelligence and robotics. Each student receives a fully equipped lab kit, and teams share immersive Capstone kits that simulate real-world engineering challenges—from robotic arms to voice-controlled systems. The full material cost per student is **\$122.42**, with additional Capstone group kits bringing the total to **\$3,986**.
+>
+> We are seeking grant support to ensure every student can participate **at no personal cost**, and to cover the shortfall from shared kits. Your sponsorship directly empowers the next generation of engineers, scientists, and creators.
+
+---
+
+
+
+
 
 
