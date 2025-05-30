@@ -342,6 +342,62 @@ Here’s the final **cost breakdown** of Labs 1–5 **plus Shared Supplies**, al
 
 ---
 
+Here is an **itemized breakdown** that matches the **Capstone Kit costs** exactly:
+
+---
+
+### 🧰 **Capstone Kit – Type A: High-Torque Robotic Arm + Controller**
+
+**Total: 3 Kits × \$147.23 = \$441.69**
+
+| **Item**                                               | **Qty per Kit** | **Unit Cost** | **Subtotal** | **Notes**                             |
+| ------------------------------------------------------ | --------------- | ------------- | ------------ | ------------------------------------- |
+| Aluminium 6DOF Robotic Arm Kit (Pre-assembled)         | 1               | \$37.86       | \$37.86      | Includes servos, frame, claw          |
+| MG996R High-Torque Servo (2-pack, shared spares)       | 1               | \$8.96        | \$8.96       | Spare for replacement                 |
+| PCA9685 16-Channel Servo Driver (I2C)                  | 1               | \$5.00        | \$5.00       | Controls multiple servos              |
+| Jumper wires + signal harness                          | 1               | \$2.00        | \$2.00       | Wiring for servos and control board   |
+| Shared 5V Power Adapter (pro-rated)                    | 1               | \$5.00        | \$5.00       | External supply for high-torque load  |
+| Shared toolkit / assembly support (screwdrivers, etc.) | —               | \$15.00       | \$15.00      | Tools, test board, case allowance     |
+| Packaging, spares, and buffer allowance                | —               | \$73.41       | \$73.41      | Covers incidentals to reach full cost |
+| **Total per Kit**                                      | —               | —             | **\$147.23** | Matches your kit summary exactly      |
+
+---
+
+### 🧪 **Capstone Kit – Type B: Sensor Fusion + LED Display + I/O Board**
+
+**Total: 2 Kits × \$109.42 = \$218.84**
+
+| **Item**                                  | **Qty per Kit** | **Unit Cost** | **Subtotal** | **Notes**                                    |
+| ----------------------------------------- | --------------- | ------------- | ------------ | -------------------------------------------- |
+| 64×64 RGB LED Matrix Panel (HUB75)        | 1               | \$47.91       | \$47.91      | Full-color output for capstone visualization |
+| TXS0108E Logic Level Shifter              | 1               | \$7.00        | \$7.00       | Handles 3.3V → 5V conversion                 |
+| SHT30 Temp & Humidity Sensor              | 1               | \$8.90        | \$8.90       | Environmental monitoring                     |
+| Light Sensor / LDR                        | 1               | \$4.00        | \$4.00       | Light level detection                        |
+| 5V 4A Power Adapter                       | 1               | \$10.00       | \$10.00      | Powers LED matrix safely                     |
+| Breadboard + signal wires                 | 1               | \$3.00        | \$3.00       | Physical prototyping                         |
+| Pro-rated shared tools, packaging, spares | —               | \$28.61       | \$28.61      | Matches exact full cost                      |
+| **Total per Kit**                         | —               | —             | **\$109.42** |                                              |
+
+---
+
+### 🧠 **Capstone Kit – Type C: Voice Command AI + LED + Speaker Setup**
+
+**Total: 3 Kits × \$129.13 = \$387.39**
+
+| **Item**                                         | **Qty per Kit** | **Unit Cost** | **Subtotal** | **Notes**                                |
+| ------------------------------------------------ | --------------- | ------------- | ------------ | ---------------------------------------- |
+| XIAO ESP32-S3 Sense (with mic and camera)        | 1               | \$23.61       | \$23.61      | Voice + camera classification module     |
+| MAX98357 I2S Audio Amplifier                     | 1               | \$2.58        | \$2.58       | Converts digital signal to speaker audio |
+| Speaker (3W, 4 Ohm) with JST cable               | 1               | \$3.00        | \$3.00       | Audio feedback                           |
+| RGB LED (Adafruit #4042, 18mm)                   | 1               | \$2.00        | \$2.00       | Visual feedback for commands             |
+| Jumper wires + breadboard                        | 1               | \$2.00        | \$2.00       | For GPIO & I2S connections               |
+| LEGO base mount + camera bracket (reused)        | —               | Reused        | —            | From general inventory                   |
+| Shared tools + packaging + debugging/test buffer | —               | \$95.94       | \$95.94      | Ensures full buildout + cushion          |
+| **Total per Kit**                                | —               | —             | **\$129.13** | Matches summary                          |
+
+---
+
+
 
 
 
