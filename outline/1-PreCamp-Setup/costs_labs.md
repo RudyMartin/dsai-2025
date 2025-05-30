@@ -22,7 +22,7 @@
 ---
 
 
-Breakdown of Lab  Kit Costs
+Breakdown of Lab  Kit Costs (Assuming we assign students into 6 Groups to cut costs. Currently we our out of pocket on all this and  soliciting help.)
 
 ---
 
