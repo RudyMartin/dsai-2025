@@ -398,8 +398,15 @@ Here is an **itemized breakdown** that matches the **Capstone Kit costs** exactl
 ---
 
 
+## 📊 Capstone Kits Total
 
-
+| **Category**         | **Amount**     |
+| -------------------- | -------------- |
+| 🧰 Capstone Kit – Type A        |\$441.69 | 
+| 🧪 Capstone Kit – Type B        | \$218.84 |             
+| 🧠 Capstone Kit – Type C        |  \$387.39 | 
+| **Capstone Kits (Group Total)** | |**\$1,047.92** | 
+| **✅ GRAND TOTAL**               | **\$2,153.90** | 
 
 
 
