@@ -18,3 +18,9 @@ The **shared supplies** total is:
 | WGGE Wire Stripper & Cutter               | 1        | \$7.99    | \$7.99   |
 
 ### ✅ Total Shared Supplies Cost: **\$257.95**
+
+
+$1,165.00
++  $188.90
++  $257.95
+= $1,611.85
