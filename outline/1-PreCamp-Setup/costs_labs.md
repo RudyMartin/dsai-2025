@@ -31,25 +31,9 @@ Rudolph Martin
 | **✅ GRAND TOTAL**               |       — |             — | **\$2,153.90** | All materials covered for full camp + capstone            |
 
 ---
+What follows is a detailed, itemized list of the materials purchased to support the Artemis camp experience — each with a corresponding academic rationale. These items represent real costs for which I have receipts.
 
-### ❌ Correction Needed
-
-The **GRAND TOTAL** shown as **\$3,986.00** is not correct.
-
-> **Correct Grand Total: \$1,105.98 + \$1,047.92 = \$2,153.90**
-
----
-
-If you're trying to **add additional expenses** or **account for all 24 individual student kits**, we’d need to adjust the quantity or calculation logic (e.g., multiplying per-student equivalents).
-
-Would you like help formatting a version that assumes **1 kit per student (×24)** instead of per-group?
-
-
----
-
-
-Breakdown of Lab  Kit Costs (Assuming we assign students into 6 Groups to cut costs. Currently we our out of pocket on all this and  soliciting help.)
-
+Throughout the curriculum, we intentionally scaffold skills across labs, allowing students to build on prior learning. This structured reuse of equipment not only reinforces understanding but also serves as a deliberate strategy to keep overall material costs as low as possible while maintaining a high-quality, hands-on experience.
 ---
 
 ### 🔬 **Lab 1 – Practical Python, ChatBots**
