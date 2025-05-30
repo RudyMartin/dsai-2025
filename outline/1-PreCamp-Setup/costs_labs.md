@@ -241,8 +241,8 @@ Simulate intelligent conveyor control using **camera input and voice commands** 
 | **XIAO ESP32-S3 Sense (w/ camera + mic)**   | 6     | \$23.61   | \$141.66 | Camera + digital mic support TFLite & voice command integration |
 | **SG92R 9g Micro Servo Motor**              | 6     | Reused    | \$0.00   | Already listed in earlier lab inventory                         |
 | **18mm RGB LED (Adafruit 4042)**            | 6     | \~\$2.00  | \$12.00  | Used for visual status (green = active, red = stop)             |
-| **LEGO baseplate (white/neutral 32x32)**    | 6     | Reused    | \$0.00   | Object platform                                                 |
-| **LEGO bricks / wood blocks (3–5 classes)** | 1 set | Reused    | \$0.00   | 24 large + 6 medium for voice-labeled object scenarios          |
+| **LEGO baseplate (white/neutral 32x32)**    | 6     | \$10.00   | \$60.00   | Object platform                                                 |
+| **LEGO bricks / wood blocks (3–5 classes)** | 1 set | Shared    | \$0.00   | 24 large + 6 medium for voice-labeled object scenarios          |
 | **Camera/LED mount (Technic pegs + beams)** | 6     | Reused    | \$0.00   | For stable placement of camera and lights                       |
 | **Jumper wires + connectors**               | 6     | \~\$1.00  | \$6.00   | Power + GPIO wiring                                             |
 | **Shared power supply + tips**              | —     | Shared    | —        | Provided via universal adjustable supply in shared inventory    |
@@ -253,8 +253,8 @@ Simulate intelligent conveyor control using **camera input and voice commands** 
 
 | Metric         | Value        |
 | -------------- | ------------ |
-| Total Lab Cost | **\$159.66** |
-| Per Group Cost | **\$26.61**  |
+| Total Lab Cost | **\$219.66** |
+| Per Group Cost | **\$36.61**  |
 
 ---
 
@@ -268,10 +268,11 @@ Here’s the final **cost breakdown** of Labs 1–5 **plus Shared Supplies**, al
 | ----------------------- | ---------------------- | -------------- |
 | Lab 1                   | \$0.00                 | \$0.00         |
 | Lab 2                   | \$179.34               | \$29.89        |
-| Lab 3                   | \$72.00                | \$12.00        |
+| Lab 3                   | \$383.46               | \$63.91       |
 | Lab 4                   | \$65.57                | \$10.93        |
-| Lab 5                   | \$159.66               | \$26.61        |
-| **Subtotal (Lab Kits)** | **\$476.57**           |                |
+| Lab 5                   | \$219.66               | \$36.61        |
+
+
 
 ---
 
@@ -293,19 +294,17 @@ Here’s the final **cost breakdown** of Labs 1–5 **plus Shared Supplies**, al
 | WGGE Wire Stripper & Cutter               | 1        | \$7.99    | \$7.99       |
 | **Total Shared Supplies**                 | —        | —         | **\$257.95** |
 
----
+## 📊 Lab Kits Total
 
-## 📊 Grand Total
-
-| Category         | Total        |
-| ---------------- | ------------ |
-| Lab Kits (1–5)   | \$476.57     |
-| Shared Supplies  | \$257.95     |
-| **Grand Total**  | **\$734.52** |
-| ➗ Per Group (÷6) | **\$122.42** |
-
+| **Category**         | **Amount**     |
+| -------------------- | -------------- |
+| Total Lab Kit Cost   | \$848.03       |
+| Shared Supplies Cost | \$257.95       |
+| **Lab Kits Total**   | **\$1,105.98** |
+| **Per Group (÷6)**   | **\$184.33**   |
 
 ---
+
 
 
 
