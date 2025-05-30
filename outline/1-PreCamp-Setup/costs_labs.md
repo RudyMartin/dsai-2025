@@ -101,22 +101,44 @@ Build a system that:
 
 ### 🧰 Lab 3 Materials per Group Lab Kit
 
-| Item                                   | Qty | Unit Cost | Subtotal | Notes                             |
-| -------------------------------------- | --- | --------- | -------- | --------------------------------- |
-| **64×64 RGB LED Matrix Panel (HUB75)** | 1   | Provided  | —        | Already owned, full-color display |
-| **TXS0108E Logic Level Shifter**       | 1   | Provided  | —        | Handles all 3.3V → 5V logic lines |
-| **External 5V 4A Power Supply**        | 1   | \$10.00   | \$10.00  | Dedicated supply for LED matrix   |
-| **Jumper wires, breadboard, sockets**  | 1   | \~\$2.00  | \$2.00   | For matrix and logic hookup       |
-| **Freenove ESP32-S3 CAM Board**        | —   | Reused    | —        | Already purchased in Lab 2        |
+Got it! Here's the **updated Lab 3 – LED Display + LLM Connection** section with the **RGB LED Matrix Panels** now explicitly costed and included.
+
+---
+
+## 🔬 **Lab 3 – LED Display + LLM Connection**
+
+---
+
+### 🎯 **Goal:**
+
+Build a system that:
+
+* Displays classification or LLM-based output on a **64×64 RGB LED Matrix**
+* Connects and communicates with the **ESP32-S3**
+* Uses **logic-level shifting** for safe 3.3V → 5V signal control
+* Prepares students for shared **capstone visual systems**
+
+---
+
+### 🧰 **Materials in the Group Kit**
+
+| Item                                   | Qty | Unit Cost | Subtotal | Notes                              |
+| -------------------------------------- | --- | --------- | -------- | ---------------------------------- |
+| **64×64 RGB LED Matrix Panel (HUB75)** | 1   | \$47.91   | \$47.91  | Full-color display panel           |
+| **TXS0108E Logic Level Shifter**       | 1   | \$3.75    | \$3.75   | 8-channel 3.3V to 5V level shifter |
+| **External 5V 4A Power Supply**        | 1   | \$10.00   | \$10.00  | Dedicated supply for LED matrix    |
+| **Jumper wires, breadboard, sockets**  | 1   | \~\$2.00  | \$2.00   | For matrix and logic hookup        |
+| **Freenove ESP32-S3 CAM Board**        | —   | Reused    | \$0.00   | Already purchased in Lab 2         |
 
 ---
 
 ### 💵 **Total Cost for Lab 3 (All 6 Teams)**
 
-| Metric               | Value       |
-| -------------------- | ----------- |
-| Total Cost (6 teams) | **\$72.00** |
-| Per Group Cost       | **\$12.00** |
+| Metric         | Value        |
+| -------------- | ------------ |
+| Total Lab Cost | **\$383.46** |
+| Per Group Cost | **\$63.91**  |
+
 
 ---
 
