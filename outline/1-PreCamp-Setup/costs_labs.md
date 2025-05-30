@@ -1,12 +1,22 @@
-🔬 Lab 1 – Practical Python, ChatBots
-🎯 Goal:
+Breakdown of Lab  Kit Costs
+
+---
+
+### 🔬 **Lab 1 – Practical Python, ChatBots**
+---
+
+### 🎯 **Goal:**
+
 Introduce students to Python and basic AI logic through Google Colab notebooks. This is a software-only lab with no hardware required.
 
-🧰 Materials Summary
-Item	Qty	Unit Cost	Subtotal	Notes
-Google Colab Access	—	$0.00	$0.00	Free cloud-based Jupyter notebooks
-LLM API Key (Shared, Optional)	1	—	—	Instructor provides shared access
-Example Notebook Templates	—	$0.00	$0.00	Provided in repo
+🧰 Materials per Group Lab Kit
+
+| Item                       | Qty | Unit Cost | Subtotal | Notes                              |
+| -------------------------- | --- | --------- | -------- | ---------------------------------- |
+| Google Colab Access        | —   | \$0.00    | \$0.00   | Free cloud-based Jupyter notebooks |
+| LLM API Key (Shared, Opt.) | 1   | —         | —        | Instructor provides shared access  |
+| Example Notebook Templates | —   | \$0.00    | \$0.00   | Provided in GitHub repo            |
+
 
 💵 Total Cost for Lab 1 (All 6 Teams): $0.00
 
@@ -23,7 +33,7 @@ Run a trained classification model on a **Freenove ESP32-S3 WROOM**, using the o
 
 ---
 
-### 🧰 Lab 2 Materials (Per Team Station)
+### 🧰 Lab 2 Materials per Group Lab Kit
 
 | Item                                  | Qty | Unit Cost | Subtotal | Notes                                       |
 | ------------------------------------- | --- | --------- | -------- | ------------------------------------------- |
@@ -65,7 +75,7 @@ Build a system that:
 
 ---
 
-### 🧰 Lab 3 Materials (Per Team Station)
+### 🧰 Lab 3 Materials per Group Lab Kit
 
 | Item                                   | Qty | Unit Cost | Subtotal | Notes                             |
 | -------------------------------------- | --- | --------- | -------- | --------------------------------- |
@@ -125,7 +135,7 @@ Build and simulate a basic robot arm:
 
 ---
 
-### 🧰 Lab 4 Materials (Per Team Station)
+### 🧰 Lab 4 Materials per Group Lab Kit
 
 | Item                                          | Qty | Unit Cost | Subtotal | Notes                                         |
 | --------------------------------------------- | --- | --------- | -------- | --------------------------------------------- |
@@ -163,5 +173,44 @@ Build and simulate a basic robot arm:
 | Physical routing design               | Arm mimics sorting logic |
 | Mechanical simulation/visual thinking | TinkerCAD integration    |
 | Transition to Capstone builds         | Reuse arm + PCA driver   |
+
+Here is the **updated Lab 5** cost summary and materials list — **PIR motion sensor removed**, focusing only on the **camera and voice command system via XIAO ESP32-S3**:
+
+---
+
+## 🔬 **Lab 5 – Motion Detection + Conveyor** *(Updated)*
+
+---
+
+### 🎯 **Goal:**
+
+Simulate intelligent conveyor control using **camera input and voice commands** (e.g., “forward,” “stop”) on the **XIAO ESP32-S3**. This lab introduces lightweight ML logic, real-time interaction, and servo actuation.
+
+---
+
+### 🧰 Lab 5 Materials per Group Lab Kit
+
+| Item                                        | Qty   | Unit Cost | Subtotal | Notes                                                           |
+| ------------------------------------------- | ----- | --------- | -------- | --------------------------------------------------------------- |
+| **XIAO ESP32-S3 Sense (w/ camera + mic)**   | 6     | \$23.61   | \$141.66 | Camera + digital mic support TFLite & voice command integration |
+| **SG92R 9g Micro Servo Motor**              | 6     | Reused    | \$0.00   | Already listed in earlier lab inventory                         |
+| **18mm RGB LED (Adafruit 4042)**            | 6     | \~\$2.00  | \$12.00  | Used for visual status (green = active, red = stop)             |
+| **LEGO baseplate (white/neutral 32x32)**    | 6     | Reused    | \$0.00   | Object platform                                                 |
+| **LEGO bricks / wood blocks (3–5 classes)** | 1 set | Reused    | \$0.00   | 24 large + 6 medium for voice-labeled object scenarios          |
+| **Camera/LED mount (Technic pegs + beams)** | 6     | Reused    | \$0.00   | For stable placement of camera and lights                       |
+| **Jumper wires + connectors**               | 6     | \~\$1.00  | \$6.00   | Power + GPIO wiring                                             |
+| **Shared power supply + tips**              | —     | Shared    | —        | Provided via universal adjustable supply in shared inventory    |
+
+---
+
+### 💵 **Total Cost for Lab 5 (All 6 Teams)**
+
+| Metric         | Value        |
+| -------------- | ------------ |
+| Total Lab Cost | **\$159.66** |
+| Per Group Cost | **\$26.61**  |
+
+---
+
 
 
