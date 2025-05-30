@@ -1,3 +1,28 @@
+---
+
+## 💬 **Our Pitch to Sponsors for Funding**
+
+> The *Artemis – DSAI 2025* Camp is a weeklong, hands-on experience introducing 24 students to the power of artificial intelligence and robotics. Each student receives a fully equipped lab kit, and teams share immersive Capstone kits that simulate real-world engineering challenges—from robotic arms to voice-controlled systems. The full material cost per student is **\$122.42**, with additional Capstone group kits bringing the total to **\$3,986**.
+>
+> We are seeking grant support to ensure every student can participate **at no personal cost**, and to cover the shortfall from shared kits. Your sponsorship directly empowers the next generation of engineers, scientists, and creators.
+
+---
+
+
+## 📊 **Budget Table – Artemis DSAI 2025 Camp (24 Students)**
+
+| **Category**                    | **Qty** | **Unit Cost** | **Total Cost** | **Notes**                                                  |
+| ------------------------------- | ------: | ------------: | -------------: | ---------------------------------------------------------- |
+| 🔬 Lab Kits + Shared Supplies   |      24 |      \$122.42 |     \$2,938.08 | 1 kit per student; includes reusable tools and electronics |
+| 🧰 Capstone Kit – Type A        |       3 |      \$147.23 |       \$441.69 | High-torque robotic arm & controller (3 students per kit)  |
+| 🧪 Capstone Kit – Type B        |       2 |      \$109.42 |       \$218.84 | Sensor fusion, LED display, I/O board                      |
+| 🧠 Capstone Kit – Type C        |       3 |      \$129.13 |       \$387.39 | Voice command AI, LED + speaker setup                      |
+| **Capstone Kits (Group Total)** |  8 Kits |             — | **\$1,047.92** | Each kit supports 3 students; total = 24 students          |
+| **✅ GRAND TOTAL**               |       — |             — | **\$3,986.00** | All materials covered for full camp + capstone             |
+
+---
+
+
 Breakdown of Lab  Kit Costs
 
 ---
@@ -259,32 +284,9 @@ Here’s the final **cost breakdown** of Labs 1–5 **plus Shared Supplies**, al
 | ➗ Per Group (÷6) | **\$122.42** |
 
 
---
-
-
-
 ---
 
-## 📊 **Budget Table – Artemis DSAI 2025 Camp (24 Students)**
 
-| **Category**                    | **Qty** | **Unit Cost** | **Total Cost** | **Notes**                                                  |
-| ------------------------------- | ------: | ------------: | -------------: | ---------------------------------------------------------- |
-| 🔬 Lab Kits + Shared Supplies   |      24 |      \$122.42 |     \$2,938.08 | 1 kit per student; includes reusable tools and electronics |
-| 🧰 Capstone Kit – Type A        |       3 |      \$147.23 |       \$441.69 | High-torque robotic arm & controller (3 students per kit)  |
-| 🧪 Capstone Kit – Type B        |       2 |      \$109.42 |       \$218.84 | Sensor fusion, LED display, I/O board                      |
-| 🧠 Capstone Kit – Type C        |       3 |      \$129.13 |       \$387.39 | Voice command AI, LED + speaker setup                      |
-| **Capstone Kits (Group Total)** |  8 Kits |             — | **\$1,047.92** | Each kit supports 3 students; total = 24 students          |
-| **✅ GRAND TOTAL**               |       — |             — | **\$3,986.00** | All materials covered for full camp + capstone             |
-
----
-
-## 💬 **Our Pitch to Sponsors for Funding**
-
-> The *Artemis – DSAI 2025* Camp is a weeklong, hands-on experience introducing 24 students to the power of artificial intelligence and robotics. Each student receives a fully equipped lab kit, and teams share immersive Capstone kits that simulate real-world engineering challenges—from robotic arms to voice-controlled systems. The full material cost per student is **\$122.42**, with additional Capstone group kits bringing the total to **\$3,986**.
->
-> We are seeking grant support to ensure every student can participate **at no personal cost**, and to cover the shortfall from shared kits. Your sponsorship directly empowers the next generation of engineers, scientists, and creators.
-
----
 
 
 
