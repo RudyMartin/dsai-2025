@@ -1,5 +1,7 @@
 45 minutes
 
+## **Let's open the materials for Lab 1. Again all the code for this lesson is on https://github.com/RudyMartin/esp32/Lab1/readme.md**
+
 Learning Objectives
 - Set up Colab
 - Set up Google Drive
