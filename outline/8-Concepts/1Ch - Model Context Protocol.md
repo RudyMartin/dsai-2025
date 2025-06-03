@@ -1,38 +1,69 @@
 
----
 
-### ✅ **MCP: Model–Context–Protocol** Core Loop
+## ✅ Slide 1: **What Is MCP?**
 
-| **Step** | **Name**   | **What it Means** (Student-Friendly)                          | **Example**                          |
-| -------- | ---------- | ------------------------------------------------------------- | ------------------------------------ |
-| **1**    | **Sense**  | Gather data from sensors, input, or environment               | “What’s happening?”                  |
-| **2**    | **Plan**   | Choose the next action based on the current state + input     | “What should I do now?”              |
-| **3**    | **Act**    | Move a servo, show text, send a signal — take physical action | “Do it!”                             |
-| **4**    | **Log**    | Record what happened (locally or to cloud/NAS/logs)           | “Write down what I did.”             |
-| **5**    | **Repeat** | Return to sensing and continue the loop                       | “Keep going… next input, next plan…” |
+**MCP = Model – Context – Protocol**
+A 5-step loop that powers how intelligent systems (like robots or AI assistants) operate.
 
----
-
-This cycle **is the FSM mind loop**, just made *physical* in your robots or assistants.
+| **Step** | **Name** | **Student-Friendly Meaning** | **Example**                    |
+| -------- | -------- | ---------------------------- | ------------------------------ |
+| 1        | Sense    | “What’s happening?”          | Camera sees a block            |
+| 2        | Plan     | “What should I do now?”      | Decide to grab or ignore it    |
+| 3        | Act      | “Do it!”                     | Move servo to pick it up       |
+| 4        | Log      | “Write down what I did.”     | Print action to serial monitor |
+| 5        | Repeat   | “Keep going… what’s next?”   | Return to step 1               |
 
 ---
 
-### ✅ Teaching Tip:
+## ✅ Slide 2: **Student Nicknames for MCP**
 
-You can let students *nickname* it:
+* 🤖 "1–2–3–4–5 Loop"
+* 🧠 "The Brain Loop"
+* 🔁 **See – Think – Do – Speak – Loop**
 
-> "**1-2-3-4-5 Loop**"
-> "The Brain Loop"
-> "How every good robot thinks"
+| **Word** | **Maps To** | **Meaning**                  | **Example**                        |
+| -------- | ----------- | ---------------------------- | ---------------------------------- |
+| See      | Sense       | “What did I observe?”        | Sensor reads a button press        |
+| Think    | Plan        | “What should I do about it?” | Decide to move or pause            |
+| Do       | Act         | “Take the action!”           | Trigger motor or light             |
+| Speak    | Log         | “Let someone know”           | Serial output, LED flash, file log |
+| Loop     | Repeat      | “Start again with new input” | Re-enter the cycle                 |
 
-> See - Think - Do - Speak - Loop
+---
 
-| **Word**  | **Maps To** | **Student Meaning**                                | **Real Example**                              |
-| --------- | ----------- | -------------------------------------------------- | --------------------------------------------- |
-| **See**   | Sense       | “What did I observe?”                              | Camera sees a block, sensor reads temperature |
-| **Think** | Plan        | “What should I do based on that?”                  | Decide to move, respond, or trigger a warning |
-| **Do**    | Act         | “Take action!”                                     | Turn servo, light up LED, send signal         |
-| **Speak** | Log         | “Let me tell someone (or record) what I just did.” | Print to serial, write to file, send message  |
-| **Loop**  | Repeat      | “Start over and do it again.”                      | Return to ‘See’ for the next input            |
+## ✅ Slide 3: **What Is an FSM?**
 
+A **Finite State Machine** is a tool to help code and visualize these 5 steps.
 
+* Each **state** does something specific (like “WAIT” or “MOVE”)
+* You define **transitions** between states
+* FSMs make it easy to build robots that follow the **MCP loop**
+
+---
+
+## ✅ Slide 4: **FSM = The Brain That Runs the MCP Loop**
+
+Think of FSM as:
+
+> “The **engine** behind your robot’s **loop** — deciding what to do and when.”
+
+* FSM = software structure
+* MCP = system behavior
+
+🔁 You’ll use FSMs to **implement** MCP steps:
+
+* FSM state: “SCAN” → **Sense**
+* FSM state: “DECIDE” → **Plan**
+* FSM state: “MOVE\_ARM” → **Act**
+* FSM state: “REPORT” → **Log**
+* Transition back → **Repeat**
+
+---
+
+Let me know if you’d like:
+
+* PowerPoint/Google Slides versions
+* A visual flowchart to insert into slides
+* A printable classroom wall poster
+
+Happy to generate visuals or export!
