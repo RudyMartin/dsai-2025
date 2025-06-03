@@ -27,4 +27,4 @@ Let's tie the **big picture (TIR + AI robot capabilities)** into the **hands-on 
 
 ---
 
-## **Let's open the materials for Lab 2. Again all the code for this lesson is on https://github.com/RudyMartin/esp32**
+## **Let's open the materials for Lab 2. Again all the code for this lesson is on https://github.com/RudyMartin/esp32Lab2/readme.md**
