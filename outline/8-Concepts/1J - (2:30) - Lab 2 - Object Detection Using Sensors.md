@@ -2,7 +2,7 @@
 
 ## 🎯 Transition Goal:
 
-Let's Tie the **big picture (TIR + AI robot capabilities)** into the **hands-on lab**, so that we all understand *why* the technical skills matter.
+Let's tie the **big picture (TIR + AI robot capabilities)** into the **hands-on lab**, so that we all understand *why* the technical skills matter.
 
 ---
 
