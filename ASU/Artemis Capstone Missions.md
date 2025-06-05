@@ -147,4 +147,3 @@ Enable robotic systems to communicate with speech or sound feedback.
 
 ---
 
-Would you like this exported as a printable PDF or Google Slides layout for instructors and students?
