@@ -60,9 +60,7 @@ You’re here to get **stronger** — for yourself, for your future teams, and f
 
 ---
 
-# 🛠️ A few optional bonus lines if you want:
 
-If you want to *soften the transition* to the technical kickoff after the speech:
 
 > "Now — let's gear up.  
 You’re going to form teams, assign your first mission roles, and get your systems online.  
@@ -71,13 +69,6 @@ And like every great mission — success starts with how we show up for each oth
 
 ---
 
-# 🎯 Why This Script Works:
-- ✅ Real. Personal. Not "performative."
-- ✅ Sets a **culture of service**, not competition.
-- ✅ Honors your own journey without making it about you.
-- ✅ Builds emotional readiness for teamwork and failure.
-- ✅ Bridges directly into camp structure (teams, roles, flights).
 
----
 
 
