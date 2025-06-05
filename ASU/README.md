@@ -24,7 +24,6 @@ Let’s get ready to launch your first **AI-powered mission**. ✨
 
 | **Folder**                          | **Description**                                                                   |
 | ----------------------------------- | --------------------------------------------------------------------------------- |
-
 | **1-Sessions/**                     | 🛠️ Daily learning walkthroughs — background and activities are inlined           |
 | **2-Capstone-Missions/**            | 👨‍👩‍👧‍👦 Team builds, mission briefs (Nova, Vega, Orion), all context embedded |
 | **3-Presentation-Slides/**          | 🎤 Logbook templates, final demo slides, and TA kickoff decks                     |
