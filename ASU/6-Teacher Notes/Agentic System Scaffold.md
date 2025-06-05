@@ -92,6 +92,3 @@ Tools:
 - Optional: FSM, Feedback, LLM Edge Help
 ```
 
----
-
-Would you like a **Google Slides starter deck** or **handout version (PDF or Markdown)** of this plan? I can generate one for immediate use.
