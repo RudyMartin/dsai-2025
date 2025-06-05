@@ -1,3 +1,6 @@
+# This is a sample of how TAs can help - Please check Sessions folder for the actual daily schedule.
+
+
 ### **AI/Robotics Camp Full Week Schedule**
 
 #### **Overview and Focus Areas for Teaching Assistants**
