@@ -36,6 +36,7 @@ Let’s get ready to launch your first **AI-powered mission**. ✨
 | **9-Mission-Quest/**                | 🔍 Gamified flight rules, team challenges, and storytelling extensions            |
 
 
+
 ```mermaid
 graph TD
   A0[📁 0-Overview (optional)] --> A1
@@ -49,16 +50,5 @@ graph TD
   A8[📁 8-Forms-Templates (optional)<br>Flight logs, checklists]
   A9[📁 9-Mission-Quest<br>Gamified version with rules & scores]
 
-  ROOT[🚀 AI Mission Camp Root Repo]
-  ROOT --> A0
-  ROOT --> A1
-  ROOT --> A2
-  ROOT --> A3
-  ROOT --> A4
-  ROOT --> A5
-  ROOT --> A6
-  ROOT --> A7
-  ROOT --> A8
-  ROOT --> A9
 ```
 
