@@ -37,10 +37,16 @@ OR If  using  Seeedstudio boards:
 
 ---
 
-## ✅ Step 2: Select the Correct Board
+## ✅ Step 2: Select the Correct Board AND PORT
 
 1. Go to **Tools > Board**.
 2. Select **"XIAO\_ESP32S3"** or **"ESP32S3 Dev Module"** if the former isn't available.
+
+3. HINT: Note that for serial communication with some board (FREENOVE) you will need to select the serial board number specific to your unit.
+
+4. For MAC users, the CH343 driver will always need to go to the official website to download the latest version, 
+as older versions may not be suitable. This is the official download link: [http://www.wch-ic.com/search?t=all&q=ch343](http://www.wch-ic.com/search?t=all&q=ch343)
+
 
 ---
 
