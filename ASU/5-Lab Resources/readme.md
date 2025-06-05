@@ -2,7 +2,7 @@
 **4DOF Wood Mechanical Arm with sg90 Servo**
 This is the base unit used in class to begin discussion of servos using simple automation using (4) SG90 servos.
 
-<a href="https://github.com/RudyMartin/dsai-2025/tree/main/ASU/5-Lab%20Resources/4dof">
+<a href="https://github.com/RudyMartin/dsai-2025/tree/main/ASU/5-Lab%20Resources/4dof_kit_version">
 <img src="https://github.com/RudyMartin/dsai-2025/blob/main/ASU/5-Lab%20Resources/pics/4dof-wood-arm.png"  width="600" ></a>
 
 **5 dof Arm - **
