@@ -1,4 +1,4 @@
-Perfect. Here's a clean set of **Team-to-Capstone Assignment Cards** — one per team — showing:
+Here's a clean set of **Team-to-Capstone Assignment Cards** — one per team — showing:
 
 * 🎯 **Mission Role**
 * 🔧 **Primary Capstone Package**
