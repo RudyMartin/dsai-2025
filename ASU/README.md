@@ -1,34 +1,24 @@
 
 
-### 🚀 **2025 AI Data Science Mission Camp**
+### 🚀 **2025 Data Science AI Mission Camp**
 
 Welcome to the official curriculum and resources repo for the **2025 AI Data Science Mission Camp**. This experience brings high school students into the world of **object detection**, **sensor programming**, and **AI-powered missions**, simulating life aboard a **space deck**.
 
 ---
 
-### 📁 **Folder Guide**
 
-| **Folder**                | **Description**                                                                |
-|---------------------------|--------------------------------------------------------------------------------|
-| **📚 0-Overview/**         | Big-picture narrative, simulation setup, camp goals                            |
-| **🛠️ 1-PreCamp-Setup/**   | Technical setup, minimum builds, inventory & tradeoffs                         |
-| **👨‍👩‍👧‍👦 2-Teams/**     | Team breakdowns (Nova, Vega, Orion) with mission-specific builds               |
-| **🧠 3-Modeling/**         | Modeling questions, MDO prompts, and student reflection                        |
-| **🔍 4-Mission-Logic/**    | Flight rules, tracking, data flows, and storytelling examples                  |
-| **🎤 5-Presentation-Slides/** | Daily team logbook template, example decks, TA kickoff slides               |
-| **📝 6-Forms-Templates/** (optional) | Flight logs, checklists, and debrief forms for instructors or TAs          |
-| **🧭 7-TA/**               | Teaching aids, lesson plans, instructional resources for TAs                   |
-| **8-Concepts/**               | THIS IS FOR EVERYONE TO FOLLOW DAILY ACZTIVITIES - CHANGES                  |
+### 🧭 **How to Use This Repo**
+
+1. **Start in `1-Sessions/`** – Each day’s learning content includes all background needed. No hunting for extra docs.
+2. **Explore `2-Capstone-Missions/`** – Missions like Nova, Vega, and Orion include setup instructions and embedded story context right in each team folder.
+3. **Use `3-Presentation-Slides/`** – Log your team progress daily and prepare your final demo with built-in templates.
+4. **Train models with `4-Modeling-Material/`** – Includes labeled examples and AI techniques for student customization.
+5. **Need quick help?** A guided, step-by-step assistant will be available soon to walk you through building your own camp setup. 🛠️
 
 
 ---
 
-### 🧭 **How to Use This Repo**
 
-1. Start in **0-Overview/** to understand the **simulation framework** and **team structure**.
-2. Follow **1-PreCamp-Setup/** for hardware, sensor, and environment setup.
-3. Each team should review their file under **2-Teams/** and use the **logbook** in **5-Presentation-Slides/**.
-4. **Modeling**, rules, and **flight review logic** are explained in **3-Modeling/** and **4-Mission-Logic/**.
 
 Let’s get ready to launch your first **AI-powered mission**. ✨
 
