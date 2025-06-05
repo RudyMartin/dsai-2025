@@ -1,12 +1,17 @@
 
-**5 dof Arm**
-Click image to view printing files and instructions
+**4DOF Wood Mechanical Arm with sg90 Servo**
+This is the base unit used in class to begin discussion of servos using simple automation using (4) SG90 servos.
+<a href="https://github.com/RudyMartin/dsai-2025/tree/main/ASU/5-Lab%20Resources/4dof">
+<img src="https://github.com/RudyMartin/dsai-2025/blob/main/ASU/5-Lab%20Resources/pics/5dof-mini-robot.png"  width="600" ></a>
+
+**5 dof Arm - **
+This mini robot version was designed for this camp using common models and uses either (5) SG92R or MG90 type servos
 
 <a href="https://github.com/RudyMartin/dsai-2025/tree/main/ASU/5-Lab%20Resources/5dof">
 <img src="https://github.com/RudyMartin/dsai-2025/blob/main/ASU/5-Lab%20Resources/pics/5dof-mini-robot.png"  width="600" ></a>
 
 **6 dof Arm**
-Click image to view printing files and instructions
+Most advanced kit model with (6) MG996R servos. 
 
 <a href="https://github.com/RudyMartin/dsai-2025/tree/main/ASU/5-Lab%20Resources/6dof">
 <img src="https://github.com/RudyMartin/dsai-2025/blob/main/ASU/5-Lab%20Resources/pics/5dof-mini-robot.png"  width="600" ></a>
