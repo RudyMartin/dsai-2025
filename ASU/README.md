@@ -36,6 +36,7 @@ Let’s get ready to launch your first **AI-powered mission**. ✨
 | **9-Mission-Quest/**                | 🔍 Gamified flight rules, team challenges, and storytelling extensions            |
 
 
+```mermaid
 graph TD
   A0[📁 0-Overview (optional)] --> A1
   A1[📁 1-Sessions<br>Daily Learning (inline content)]
@@ -59,4 +60,5 @@ graph TD
   ROOT --> A7
   ROOT --> A8
   ROOT --> A9
+```
 
