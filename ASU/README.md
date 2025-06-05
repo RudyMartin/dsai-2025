@@ -39,16 +39,27 @@ Let’s get ready to launch your first **AI-powered mission**. ✨
 
 ```mermaid
 graph TD
-  A0[📁 0-Overview (optional)] --> A1
-  A1[📁 1-Sessions<br>Daily Learning (inline content)]
-  A2[📁 2-Capstone-Missions<br>Nova / Vega / Orion with mission builds]
-  A3[📁 2-Presentation-Slides<br>Logbooks & final slides]
-  A4[📁 4-Modeling-Material<br>AI model training & Roboflow]
-  A5[📁 5-Lab-Resources<br>Class & group lab guides]
-  A6[📁 6-Teacher-Notes<br>TA resources & plans]
-  A7[📁 7-PreCamp-Setup<br>Hardware + Wi-Fi]
-  A8[📁 8-Forms-Templates (optional)<br>Flight logs, checklists]
-  A9[📁 9-Mission-Quest<br>Gamified version with rules & scores]
+  A0["0-Overview (optional)"] --> A1
+  A1["1-Sessions --- Daily Learning (inline)"]
+  A2["2-Capstone-Missions --- Nova, Vega, Orion"]
+  A3["2-Presentation-Slides --- Logbooks & Slides"]
+  A4["4-Modeling-Material --- AI Model Training"]
+  A5["5-Lab-Resources --- Lab Guides"]
+  A6["6-Teacher-Notes --- TA Plans"]
+  A7["7-PreCamp-Setup --- Hardware & Wi-Fi"]
+  A8["8-Forms-Templates (optional) --- Logs & Checklists"]
+  A9["9-Mission-Quest --- Gamified Rules & Stories"]
 
+  ROOT["AI Mission Camp Repo"]
+  ROOT --> A0
+  ROOT --> A1
+  ROOT --> A2
+  ROOT --> A3
+  ROOT --> A4
+  ROOT --> A5
+  ROOT --> A6
+  ROOT --> A7
+  ROOT --> A8
+  ROOT --> A9
 ```
 
