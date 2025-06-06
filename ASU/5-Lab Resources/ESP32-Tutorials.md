@@ -2,7 +2,7 @@ Here’s a curated list of **10 useful resource links** to help you and your tea
 
 Start with the Lab Session that relevant for your current setup (ESP32-S3, SD logging, camera integration):
 
-**Tips, Tricks, and Traps for ESP32 AI Agent Systems**  - Build Smarter Devices with the MCP/FSM Method by Rudyy Martin
+**Tips, Tricks, and Traps for ESP32 AI Agent Systems**  - Build Smarter Devices with the MCP/FSM Method by Rudy Martin
   [Github Lab](https://github.com/RudyMartin/esp32-ai-agents) 
 
 
