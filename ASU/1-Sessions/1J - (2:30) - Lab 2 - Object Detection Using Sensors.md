@@ -26,5 +26,12 @@ Let's tie the **big picture (TIR + AI robot capabilities)** into the **hands-on 
 
 
 ---
+## 🧠 Lab Progression Context 
+
+| Lab       | Focus                     | What Students Learn                                                                                              |
+| --------- | ------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| **Lab 1** | 🤖 LLM/RAG Chatbot        | How to ask questions and get responses from a language model. Teaches basic reasoning + context use              |
+| **Lab 2** | 🎯 Custom Vision Model    | Train a block classifier (6 colors × 2 sizes) using Roboflow. Export to Microcontroller                          |
+
 
 ## **Let's open the materials for Lab 2. Again all the code for this lesson is on https://github.com/RudyMartin/esp32Lab2/readme.md**
