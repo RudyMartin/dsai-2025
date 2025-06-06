@@ -47,7 +47,5 @@
 lab2_block_classifier_model_test.ino
 ```
 
----
 
-Would you like a visual slide version of this recap for Lab 2–4, or should we proceed with the same recap style for Lab 1 as well?
 
