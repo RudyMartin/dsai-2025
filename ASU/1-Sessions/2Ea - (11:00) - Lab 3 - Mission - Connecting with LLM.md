@@ -5,18 +5,18 @@ Sending LLM Messages to 64x64 matrix
 
 
 
-Perfect — you're scaffolding a **progressive agent system** across labs with clarity and purpose. Here's how Lab 3 fits into the full learning arc and how we should frame and name it.
+
 
 ---
 
-## 🧠 Lab Progression Context (So Far)
+## 🧠 Lab Progression Context 
 
 | Lab       | Focus                     | What Students Learn                                                                                              |
 | --------- | ------------------------- | ---------------------------------------------------------------------------------------------------------------- |
 | **Lab 1** | 🤖 LLM/RAG Chatbot        | How to ask questions and get responses from a language model. Teaches basic reasoning + context use              |
 | **Lab 2** | 🎯 Custom Vision Model    | Train a block classifier (6 colors × 2 sizes) using Roboflow. Export to Microcontroller                          |
 | **Lab 3** | 🚨 Decision + Alert Agent | Turn classifier outputs into action **based on confidence**. Use FSM, light GPIO/LED/Buzzer based on result      |
-| **Lab 4** | 🌐 Conditional Decisions  | Add **external conditions** (e.g. temperature, deck rules). Action is **context-dependent**, not just confidence |
+
 
 ---
 
@@ -32,21 +32,13 @@ It’s the **first time the system reacts**. This is crucial in the agent design
 
 ---
 
-## 🔤 What Should We Call This Script?
-
-### Primary Goals:
-
-* Align with MCP + FSM loop
-* Emphasize “confidence-based action”
-* Prepare for conditional logic in next lab
 
 ---
 
-### 🔧 Recommended Script Name:
+### 🔧 Script Name:
 
-```plaintext
 lab3_confidence_alert_agent.ino
-```
+
 
 
 ---
@@ -69,11 +61,7 @@ lab3_confidence_alert_agent.ino
 
 ---
 
-### 🔄 Next Step
-
-Would you like me to rename and regenerate the file as `lab3_confidence_alert_agent.ino` now, or also create the folder scaffold for your lab repo?
-
-
+## Review OF FSM State Design
 
 
 
