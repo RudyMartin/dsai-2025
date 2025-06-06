@@ -1,9 +1,3 @@
-Lab Video:
-
-- [Mastering Servo Control: PCA9685 PWM Driver with Arduino Tutorial and Demo](https://www.youtube.com/watch?v=GDnmAI_7lOk&t=9s) - 7 
-
-- How to use PCA9685 16-Channel 12-bit servo drive | Hash Robotics](https://www.youtube.com/watch?v=CVMpIn8olvQ) - 20 mins!!
-
 
 ## 🧠 Lab Progression Context
 
@@ -18,3 +12,9 @@ Lab Video:
 For **Lab 4**, where you're introducing **context-aware decisions**, the name should reflect that **external conditions** now influence the system’s behavior — not just the model output.
 
 ---
+Lab Video:
+
+- [Mastering Servo Control: PCA9685 PWM Driver with Arduino Tutorial and Demo](https://www.youtube.com/watch?v=GDnmAI_7lOk&t=9s) - 7 
+
+- How to use PCA9685 16-Channel 12-bit servo drive | Hash Robotics](https://www.youtube.com/watch?v=CVMpIn8olvQ) - 20 mins!!
+
