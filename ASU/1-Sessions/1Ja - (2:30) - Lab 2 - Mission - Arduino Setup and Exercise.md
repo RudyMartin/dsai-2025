@@ -4,8 +4,6 @@
 Learning Objectives:
 - Install the ESP32 Board Package and Setup Camera
 - Configure Board Settings
--
--
 
 We're using the **Seeed Studio XIAO ESP32S3 Sense** with a built-in **OV2640 camera**, you can stream live video to your laptop via Wi-Fi using the Arduino IDE. 
 
@@ -34,6 +32,10 @@ OR If  using  Seeedstudio boards:
    ```
 4. Go to **Tools > Board > Boards Manager**.
 5. Search for **"esp32"** and install the latest version by **Espressif Systems**.
+6. Other libraries we use can be added later:
+   - a) ESP32-HUB75-MatrixPanel
+   
+
 
 ---
 
