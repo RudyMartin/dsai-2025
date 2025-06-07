@@ -18,6 +18,8 @@
 
 ### 📦 Resources for Day 3
 
+Visit: [https://github.com/RudyMartin/esp32-ai-agents/tree/main/Cookbook/block_detector](https://github.com/RudyMartin/esp32-ai-agents/tree/main/Cookbook/block_detector)
+
 | Item               | Path                                                   | Notes                                    |
 | ------------------ | ------------------------------------------------------ | ---------------------------------------- |
 | **Colab notebook** | `Train_YOLOv8_BlockDetector.ipynb`                     | Minimal cells, Ultralytics pre-installed |
