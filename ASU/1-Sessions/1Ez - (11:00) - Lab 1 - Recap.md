@@ -1,6 +1,6 @@
 
 
-## 💬 Lab 1 Focus Recap
+## 💬 Lab 1 Focus Recap 
 
 ### 🧠 What Happens:
 
