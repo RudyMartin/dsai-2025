@@ -1,33 +1,36 @@
-### Advanced Models II (“Training → Inference → Tuning”)
+## Day 3 – **Advanced Models II**
 
-| **Time**      | **Step & Purpose**                                                          | **What You Show / Do**                                                                                                                                                                                                                          | **Student Action**                                     | **MCP / FSM Tie-In**                                                                    |
-| ------------- | --------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | --------------------------------------------------------------------------------------- |
-| **0-5 min**   | **Recap yesterday**<br>Remind them they’ve already *used* a model (Lab 2).  | 3-slide mini-deck:<br>1. “We borrowed a brain.”<br>2. Today: “Build your own.”<br>3. Later: “Make it faster/smaller.”                                                                                                                           | Listen                                                 | Links “Borrowed brain” = **ACT** step; today they write **PLAN** logic themselves.      |
-| **5-15 min**  | **Platform intro**<br>Pick **Ultralytics HUB** (fast) **+ Colab fallback**. | • Live sign-up (free tier)<br>• Show drag-drop dataset upload<br>• Start a YOLOv8-nano 30-epoch job (visible ETA < 3 min).                                                                                                                      | Follow on screens                                      | Sense → Upload = **LOG**; training loop ≈ “meta-PLAN” (the model learning how to plan). |
-| **15-25 min** | **Key concepts, high-school math**                                          | Whiteboard: weights, loss, gradient = “hot/cold game”.                                                                                                                                                                                          | Ask/answer questions                                   | Clarifies *why* later hyper-params matter during tuning.                                |
-| **25-45 min** | **Colab code-along** (DIY path)                                             | Open `Train_YOLOv8_BlockDetector.ipynb`:<br>`python<br>!pip install ultralytics -q<br>from ultralytics import YOLO<br># ✍️ students edit these paths<br>model = YOLO('yolov8n.pt')<br>results = model.train(data='blocks.yaml', epochs=25)<br>` | Students duplicate Colab, run cells, watch loss curve. | Training loop sits outside FSM; finished weights drop back into `CLASSIFY` state.       |
-| **45-55 min** | **Export & quick test**                                                     | `model.export(format='tflite')` → download; in Colab run one test image.                                                                                                                                                                        | Do the same                                            | Show that TFLite file = “portable PLAN unit.”                                           |
-| **55-60 min** | **Break & reflection prompt**                                               | Pose two Qs to discuss after break: 1) Which hyper-parameter sped things up? 2) Where does training live in MCP?                                                                                                                                | Students jot answers                                   | —                                                                                       |
+*Track 3: “Training → Inference → Tuning”*
 
----
+| **Time**        | **Step & Purpose**                                     | **Instructor Demo / Prompt**                                                                                                                                               | **Student Action**           | **MCP / FSM Anchor**                                               |
+| --------------- | ------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- | ------------------------------------------------------------------ |
+| **00 – 05 min** | **Recap yesterday**<br>“We used someone else’s brain.” | 3-slide deck:<br>1️⃣ Borrowed model → ACT<br>2️⃣ Today: build your own → PLAN<br>3️⃣ PM: make it faster / smaller                                                          | Listen & recall Lab 2 flow   | Borrowed brain = **ACT**; today they author **PLAN**               |
+| **05 – 15 min** | **Platform intro**                                     | • Live sign-up Ultralytics HUB (free)<br>• Drag-drop dataset<br>• Kick off YOLOv8-nano (≤ 3 min ETA)                                                                       | Click along on their screens | Upload images = **LOG**; training loop = “meta-PLAN”               |
+| **15 – 25 min** | **Key concepts (HS math)**                             | Whiteboard: weights → loss → gradient (“hot-/cold” game)                                                                                                                   | Q\&A                         | Shows why hyper-params matter for tuning                           |
+| **25 – 45 min** | **Colab code-along (DIY)**                             | Open `Train_YOLOv8_BlockDetector.ipynb` →<br>`!pip install ultralytics -q`<br>`model = YOLO('yolov8n.pt')`<br>`model.train(data='datasets/blocks/blocks.yaml', epochs=25)` | Run cells, watch loss curve  | Training loop sits outside FSM; finished weights feed **CLASSIFY** |
+| **45 – 55 min** | **Export + quick test**                                | `model.export(format='tflite', quantize=True)`<br>Run one test image                                                                                                       | Same steps                   | Int8 TFLite file = portable **PLAN** module                        |
+| **55 – 60 min** | **Break + reflection prompt**                          | Ask:<br>1️⃣ Which hyper-param sped things up?<br>2️⃣ Where does training live in MCP?                                                                                      | Jot notes for discussion     | —                                                                  |
 
-
-### Resources You Give Them
-
-| Item                               | Link / Location                                | Notes                                        |
-| ---------------------------------- | ---------------------------------------------- | -------------------------------------------- |
-| `Train_YOLOv8_BlockDetector.ipynb` | Colab template (shared via class Google Drive) | Minimal cells, pre-installed Ultralytics.    |
-| `blocks.yaml`                      | In repo `/datasets/blocks/`                    | Ready-formatted dataset config.              |
-| ESP32 timing script                | `timing_test.ino`                              | Reads one frame, prints inference latency.   |
-| Hyper-param sweep YAMLs            | `sweeps/` folder (3 presets)                   | “Fast”, “Balanced”, “Accuracy-push”.         |
-| Model card template                | `model_card.md`                                | Students fill name, size, accuracy, latency. |
+> **PM Block (60 min)** – *Tuning & Benchmarking*
+> *Quantization demo → Latency challenge with `timing_test.ino` → Hyper-param sweep (`sweeps/*.yaml`) → Fill out `model_card.md`*
 
 ---
 
-### Why This Fits Your Flow
+### 📦 Resources for Day 3
 
-1. **Lab 2** borrowed weights → quick success.
-2. **Morning of Lab 3 (Hour 1)** students *own* the training loop and see it finish inside class time.
-3. **Afternoon of Lab 3 (Hour 2)** they manipulate the same model for speed & size, linking back to MCP/FSM (`RETRAIN`, `LOG_METRICS`).
-4. Outputs are portable weights + documented trade-offs—fuel for later mission integration and for the governance lessons you run with FAISS.
+| Item               | Path                                                   | Notes                                    |
+| ------------------ | ------------------------------------------------------ | ---------------------------------------- |
+| **Colab notebook** | `Train_YOLOv8_BlockDetector.ipynb`                     | Minimal cells, Ultralytics pre-installed |
+| **Dataset config** | `datasets/blocks/blocks.yaml`                          | 12 classes, ready to train               |
+| **Timing sketch**  | `arduino/ESP32/timing_test.ino`                        | Prints ms / inference on ESP32-S3        |
+| **Sweep configs**  | `sweeps/fast.yaml` · `balanced.yaml` · `accuracy.yaml` | Speed ↔ accuracy trade-offs              |
+| **Model card**     | `model_card.md`                                        | Record size, mAP, latency                |
 
+---
+
+### 🔑 How This Flow Works
+
+1. **Lab 2** gave instant success with borrowed weights.
+2. **Morning (60 min)** — students fully own the training loop and finish a working model inside class time.
+3. **Afternoon (60 min)** — they tune the very same model for size & speed, logging metrics back into MCP/FSM (`RETRAIN`, `LOG_METRICS`).
+4. **Artifacts** — quantized weights + filled `model_card.md` become plug-and-play assets for future mission labs and FAISS governance demos.
