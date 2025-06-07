@@ -35,3 +35,13 @@
 * **Morning (60 min)** → students own the training loop and finish a working model inside class.
 * **Afternoon (60 min)** → students tune the *same* model for size & speed, logging metrics back into MCP/FSM (**RETRAIN**, **LOG\_METRICS**).
 * **Artifacts** → quantized weights + filled `model_card.md` become plug-and-play assets for later mission integration and FAISS governance demos.
+
+---
+
+### 🎞️ Mini-Deck (3 Slides)
+
+| Slide | Title & Key Points                                                                                                                                                   | Tiny Demo / Visual                                                 |
+| ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| **1** | **“What Is Tuning?”**<br>• Adjust settings to squeeze more accuracy or speed.<br>• Typical knobs: **learning-rate, batch-size, quantization, confidence-threshold**. | Side-by-side: two heat-maps of loss curves (fast vs slow learner). |
+| **2** | **“Try This!”**<br>• Show *poor* model mis-classifying a blue block as green.<br>• Show *tuned* model getting it right.<br>**Ask:** *What changed?*                  | Static GIF toggling before/after prediction boxes.                 |
+| **3** | **“Live Slider Demo”**<br>• Streamlit/Colab widget: confidence slider **0.2 → 0.9**.<br>• Underneath, confusion-matrix or mAP bar updates in real-time.              | Quick run-through of slider; students predict the sweet spot.      |
