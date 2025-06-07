@@ -53,6 +53,47 @@
 
 ✅ **WiFi Side Done.**
 
+Instructions for ASUS __> Here’s the short version first, then the “why” in plain language.
+
+
+## Quick Pick
+
+| Goal                                                                 | Best Asus Mode                            | Why it works offline                                                                                                      |
+| -------------------------------------------------------------------- | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| **Single, self-contained Wi-Fi + NAS lab (no other router present)** | **Wireless Router mode (default)**        | Router hands out IP addresses (DHCP), so every laptop, ESP32, and the NAS can “see” one another even without a WAN cable. |
+| Large space, need several nodes                                      | AiMesh **(all nodes in “Router/AP” mix)** | Same DHCP brain as above, but extra nodes extend coverage.                                                                |
+| Already have *another* box giving out IP addresses                   | Access Point mode                         | Asus just adds Wi-Fi; it won’t try to run its own DHCP.                                                                   |
+| Any other listed mode (Repeater / Media Bridge)                      | **Skip**                                  | They expect an existing internet Wi-Fi signal to repeat or bridge—doesn’t exist in an offline lab.                        |
+
+---
+
+## Step-by-Step for an Internet-Free Lab
+
+1. **Factory-reset the router** (optional but clean slate helps).
+2. **Leave it in “Wireless Router mode.”**
+   *It will complain there’s no WAN—ignore or switch WAN type to “None/Disabled.”*
+3. **Set a LAN subnet** you like, e.g. `192.168.20.1/24`.
+4. **Enable DHCP** (default) so every device auto-gets an address.
+   *If you want fixed addresses for the NAS or printers, create DHCP reservations.*
+5. **Plug the NAS into any LAN port** (or the WAN port if the UI lets you repurpose it as LAN).
+6. Give the **NAS either a static IP or a DHCP reservation**—makes it easy for students to find, e.g. `192.168.20.100`.
+7. **Disable automatic firmware updates** (they’ll fail without internet and slow boot time).
+8. Optional quality-of-life tweaks:
+
+   * Add a local **DNS name** in the router (“camp-nas.local” → 192.168.20.100).
+   * Turn off **NTP sync** on clients or point them to the router as an NTP server so timestamps stay sane.
+   * Enable **SMB/AFP/NFS** shares on the NAS plus a guest-read-only folder for handouts and a writeable upload folder for student logs.
+
+
+---
+
+### What students will see
+
+* Join SSID “Artemis-Lab”.
+* They get an address like `192.168.20.42`.
+* NAS is reachable at `\\camp-nas.local\shared` or `smb://192.168.20.100/shared`.
+* ESP32 boards can POST JSON straight to `http://192.168.20.100/upload`.
+
 ---
 
 # 🧠 Part 3 — Flash and Setup ESP32
