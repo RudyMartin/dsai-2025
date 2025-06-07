@@ -1,47 +1,37 @@
-## Day 3 - Optimization & Tuning
-# Slide 1: What is Tuning?
-- Tuning = adjusting settings to improve results.
-- Common in models: learning rate, threshold, etc.
+## Day 3 – **Advanced Models III**
 
-# Slide 2: Try This!
-- Example: Show a poor model vs tuned model on a test image.
-- Ask: What changed?
+*Track 3: “Training → Inference → Tuning”*
 
-# Slide 3: Slider Demo
-- Add slider: adjust threshold from 0.2 to 0.9
-- Show accuracy or confusion matrix update live.
+### 🕘 **Afternoon Session (60 min) – Optimization & Tuning**
 
----
-
-#### **Hour 2 – Optimization & Tuning Session**
-
-| **Time**      | **Step & Purpose**                          | **Show / Do**                                                                                          | **Student Action**                                                         | **MCP / FSM Tie-In**                                                          |
-| ------------- | ------------------------------------------- | ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| **0-5 min**   | **Kick-off**                                | Return to questions; highlight LR, batch size, frozen layers.                                          | Share answers                                                              | —                                                                             |
-| **5-15 min**  | **Quantization demo**                       | In Colab:<br>`from ultralytics.utils.torch_utils import quantize`<br>Make int8 model; print size diff. | Run snippet, note `.tflite` file shrank \~75 %.                            | Smaller PLAN → quicker **ACT** on ESP32.                                      |
-| **15-35 min** | **Mini-challenge: Beat instructor latency** | Provide ESP32-S3 timing script (in serial monitor prints ms/inference).                                | Teams flash nano vs quantized; record times; upload to shared sheet.       | Adds metric logging to **LOG** state (`{"latency_ms": …}`).                   |
-| **35-45 min** | **Hyper-parameter sweep**                   | Give starter YAML with `epochs`, `imgsz`, `augment`.                                                   | Each team edits one param, retrains 5 epochs (Colab GPU ≈4 min), logs mAP. | Shows cyclical MCP: if `mAP < 0.8` => return to `RETRAIN` state (FSM branch). |
-| **45-55 min** | **Discuss cost vs. accuracy graph**         | Plot (provided) showing diminishing returns.                                                           | Interpret where “sweet spot” lies.                                         | Teaches design trade-off thinking.                                            |
-| **55-60 min** | **Commit to repo**                          | Push best weights + `model_card.md` to camp GitHub.                                                    | Do it.                                                                     | Versioned PLAN modules ready for future labs.                                 |
+| Time            | Step & Purpose                                 | Instructor Demo / Prompt                                                                                                                      | Student Action                                                        | MCP / FSM Anchor                                      |
+| --------------- | ---------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | ----------------------------------------------------- |
+| **00 – 05 min** | **Kick-off** – surface answers to break prompt | Summarise key knobs: **learning-rate, batch-size, frozen layers**                                                                             | Share reflections                                                     | —                                                     |
+| **05 – 15 min** | **Quantization demo**                          | `python\nfrom ultralytics.utils.torch_utils import quantize\nquantize('runs/detect/baseline/weights/best.pt')\n`<br>Show size shrink (\~75 %) | Run snippet locally; note file sizes                                  | Smaller **PLAN** ⇒ faster **ACT** on ESP32            |
+| **15 – 35 min** | **Mini-challenge: “Beat My Latency”**          | Provide `arduino/ESP32/timing_test.ino`<br>(nano vs int8)                                                                                     | Teams flash both, record `ms/inference`, log to shared sheet          | Add `{"latency_ms": …}` to **LOG** state              |
+| **35 – 45 min** | **Hyper-parameter sweep**                      | Hand out starter YAML (epochs, imgsz, augment)                                                                                                | Each team tweaks **one** param, retrains 5 epochs (\~4 min), logs mAP | Cyclical MCP: if `mAP < 0.80` ➜ branch to **RETRAIN** |
+| **45 – 55 min** | **Cost vs Accuracy graph**                     | Show provided plot of image-size ↔ mAP ↔ latency                                                                                              | Debate “sweet-spot” point                                             | Builds design trade-off mindset                       |
+| **55 – 60 min** | **Commit & push**                              | `git add best_int8.tflite model_card.md` → push                                                                                               | Do it live                                                            | Versioned **PLAN** ready for later labs               |
 
 ---
 
-### Resources You Give Them
+### 📦 Resources for Day 3
 
-| Item                               | Link / Location                                | Notes                                        |
-| ---------------------------------- | ---------------------------------------------- | -------------------------------------------- |
-| `Train_YOLOv8_BlockDetector.ipynb` | Colab template (shared via class Google Drive) | Minimal cells, pre-installed Ultralytics.    |
-| `blocks.yaml`                      | In repo `/datasets/blocks/`                    | Ready-formatted dataset config.              |
-| ESP32 timing script                | `timing_test.ino`                              | Reads one frame, prints inference latency.   |
-| Hyper-param sweep YAMLs            | `sweeps/` folder (3 presets)                   | “Fast”, “Balanced”, “Accuracy-push”.         |
-| Model card template                | `model_card.md`                                | Students fill name, size, accuracy, latency. |
+| Item           | Path                                                 | Notes                                    |
+| -------------- | ---------------------------------------------------- | ---------------------------------------- |
+| Colab notebook | `Train_YOLOv8_BlockDetector.ipynb`                   | Minimal cells, Ultralytics pre-installed |
+| Dataset config | `datasets/blocks/blocks.yaml`                        | 12 classes, ready to train               |
+| Timing sketch  | `arduino/ESP32/timing_test.ino`                      | Prints `ms / inference` on ESP32-S3      |
+| Sweep configs  | `sweeps/fast.yaml`, `balanced.yaml`, `accuracy.yaml` | Speed ↔ accuracy trade-offs              |
+| Model card     | `model_card.md`                                      | Record size, mAP, latency                |
+
+> **Repo link:** [https://github.com/RudyMartin/esp32-ai-agents/tree/main/Cookbook/block\_detector](https://github.com/RudyMartin/esp32-ai-agents/tree/main/Cookbook/block_detector)
 
 ---
 
-### Why This Fits Your Flow
+### 🔑 How This Flow Works
 
-1. **Lab 2** borrowed weights → quick success.
-2. **Morning of Lab 3 (Hour 1)** students *own* the training loop and see it finish inside class time.
-3. **Afternoon of Lab 3 (Hour 2)** they manipulate the same model for speed & size, linking back to MCP/FSM (`RETRAIN`, `LOG_METRICS`).
-4. Outputs are portable weights + documented trade-offs—fuel for later mission integration and for the governance lessons you run with FAISS.
-
+* **Lab 2** → instant success with borrowed weights.
+* **Morning (60 min)** → students own the training loop and finish a working model inside class.
+* **Afternoon (60 min)** → students tune the *same* model for size & speed, logging metrics back into MCP/FSM (**RETRAIN**, **LOG\_METRICS**).
+* **Artifacts** → quantized weights + filled `model_card.md` become plug-and-play assets for later mission integration and FAISS governance demos.
