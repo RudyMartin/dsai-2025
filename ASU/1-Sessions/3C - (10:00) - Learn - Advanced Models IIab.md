@@ -34,5 +34,5 @@ Visit: [https://github.com/RudyMartin/esp32-ai-agents/tree/main/Cookbook/block_d
 
 1. **Lab 2** gave instant success with borrowed weights.
 2. **Morning (60 min)** — students fully own the training loop and finish a working model inside class time.
-3. **Afternoon (60 min)** — they tune the very same model for size & speed, logging metrics back into MCP/FSM (`RETRAIN`, `LOG_METRICS`).
+3. **Afternoon (60 min)** — students tune the very same model for size & speed, logging metrics back into MCP/FSM (`RETRAIN`, `LOG_METRICS`).
 4. **Artifacts** — quantized weights + filled `model_card.md` become plug-and-play assets for future mission labs and FAISS governance demos.
