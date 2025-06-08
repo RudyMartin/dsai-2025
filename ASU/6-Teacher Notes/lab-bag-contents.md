@@ -1,5 +1,5 @@
 
-As of June 8, 2025 (note changes)
+As of June 8, 2025 (* changes)
 
 *Lab 1 :"
 
