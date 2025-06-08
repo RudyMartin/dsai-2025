@@ -31,6 +31,7 @@ As of June 8, 2025 (* changes)
 **Lab 4 :**
 
   - DIY Robot Arm Kit, 4DOF Wood Mechanical Arm with sg90 Servo, Assembled for SNAM1500
+  - Liter energybattery 3.7V Lipo Battery 1000mAh Rechargeable Lithium ion Polymer Battery 503450 Lithium Polymer ion Battery with JST Connector
   - PCA9685 16-Channel Module PWM/Servo/servo Driver Board Controller IIC Interface for Raspberry Pi and Robots MG90S SG90 MG995
 
 
