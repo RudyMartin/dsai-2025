@@ -22,6 +22,7 @@ As of June 8, 2025 (* changes)
 
   - Multicolored Dupont Wire 40pin Male to Female, 40pin Male to Male, 40pin Female to Female Breadboard Jumper Ribbon Cables Kit Compatible with Arduino Projects
   - DC 3V Active Buzzer Alarm Electromagnetic Beeper Active Piezo Buzzers Alarm Industrial Sounder 9x6mm/9x5.5mm
+  - HC-SR501 PIR Motion Sensor Module + 2Pcs Exclusive housing for Arduino Raspberry Pi Toys, Lamps, Electronic Equipment
 
 
 *Lab 4 :"
