@@ -31,7 +31,7 @@ As of June 8, 2025 (* changes)
 
 **Lab 5 :**
 
-  - items
+  - Westcott 10562 Acrylic Clear Ruler, 12 in
 
 **Lab 6 :**
 
