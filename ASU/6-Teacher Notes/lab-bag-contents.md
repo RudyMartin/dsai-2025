@@ -20,6 +20,7 @@ As of June 8, 2025 (* changes)
 *Lab 3 :"
 
   - Multicolored Dupont Wire 40pin Male to Female, 40pin Male to Male, 40pin Female to Female Breadboard Jumper Ribbon Cables Kit Compatible with Arduino Projects
+  - DC 3V Active Buzzer Alarm Electromagnetic Beeper Active Piezo Buzzers Alarm Industrial Sounder 9x6mm/9x5.5mm
 
 
 *Lab 4 :"
