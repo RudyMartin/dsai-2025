@@ -14,6 +14,7 @@ As of June 8, 2025 (* changes)
   - Freenove Breakout Board for ESP32 / ESP32-S3 WROVER WROOM, Terminal Block Shield HAT with Pin Header, 5V 3.3V Power Outputs, GPIO Status LED
   - OPTION (A) FREENOVE ESP32-WROOM Board, Dual-core 32-bit 240 MHz Microcontroller, Onboard Wireless, Python C Code, Example Projects Tutorial
   - OPTION (B) FREENOVE ESP32-S3-WROOM CAM Board, Dual-core 32-bit 240 MHz Microcontroller, Onboard Camera Wireless, Python C Code, Example Projects Tutorial
+  -  Short USB Type-C Cable 5pack 12inch Fast Charging 3A Rapid Charger Quick Cord, Braided Type C to A Cable for Galaxy S10 20 9 8 Plus a10e,Note 10 9 8,LG V50 V40 G8 G7(1foot, Gold)
 
 
 
