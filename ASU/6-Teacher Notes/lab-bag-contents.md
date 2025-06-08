@@ -36,6 +36,7 @@ As of June 8, 2025 (* changes)
 **Lab 5 :**
 
   - Westcott 10562 Acrylic Clear Ruler, 12 in
+  - HiLetgo 5pcs ULN2003 28BYJ-48 4-Phase Stepper Motor with 5V Drive Board for Arduino PI PIC Raspberry Pi
 
 **Lab 6 :**
 
