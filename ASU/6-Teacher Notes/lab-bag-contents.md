@@ -15,6 +15,7 @@ As of June 8, 2025 (* changes)
   -  Short USB Type-C Cable 5pack 12inch Fast Charging 3A Rapid Charger Quick Cord, Braided Type C to A Cable for Galaxy S10 20 9 8 Plus a10e,Note 10 9 8,LG V50 V40 G8 G7(1foot, Gold)
   -  4 Channels IIC I2C Logic Level Converter PRE-SOLDERED Bi-Directional Module 3.3V to 5V Shifter for Raspberry Pi and Other Microcontrollers
   -  1 Inch Colorful Wooden Blocks, Small Wooden Cubes with Assorted Colors, Colored Square Wood Block for Crafts
+  -  5V 3A Power Supply 15W AC/DC Wall Adapter Converter Transformer Cord Output Plug 5.5mm X 2.5mm/2.1mm Made for 5V LED Strip Light CCTV Camera Security System
 
 
 
