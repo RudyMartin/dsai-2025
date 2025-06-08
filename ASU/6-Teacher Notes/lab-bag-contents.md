@@ -1,4 +1,6 @@
 
+As of June 8, 2025 (note changes)
+
 *Lab 1 :"
 
   - items
@@ -9,7 +11,8 @@
 
 *Lab 2 :"
 
-  - items
+  - FREENOVE ESP32-WROOM Board, Dual-core 32-bit 240 MHz Microcontroller, Onboard Wireless, Python C Code, Example Projects Tutorial
+
 
 
 *Lab 3 :"
