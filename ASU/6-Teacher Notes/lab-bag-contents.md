@@ -16,6 +16,7 @@ As of June 8, 2025 (* changes)
   -  4 Channels IIC I2C Logic Level Converter PRE-SOLDERED Bi-Directional Module 3.3V to 5V Shifter for Raspberry Pi and Other Microcontrollers
   -  1 Inch Colorful Wooden Blocks, Small Wooden Cubes with Assorted Colors, Colored Square Wood Block for Crafts
   -  5V 3A Power Supply 15W AC/DC Wall Adapter Converter Transformer Cord Output Plug 5.5mm X 2.5mm/2.1mm Made for 5V LED Strip Light CCTV Camera Security System
+  -  Seeed Studio XIAO ESP32 S3 Sense - 2.4GHz Wi-Fi, BLE 5.0, OV2640 Camera Sensor, Digital Microphone, 8MB PSRAM, 8MB Flash, Battery Charge Supported, Rich Interface, IoT, Embedded ML 
 
 
 
