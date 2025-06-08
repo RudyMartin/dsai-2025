@@ -14,6 +14,7 @@ As of June 8, 2025 (* changes)
   - OPTION (B) FREENOVE ESP32-S3-WROOM CAM Board, Dual-core 32-bit 240 MHz Microcontroller, Onboard Camera Wireless, Python C Code, Example Projects Tutorial
   -  Short USB Type-C Cable 5pack 12inch Fast Charging 3A Rapid Charger Quick Cord, Braided Type C to A Cable for Galaxy S10 20 9 8 Plus a10e,Note 10 9 8,LG V50 V40 G8 G7(1foot, Gold)
   -  4 Channels IIC I2C Logic Level Converter PRE-SOLDERED Bi-Directional Module 3.3V to 5V Shifter for Raspberry Pi and Other Microcontrollers
+  -  1 Inch Colorful Wooden Blocks, Small Wooden Cubes with Assorted Colors, Colored Square Wood Block for Crafts
 
 
 
