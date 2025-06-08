@@ -26,7 +26,7 @@ As of June 8, 2025 (* changes)
 
 **Lab 4 :**
 
-  - items
+  - DIY Robot Arm Kit, 4DOF Wood Mechanical Arm with sg90 Servo, Assembled for SNAM1500
 
 
 **Lab 5 :**
