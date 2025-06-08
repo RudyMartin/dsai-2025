@@ -31,6 +31,7 @@ As of June 8, 2025 (* changes)
 **Lab 4 :**
 
   - DIY Robot Arm Kit, 4DOF Wood Mechanical Arm with sg90 Servo, Assembled for SNAM1500
+  - PCA9685 16-Channel Module PWM/Servo/servo Driver Board Controller IIC Interface for Raspberry Pi and Robots MG90S SG90 MG995
 
 
 **Lab 5 :**
