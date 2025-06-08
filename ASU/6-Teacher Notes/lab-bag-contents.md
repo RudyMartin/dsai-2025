@@ -29,4 +29,5 @@
 *Lab 6 :"
 
   - MAX98357 I2S Audio Amplifier Module, I2S 3W Class D Filterless Amplifier Breakout Audio Board for ESP32
+  - Mini Speaker - 3W 4Ohm, Loudspeaker with Dupont Interface for Arduino & Small Projects
 
