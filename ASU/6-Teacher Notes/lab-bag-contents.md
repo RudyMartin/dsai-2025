@@ -11,7 +11,9 @@ As of June 8, 2025 (* changes)
 
 *Lab 2 :"
 
-  - FREENOVE ESP32-WROOM Board, Dual-core 32-bit 240 MHz Microcontroller, Onboard Wireless, Python C Code, Example Projects Tutorial
+  - either
+    - FREENOVE ESP32-WROOM Board, Dual-core 32-bit 240 MHz Microcontroller, Onboard Wireless, Python C Code, Example Projects Tutorial
+    - FREENOVE ESP32-S3-WROOM CAM Board, Dual-core 32-bit 240 MHz Microcontroller, Onboard Camera Wireless, Python C Code, Example Projects Tutorial
 
 
 
