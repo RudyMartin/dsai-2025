@@ -5,30 +5,28 @@ Welcome to the **Data Science & AI (DSAI) 2025** presentation series at ASU. Thi
 📁 GitHub Directory: [`2-Presentation Slides`](https://github.com/RudyMartin/dsai-2025/tree/main/ASU/2-Presentation%20Slides)
 
 ---
+# 📊 DSAI 2025 – ASU Presentation Slides (Session 1C)
 
-## 🎯 Slide Decks
+Slides for Session 1C of the DSAI 2025 course at ASU. These are structured for a 90-minute class split across three major focus areas.
 
-### 1️⃣ AI in Sports: Data-Driven Drafts & Coaching
-Explore how AI was used to simulate the 2025 NFL Draft, and what it teaches us about predictions, uncertainty, and human-AI collaboration.
-
-🔗 [Download Slide Deck (Part 1)](https://github.com/RudyMartin/dsai-2025/raw/main/ASU/2-Presentation%20Slides/AI_in_Sports_Part1.pptx)
+📁 GitHub Directory: [`2-Presentation Slides`](https://github.com/RudyMartin/dsai-2025/tree/main/ASU/2-Presentation%20Slides)
 
 ---
 
-### 2️⃣ From Data to Decisions: The AI Modeling Pipeline
-Covers the key components of predictive modeling, including data preparation, algorithm selection, and model evaluation.
+## 📋 Session 1C Slide Decks
 
-🔗 [Download Slide Deck (Part 2)](https://github.com/RudyMartin/dsai-2025/raw/main/ASU/2-Presentation%20Slides/AI_Modeling_Pipeline_Part2.pptx)
-
----
-
-### 3️⃣ TinyML & Agentic Systems: AI at the Edge
-Focuses on deploying AI to low-power edge devices, the MCP model, FSMs, and modular “Swappable Agents” for student-designed AI projects.
-
-🔗 [Download Slide Deck (Part 3)](https://github.com/RudyMartin/dsai-2025/raw/main/ASU/2-Presentation%20Slides/TinyML_and_Systems_Part3.pptx)
+| Part | Title                                  | Description                                                                                      | Download Link                                                                                                                                 |
+|------|----------------------------------------|--------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1️⃣   | AI in Sports: Data-Driven Drafts & Coaching | Real-world case of how AI predicted the NFL Draft and what it reveals about AI limitations.      | [Download Part 1](https://github.com/RudyMartin/dsai-2025/raw/main/ASU/2-Presentation%20Slides/AI_in_Sports_Part1.pptx)                      |
+| 2️⃣   | From Data to Decisions: AI Modeling Pipeline | Walkthrough of key ML steps: data prep, EDA, model building, and evaluation.                    | [Download Part 2](https://github.com/RudyMartin/dsai-2025/raw/main/ASU/2-Presentation%20Slides/AI_Modeling_Pipeline_Part2.pptx)              |
+| 3️⃣   | TinyML & Agentic Systems: AI at the Edge       | How to optimize and deploy ML models on microcontrollers using FSMs, TinyML, and swappable agents. | [Download Part 3](https://github.com/RudyMartin/dsai-2025/raw/main/ASU/2-Presentation%20Slides/TinyML_and_Systems_Part3.pptx)                |
 
 ---
 
-### 👨‍🏫 For Instructors
-Need speaker notes, teaching aids, or student handouts? Reach out via the Issues tab or fork the repo and suggest your edits!
+### 🧩 Notes
 
+You can add new columns for:
+- **Instructor Notes**
+- **Student Resources**
+- **Objectives**
+- **Recording Links**
