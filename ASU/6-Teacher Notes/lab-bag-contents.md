@@ -25,6 +25,7 @@ As of June 8, 2025 (* changes) Not a complete list
   - Taiss SPST Mini Toggle Switch 2 Pin 2 Position ON/Off Miniature Toggle Switch 6A 125V MTS-101
   - Breadboard 400 Tie Point Solderless Prototype PCB Board Protoboard for Arduino DIY
   - Diffused Red and Green Indicator LED
+  - TXB0104 Bi-Directional Level Shifter (12 pins)
 
 
 **Lab 4 :**
