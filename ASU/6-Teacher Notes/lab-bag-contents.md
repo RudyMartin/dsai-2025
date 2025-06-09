@@ -3,9 +3,7 @@ As of June 8, 2025 (* changes) Not a complete list
 
 **Lab 1 :**
 
-  - items
-
-  - items
+  - Lab is software based no hardware
 
 **Lab 2 :**
 
