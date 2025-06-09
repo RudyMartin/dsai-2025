@@ -27,6 +27,7 @@ As of June 8, 2025 (* changes)
   - HC-SR501 PIR Motion Sensor Module + 2Pcs Exclusive housing for Arduino Raspberry Pi Toys, Lamps, Electronic Equipment
   - Taiss SPST Mini Toggle Switch 2 Pin 2 Position ON/Off Miniature Toggle Switch 6A 125V MTS-101
   - Breadboard 400 Tie Point Solderless Prototype PCB Board Protoboard for Arduino DIY
+  - Diffused Red and Green Indicator LED
 
 
 **Lab 4 :**
