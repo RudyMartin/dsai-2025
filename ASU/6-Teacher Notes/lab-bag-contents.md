@@ -25,7 +25,7 @@ As of June 8, 2025 (* changes) Not a complete list
   - Taiss SPST Mini Toggle Switch 2 Pin 2 Position ON/Off Miniature Toggle Switch 6A 125V MTS-101
   - Breadboard 400 Tie Point Solderless Prototype PCB Board Protoboard for Arduino DIY
   - Diffused Red and Green Indicator LED
-  - TXB0104 Bi-Directional Level Shifter (12 pins)
+  - TXB0104 Bi-Directional Level Shifter (12 pins) [requires sodering]
 
 
 **Lab 4 :**
@@ -42,7 +42,7 @@ As of June 8, 2025 (* changes) Not a complete list
 
 **Lab 6 :**
 
-  - MAX98357 I2S Audio Amplifier Module, I2S 3W Class D Filterless Amplifier Breakout Audio Board for ESP32
+  - MAX98357 I2S Audio Amplifier Module, I2S 3W Class D Filterless Amplifier Audio Board[ [requires sodering]
   - Mini Speaker either
     - Speaker 3 Watt 4 Ohm with JST-PH2.0 Interface Compatible with Arduino and Electronic Projects
     - upgrade = 3W 4Ohm, Loudspeaker with Dupont Interface for Arduino & Small Projects
