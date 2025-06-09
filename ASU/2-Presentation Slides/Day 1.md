@@ -1,3 +1,4 @@
+
 # 📊 DSAI 2025 – ASU Presentation Slides
 
 This page contains all presentation slides used in the DSAI 2025 course at ASU. Each session includes focused content to support teaching, project launches, or student learning.
@@ -20,6 +21,6 @@ This page contains all presentation slides used in the DSAI 2025 course at ASU. 
 
 ### 🧩 Notes
 
-To preview these files online in full detail:
-- Use **GitHub Desktop + PowerPoint**, or
-- Upload `.pptx` to **Google Drive** for live, interactive previews
+To preview `.pptx` files directly:
+- Use GitHub’s **blob view** (as linked), or
+- Upload to Google Drive for live editing and viewing
