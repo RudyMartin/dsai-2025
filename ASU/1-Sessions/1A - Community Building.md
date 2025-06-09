@@ -2,7 +2,7 @@
 
 Learning Objectives
 - 
-# ESP32-S3 + Camera + Agentic Robotics Camp
+# Artemis Data Science AI Mission Camp
 
 ## Daily Lesson Previews
 
