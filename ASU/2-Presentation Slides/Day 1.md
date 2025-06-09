@@ -16,6 +16,9 @@ This page contains all presentation slides used in the DSAI 2025 course at ASU. 
 | 1B      | 1️⃣   | AI in Sports: Data-Driven Drafts & Coaching | Real-world case of how AI predicted the NFL Draft and what it reveals about AI limitations.      | [View Part 1](https://github.com/RudyMartin/dsai-2025/blob/main/ASU/2-Presentation%20Slides/AI_in_Sports_Part1.pptx)                             |
 | 1B      | 2️⃣   | From Data to Decisions: AI Modeling Pipeline | Walkthrough of key ML steps: data prep, EDA, model building, and evaluation.                    | [View Part 2](https://github.com/RudyMartin/dsai-2025/blob/main/ASU/2-Presentation%20Slides/AI_Modeling_Pipe.pptx)                               |
 | 1B      | 3️⃣   | TinyML & Agentic Systems: AI at the Edge     | How to optimize and deploy ML models on microcontrollers using FSMs, TinyML, and swappable agents. | [View Part 3](https://github.com/RudyMartin/dsai-2025/blob/main/ASU/2-Presentation%20Slides/TinyML_and_Systems_Part3_Final.pptx)                |
+| 1E      | 🎥    | Build Your Personal AI Study Partner       | Learn how to use ChatGPT as a learning companion in 10 minutes. | [Watch on YouTube](https://www.youtube.com/watch?v=jzjWrufn_Dc) |
+| 1E      | 💻    | Lab 1 – Practical Python + ChatBot         | Learn input, logic, and functions by building a simple AI chatbot. | [View Lab 1 Slide Deck](https://github.com/RudyMartin/dsai-2025/blob/main/ASU/2-Presentation%20Slides/Lab1_Python_Chatbot.pptx) |
+
 
 ---
 
