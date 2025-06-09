@@ -3,5 +3,6 @@ Resources:
 
 - https://github.com/RudyMartin/dsai-2025 - follow along for daily schedule
 
+- **[esp32](github.com/RudyMartin/esp32-ai-agents2/)** - private code for Labs
 
-- **[esp32](github.com/RudyMartin/esp32/)** - private code for Labs
+- **[esp32](github.com/RudyMartin/rag-demo/)** - Camp Navigator: RAG Assistant (Flask + FAISS + Akash-Ready)
