@@ -50,4 +50,6 @@ As of June 8, 2025 (* changes)
    
 **Capstone Kits :**
   - SHT30 Temperature And Humidity Sensor
+  - Tweezers
+  - Small Screws
 
