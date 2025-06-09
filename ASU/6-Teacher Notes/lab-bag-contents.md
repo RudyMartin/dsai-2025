@@ -49,4 +49,5 @@ As of June 8, 2025 (* changes)
     - upgrade = 3W 4Ohm, Loudspeaker with Dupont Interface for Arduino & Small Projects
    
 **Capstone Kits :**
+  - SHT30 Temperature And Humidity Sensor
 
