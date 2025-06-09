@@ -52,4 +52,5 @@ As of June 8, 2025 (* changes)
   - SHT30 Temperature And Humidity Sensor
   - Tweezers
   - Small Screws
+  - Verical / Horizontal Micro Servo Mount for LEGO-Compatible Brick Systems 
 
