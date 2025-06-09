@@ -5,6 +5,7 @@ This page contains all presentation slides used in the DSAI 2025 course at ASU. 
 
 📁 GitHub Directory: [`2-Presentation Slides`](https://github.com/RudyMartin/dsai-2025/tree/main/ASU/2-Presentation%20Slides)
 
+
 ---
 
 ## 📋 Slide Decks by Session
@@ -18,6 +19,8 @@ This page contains all presentation slides used in the DSAI 2025 course at ASU. 
 | 1B      | 3️⃣   | TinyML & Agentic Systems: AI at the Edge     | How to optimize and deploy ML models on microcontrollers using FSMs, TinyML, and swappable agents. | [View Part 3](https://github.com/RudyMartin/dsai-2025/blob/main/ASU/2-Presentation%20Slides/TinyML_and_Systems_Part3_Final.pptx)                |
 | 1E      | 🎥    | Build Your Personal AI Study Partner       | Learn how to use ChatGPT as a learning companion in 10 minutes. | [Watch on YouTube](https://www.youtube.com/watch?v=jzjWrufn_Dc) |
 | 1E      | 💻    | Lab 1 – Practical Python + ChatBot         | Learn input, logic, and functions by building a simple AI chatbot. | [View Lab 1 Slide Deck](https://github.com/RudyMartin/dsai-2025/blob/main/ASU/2-Presentation%20Slides/Lab1_Python_Chatbot.pptx) |
+| 1G      | 🎯    | Computer Vision & Robotic Missions         | A foundational session introducing vision models, object detection, and the Nova → Vega → Orion mission track. | [View 1G Deck](https://github.com/RudyMartin/dsai-2025/blob/main/ASU/2-Presentation%20Slides/Session_1G_DSAI_2025_Deck_With_Header.pptx) |
+| 1J      | 🧪    | Lab 2 – Block Image Classifier             | Students built and deployed a custom model on ESP32, using Roboflow, camera inputs, and classification logic.  | [View Lab 2 Deck](https://github.com/RudyMartin/dsai-2025/blob/main/ASU/2-Presentation%20Slides/lab2_presentation.pptx) |
 
 
 ---
