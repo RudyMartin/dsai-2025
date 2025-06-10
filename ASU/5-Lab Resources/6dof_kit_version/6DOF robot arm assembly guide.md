@@ -4,6 +4,7 @@
 
 Welcome to the 6DOF robotic arm installation tutorial!
 If you're assembling a multi-jointed robotic arm for the first time, this guide will walk you through each step with helpful tips and screw specifications.
+![image](https://github.com/user-attachments/assets/9d06e00f-0747-4336-ba99-049d2385aff4)
 
 ---
 
