@@ -1,4 +1,4 @@
-Conveyour Video:
+Conveyor Video:
 
 [1](https://www.youtube.com/watch?v=9820lTkzw-g)
 
