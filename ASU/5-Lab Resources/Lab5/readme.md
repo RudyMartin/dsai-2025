@@ -3,7 +3,7 @@ Conveyor Video:
 - [1](https://www.youtube.com/watch?v=9820lTkzw-g)
 
 
-- [2]([https://www.youtube.com/watch?v=PjL9drjZAQU&t=1064s)
+- [2](https://www.youtube.com/watch?v=PjL9drjZAQU&t=1064s)
 
 
 - [3](https://www.youtube.com/shorts/zj0d0nFFpAo)
