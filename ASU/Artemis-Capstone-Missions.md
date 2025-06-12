@@ -100,7 +100,7 @@ Allow/reject object entry based on environmental readings and logic.
 * Combine physical and digital rules
 
 ---
-
+**not assigned**
 ### 🟨 **Team Orion Alpha – Forecast + Health Monitoring**
 
 **🎯 Mission Role:**
