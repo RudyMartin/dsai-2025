@@ -1,5 +1,7 @@
 # Debugging the PCA9685 C16 channel connection
 
+**HINT: This is about connecting 6 wires**
+
 It’s almost certainly just a power-rail mix-up if it not working:
 
 | PCA9685 pin | What it powers                          | Must be tied to…                                                                   | Typical voltage |
