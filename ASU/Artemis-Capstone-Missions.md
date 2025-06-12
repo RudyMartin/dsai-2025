@@ -29,6 +29,11 @@ Sort and route LEGO objects using servo mechanisms based on AI predictions.
 * Servo-controlled gates
 * Connected to detection output from LLM or camera
 
+**Thursday**
+* working robot arm
+* working conveyor
+* working alert destination
+
 ---
 
 ### 🟦 **Team Nova Beta – Logging & Display**
@@ -53,6 +58,10 @@ Log object detections and system messages; display results visually.
 * LLM messages / classification results
 * Optional audio confirmation or feedback
 
+**Thursday**
+* working speaker
+* working alert destination
+
 ---
 
 ### 🟨 **Team Vega Alpha – Sensor Dashboard**
@@ -76,6 +85,10 @@ Monitor conditions (temperature, humidity, motion); post alerts.
 * Motion detection for object arrival
 * Feed into Orion forecasting system
 
+**Thursday**
+* working sensors
+* working alert destination
+
 ---
 
 ### 🟩 **Team Vega Beta – Environmental Gate**
@@ -98,6 +111,11 @@ Allow/reject object entry based on environmental readings and logic.
 * Stop gate if “deck too full”
 * Only allow objects if temp < threshold
 * Combine physical and digital rules
+
+**Thursday**
+* working conveyor
+* working sensor
+* working alert destination
 
 ---
 **not assigned**
@@ -144,6 +162,11 @@ Enable robotic systems to communicate with speech or sound feedback.
 * Say “Deck C Full” when threshold reached
 * Respond to spoken command (forward/back/stop)
 * Announce forecasted issues audibly
+
+**Thursday**
+* working robot arm
+* working speakers 
+* working alert destination
 
 ---
 
